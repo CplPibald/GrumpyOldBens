@@ -1,0 +1,31 @@
+
+40-operatingsystem
+
+left coast where stealing is no longer illegal, but defending your home and family is
+left coats where grumpy old bens will always remain a meritocracy
+
+Windows vs Linux vs Apple
+  linux 3% apple 10% windows 87%
+  win10 46%; win7 33%; osx 10.14 5%; win8 4%; linux 3%; xp 2%; osx 10.13 2%
+
+Year of Linux on the desktop
+
+android vs AOSP vs ios vs winphone?
+  android 87%
+
+Design philosophy, 
+  paternalism - open vs locked down
+  ecosystem
+  app stores
+
+linux bike shedding:
+  systemd
+  code of conduct 
+   - abandon meritocracy
+   - judge people in OSS projects for what they do outside the project
+
+
+41-vice
+
+left coast where if you're not strung-out, unstable, and living in a tent, you're a second-class citizen
+left coast where the good drugs are

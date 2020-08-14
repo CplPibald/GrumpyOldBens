@@ -1,0 +1,96 @@
+85
+
+
+left coast where HTTPS TLS 1.3 is love
+
+
+ANTIFA is organized crime, with the foot soldiers doing the work and the bosses at the top financing, enabling, and
+directing it.  Why not prosecute them like the mob?
+
+Election shenanigans
+    New York screws up its mail-in voting
+        https://www.courthousenews.com/democrats-ask-for-rejected-absentee-ballots-to-be-counted/
+        Cuomo ordered every NY voter to automatically receive absentee ballot
+        Some didn't have postmarks on return envelopes
+        Two primary candidates filed class action
+        Elections commissioner whined in a brief that a recount is a lot of work
+        Same judge hearing the case (US Dist. Analisa Torres) ordered primary to happen after Cuomo tried to cancel it
+    Center for Voter Information
+        https://www.washingtonpost.com/local/virginia-politics/virginia-absentee-ballot-mixup/2020/08/06/5c4029ee-d764-11ea-930e-d88518c57dcc_story.html
+        https://www.thegatewaypundit.com/2020/08/vote-mail-chaos-liberal-group-sends-thousands-illegal-incorrect-pre-filled-absentee-ballot-request-forms-voters/
+        Founded by Democrat consultant Page Gardner
+        They send out pre-filled (name, address, etc) ballots to hundreds of thousands of people every election (Democrats?)
+        NC: New law says ballots can't be pre-filled - claim they forgot
+        VA: Return envelopes went to wrong address (eg: Fairfax city instead of Fairfax county) - blamed on a software oversight
+    Nevada mails 223k ballots to wrong (outdated) addresses
+        https://www.redstate.com/mike_miller/2020/08/07/voter-fraud-what-voter-fraud-nevada-mails-more-than-200k-ballots-to-wrong-addresses/
+        State asked all 223k people who received ballots incorrectly to return them.  Yeah, right.
+    West Virginia mail carrier charged with attempted election fraud
+        https://www.justice.gov/usao-ndwv/pr/pendleton-county-mail-carrier-charged-attempted-election-fraud
+        Altered absentee ballots, including changing at at least five from Democrat to Republican
+            ... claimed it was a joke
+    New Jersey charges two Paterson City Councilman with voting fraud
+        https://www.msn.com/en-us/news/us/j/ar-BB17Hw3Z
+    Philadelphia judge pleaded guilty of taking bribes to stuff Dem ballot boxes in 2014 and 2016
+        https://www.inquirer.com/news/voter-fraud-philadelphia-ward-leader-judge-of-elections-domenick-demuro-guilty-plea-20200521.html
+    Monterey County activist convicted after changing party registrations
+        https://sierranewsonline.com/update-woman-sentenced-to-year-in-jail-for-election-fraud/
+    Blog with links to voter fraud cases
+        https://lidblog.com/proof-voter-fraud/
+    Over 1200 documented voter fraud cases in last 40 years archived
+        https://www.heritage.org/voterfraud
+Even if there is no fraud, we'll never be able to prove that because the accountability infrastructure 
+    isn't in place and can't be by the election
+
+Qualcomm Snapdragon DSP chip vulnerability
+    https://blog.checkpoint.com/2020/08/06/achilles-small-chip-big-peril/
+    Check Point found a "large number of vulnerabilities" in DSP chips, dubbed "Achilles"
+    DSP are addon black-box chips that handle specific features, eg quick charge, multimedia, fingerprint, audio, etc
+    Vulnerabilities allow any DSP-controlled system to be used against phone owner, or simply shut off for DoS
+        also a place for malware to hide
+
+Anomaly Six
+    https://hothardware.com/news/us-gov-contractor-anomaly-six-tracking-500-mobile-apps
+    Puts SDK into "over 500 mobile applications"
+    ties to US swamp.  No privacy policy on website, according to article
+    founded October 2018, Alexandria VA
+    which apps?  What's the website?
+    hothardware and macobserver articles just source WSJ
+
+China firewall now blocking all TLS 1.3 traffic
+    https://www.zdnet.com/article/china-is-now-blocking-all-encrypted-https-traffic-using-tls-1-3-and-esni/
+    ESNI = encrypted server name indication
+    TLS 1.3 plus ESNI means MITM can't tell the server name being connected to
+    https traffic only allowed through if it uses TLS 1.1 or 1.2
+        which is cracked in GnuTLS, we pointed out on GOB 80
+
+Chicago tracking tourists via social media
+    https://www.foxnews.com/travel/chicago-social-media-monitor-travel-order-violators
+    For people violating quarantine orders from other states
+    (freedom of movement notes in 82.txt)
+
+Authoritarianism
+    Motorcycles in Phillipines require a plastic barrier between the riders
+        https://newsinfo.inquirer.net/1311410/police-extend-deadline-for-motorcycle-barriers-until-july-31
+    Victoria, AU goes full third reich
+        https://nofacemask.blogspot.com/2020/08/australian-police-smashing-windows-of.html
+        "In the last week, we’ve seen a trend in emergency if you like of groups of people, small groups, 
+            but nonetheless concerning groups who classify themselves as sovereign citizens, whatever that might mean. 
+            People who don’t think the law applies to them. We’ve seen them at checkpoints baiting police, not 
+            providing their name and address. On at least three or four occasions in the past week, we’ve had to 
+            smash the windows of people in cars and pull them out of there. So they could provide their details because 
+            they weren’t telling us where they were going. They weren’t adhering to the chief health officer guidelines.
+            They weren’t providing their name and their address.
+    Nashville city councilwoman Sharon Hurt wants attempted murder charges for people not wearing face diapers
+        https://www.washingtonexaminer.com/news/nashville-city-councilwoman-recommends-attempted-murder-charges-for-some-not-wearing-face-masks
+        “It seems to me that we have been more reactive, as opposed to proactive, and a little too late, too little. 
+            So, my thing is, maybe there should be legislation, stronger legislation, I don't know if Mike Jameson 
+            is ... can speak to it, but maybe there needs to be stronger legislation to say that if you do not wear 
+            a mask and you subject exposure of this virus to someone else then there will be some stronger penalty 
+            as it is in other viruses that are exposed,”
+        Mayor Jameson quickly pointed out that city council can't charge people or create criminal legislation
+
+Pandemic fraud
+    WHO gets bitchslapped for faking a pandemic (H1N1 swine flu, 2010 article)
+        https://www.forbes.com/2010/02/05/world-health-organization-swine-flu-pandemic-opinions-contributors-michael-fumento.html#5c92a63348e8
+    

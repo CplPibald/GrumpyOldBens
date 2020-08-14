@@ -1,0 +1,44 @@
+62
+
+left coast where I'm only happy when it rains
+left coast where my governor can beat up your governor
+
+Twitter now blocks swearing
+
+Gov Abbott of Texas issues executive order eliminating jail time if you violate stay-at-home rules
+    https://disrn.com/news/tx-gov-abbott-issues-executive-order-freeing-salon-owner-shelley-luther-from-jail
+    she was sentenced to 7 days and $7000 for "criminal contempt"
+
+Apple and Google issue guidelines for contact tracing apps
+    https://www.msn.com/en-us/news/technology/s/ar-BB13MuHs
+    phones constantly emitting bluetooth signals to find other phones
+        Any time you're around someone else for a time, it records the interaction
+        If you get the cooties, it will "anonymously" tell everyone you hung around
+    Apple and Google recommended processing the notifications on-device.  Countries want to process it centrally.
+    Have to do what they say, because only they can break the rules on background bluetooth
+
+City of Noida in India told to install app or else
+    https://www.buzzfeednews.com/article/pranavdixit/india-coronavirus-aarogya-setu-noida-contact-tracing
+    "Not installing the app will be considered as a violation of lockdown orders"
+    police will conduct random checks on roads and at borders to make sure app is installed
+    fine of up to 1000 rupees (around $13)
+    Indians were already denied entry into pharmacies and other businesses if they didn't have app
+
+Security holes in India's app
+    https://medium.com/@fs0c131y/aarogya-setu-the-story-of-a-failure-3a190a18e34
+    - no host validation = can spoof bluetooth signals and steal any file from phone
+    - no location validation = can use the app to find all "sick" people within 10km from any location in India
+        number of infected/unwell/bluetoothpositive/appinstalled
+    Official response from India's gov't: "Nothing to see here."
+
+COVID tracker app tracker
+    https://www.technologyreview.com/2020/05/07/1000961/launching-mittr-covid-tracing-tracker/
+
+COVID field hospitals dismantled
+    https://www.npr.org/2020/05/07/851712311/u-s-field-hospitals-stand-down-most-without-treating-any-covid-19-patients
+    Built at a cost of $600M of your tax money
+    Most never treated a patient
+
+txt from census bureau
+    "Official message from the U.S. Census Bureau: We are asking you to complete a survey about how the coronavirus pandemic has affected your household.
+    The results will help federal officials guide America's economic recovery.  Your answers are confidential."

@@ -1,0 +1,52 @@
+70
+
+left coast where CHAZ has been officially declared a terrorist organization, and eagerly awaits its CIA funding
+
+left coast where the marquee and blink tags are still web standards
+
+
+"Expert warns China's Three Gorges Dam in danger of collapse"
+    https://www.taiwannews.com.tw/en/news/3951673
+
+Health effects of habitual coffee drinking
+    https://www.mdpi.com/2072-6643/12/6/1842
+
+Control Flow Enforcement Technology in Intel CPUs
+    https://arstechnica.com/information-technology/2020/06/intel-will-soon-bake-anti-malware-defenses-directly-into-its-cpus/
+    creates a second non-writable "control stack"
+    defeats Return-Oriented Programming
+        which was developed to beat Executable Space Protection  (Data Execution Prevention)
+    ASLR defeats ROP, but it only takes one non-ASLR module to break the whole program
+        Or via a pointer leak vulnerability
+    Previous security features: Software Guard eXtensions
+        CPU encrypts secure data before writing to RAM.  Defeated by spectre/meltdown (latest variation just a week ago)
+    and Converged Security and Management Engine = home to TPM, UEFI authentication, and bitlocker
+
+AMP is destroying the web
+    Google hosts your page, with stripped down CSS on their own CDN
+        Google's own standard, outside W3C.
+        CSS limited in size, only inline.  No custom JS.  All images lazy loaded
+        "giving up sovereignty"
+            have to submit changes.  Less control.  And they change elements for "speed"
+            all pages look the same
+        Can't track with any analytics except Google's own tools
+        Makes domain/IP filtering nearly impossible
+    Changes internet from distributed peer-to-peer model to an everybody-to-google model
+    https://markosaric.com/google-amp/
+    AMP exists because sites are slow to load, especially on mobile
+        75% because of 3rd-party requests, 25% because of javascript
+        Google provides guides to speed up 3rd party requests
+        but most of those requests are analytics, ads, social media widgets, trackers, and crap.
+    Don't use Google search.  Qwant and DDG don't rank AMP sites.  Bing makes you jump through hoops
+    Don't use Chrome browser.  Firefox defaults to blocking trackers
+    As a user, filter out useless elements
+        ad blocker, umatrix/noscript, pihole
+    As a site owner, don't use AMP
+    List of top 3rd party domains (on markosaric page)
+    Case study 
+        https://kinsta.com/blog/disable-google-amp/
+        mobile (sales) leads dropped by 59%, newsletter sign-ups by 17%, and account creations by 11%
+        includes instructions how to remove it from your site
+
+
+bayh-dole act of 1980 allowed universities to patent vaccines

@@ -1,0 +1,85 @@
+75
+
+left coast where cleaning up graffiti is a hate crime
+left coast where I'll stop ranting when the world becomes sane again
+
+
+
+Twitter potential data breach
+    https://www.technewsworld.com/story/86731.html
+    self-serve advertising platform ads.twitter.com and analytics.twitter.com
+    name, email, phone, 4 digits of CC# was cached in browser
+    enough to mount a phishing attack
+
+Blizzard allows free sex changes for WoW characters
+    https://www.technewsworld.com/story/86731.html
+    part of Shadowlands expansion, at in-game barbershop
+    used to cost $15
+
+Lady formerly known as Antebellum sues Lady A the blues singer
+    https://www.usatoday.com/story/entertainment/music/2020/07/08/5401979002/
+    seeking declaratory judgement that they don't infringe trademark
+
+The people vs. the police
+    https://www.msn.com/en-us/news/politics/cornyn-cruz-reject-democrats-e2-80-99-push-to-gut-qualified-immunity-for-police/ar-BB15IKtq
+    Dems want to end qualified immunity
+    John Cornyn and Ted Cruz want to hold city officials responsible for riots
+    End civil forfeiture while we're at it
+Lawsuit against Durkan, Inslee over CHAZ
+    https://www.foxbusiness.com/money/chop-seattle-class-action-lawsuit-bozeman
+    "more than 20 people"
+    They will argue soverign immunity, but that doesn't apply to states if plaintiffs can prove
+        the act was unconstitutional or in bad faith
+    Lincoln County v. Luning 1890: Counties and municipalities are not entitled to soverign immunity
+
+SJWs at Ford ask company to stop making police interceptors 
+    https://www.theverge.com/2020/7/8/21317894
+    CEO Jim Hackett says no.
+        "The issues plaguing police credibility have nothing to do with the vehicles they’re driving."
+
+Reddit app caught using iOS clipboard exploit
+    https://www.theverge.com/2020/7/4/21313214/
+    caught by beta 14 clipboard watchdog (as discussed on GOB 72)
+    “We tracked this down to a codepath in the post composer that checks for URLs in the pasteboard
+        and then suggests a post title based on the text contents of the URL,”
+    "releasing a fix" on July 14
+LinkedIn caught using iOS clipboard exploit
+    "The app copies clipboard contents in order to perform an “equality check” between what a user 
+        is typing and what’s in their clipboard"
+
+Supreme Court: States can punish faithless electors
+    https://www.rt.com/usa/493965-supreme-court-faithless-electors-2020/
+    Chiafalo v. Washington
+    WA fined three electors $1000 each who refused to vote for Clinton in 2016 (voted for Colin Powell)
+    Colorado had three electors who wanted to vote for Kasich, but secstate removed elector and nullified vote
+    States have the power to bind electors prior to them being chosen, and to punish if they break with popular vote
+    Constitution, article II: electors are appointed "in such manner as the legislature thereof may direct"
+    Unanimous case.  ABC and Fox both say this is a good thing (only CNN has reservations)
+    Uniform Law Commission
+
+Supreme Court sells Oklahoma
+    https://abcnews.go.com/Politics/story?id=71697590
+    McGirt v. Oklahoma
+    Creek Nation reservation, 1852, "so long as they shall exist as a nation and continue to occupy the country hereby assigned to them"
+    1856 treaty: "no portion would ever be embraced or included within or annexed to any territory or state"
+    Major Crimes Act of 1885 places certain crimes under federal jurisdiction if committed by native in native territory
+        murder, manslaughter, rape, assault with intent to kill, arson, burglary, larceny,
+        kidnapping, maiming, incest, sexual abuse, assault on a minor, child abuse/neglect, robbery
+    means that OK state gov't has no authority to prosecute a whole class of people in most of state, including Tulsa
+    Tenth amendment implications
+    Headlines: 
+        Guardian: "Supreme court declares large part of east Oklahoma to be Native American land"
+        ABC: "Supreme Court holds much of Oklahoma is Native American land"
+        NYT: "Landmark Supreme Court Ruling Affirms Native American Rights in Oklahoma"
+
+San Francisco - proposed CAREN act
+    https://thehill.com/homenews/state-watch/506384-san-francisco-official-to-introduce-caren-act-to-target-racially
+    Caution Against Racially Exploitative Non-emergencies
+
+City of Bayannur in inner Mongolia region issues a bubonic plague warning through end of 2020
+    https://www.theblaze.com/news/china-bubonic-plague-warning-alert
+    forbids hunting and eating animals that could carry plague
+    be on the lookout for any sick or dead marmots
+    four cases
+    only a week earlier, China "discovered" a new swine flu to be our next pandemic: G4 strain of H1N1
+

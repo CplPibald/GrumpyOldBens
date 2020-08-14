@@ -1,0 +1,62 @@
+84
+
+left coast where the people don't want information, they just want to stay scared and docile
+left coast where I'm carefully cultivating my current crop of malware
+
+
+people don't want information, they want to be scared
+    "Being scared gives us a sense of adventure. Because we don't have true masculinity leading communities into a story
+    larger than potlucks, bingo games, and not offending people, we have a world full of people looking for meaning in
+    their life. That's a ripe field for "You will save the world if you weark a mask!" It gives people meaning and the
+    fear gives a sense of adventure
+
+Mask Holes
+    Ontario nurse union pushes back on healthy people wearing masks (2015)
+        https://www.cbc.ca/news/canada/toronto/u-1.3222702
+        Nurse union went to arbitration against 30 Ontario hospitals
+            Hospital policy required anyone who didn't have flu vaccine to wear unfitted surgical mask for entire flu season
+        "They were basically coercing and shaming nurses into getting the influenza vaccine if they individually 
+            chose not to take it. They made them all wear masks and they had little stickers on their 
+            name tag that everyone knew meant 'I don't have my vaccine."
+        policy made private medical info (vaccination) public
+        Arbiter found that policy was "a coercive tool" to force health-care workers to get vaccinated
+    Pleuritis, or pleurisy = inflammation of membranes around lungs and chest cavity
+        Symptom is a sharp chest pain while breathing, which goes away if you hold your breath or apply pressure
+        caused by viral and bacterial infections, tuberculosis, chest wounds, or chronic hypoxia
+        ... germ infested face diaper
+    Child abductions up 105% ??
+
+Shithole cities
+    Cuomo begs rich to return to NYC from their second homes, to be taxed and help rebuild city
+        https://www.yahoo.com/news/governor-cuomo-begs-wealthy-yorkers-150935434.html
+    Protesters sue Seattle claiming they need "expensive" protective gear to protest amid tear gas
+        https://www.kiro7.com/news/local/p/EY4KISLXCRGETOMIIEVEFQTKCY/
+    Minneapolis PD sends out tips for citizens to give up to crime
+        https://www.dailywire.com/news/do-as-they-say-minneapolis-police-tell-residents-to-be-prepared-to-give-up-personal-belongings-to-robbers
+        - Do not walk alone
+        - Be hyper-aware of your surroundings at all times – pay attention!
+        - Carry only items you need, and carry less cash
+        - Be prepared to give up your cell phone and purse/wallet
+        - Have keys already in your hand as you approach your car
+        - Despite all our efforts, robberies may still occur! Do not argue or fight with the criminal. Do as they say. Your safety is most important!
+        - Be a good witness. When you call 911, be prepared to answer many questions.
+    Cities that are defunding police
+        NYC, LA, SF, DC, Baltimore, Portland, Philadelphia, Hartford, Norman OK, SLC, and Minneapolis
+        Austin and Seattle narrowly rejected
+
+Adobe Content Authenticity Initiative
+    https://petapixel.com/2020/08/04/this-is-how-adobes-upcoming-photo-authenticity-system-will-work/
+    "cryptographically sealed and verifiable" metadata
+    "Assertions are cryptographically hashed and their hashes are gathered together into a claim. A claim is a 
+        digitally signed data structure that represents a set of assertions along with one or more cryptographic hashes 
+        on the data of an asset.
+    They want it in cameras and smartphones, and all photo editing software to create new CAI tag with each edit
+        Widespread adoption means people will become suspicious of untagged photos 
+        if they can do that, can they also enforce copy/edit restrictions and other DRM?
+
+Windows Defender now flags blocking telemetry using HOSTS file as malware
+    https://www.bleepingcomputer.com/news/microsoft/windows-10-hosts-file-blocking-telemetry-is-now-flagged-as-a-risk/
+    SettingsModifier:Win32/HostsFileHijack
+
+
+

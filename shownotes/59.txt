@@ -1,0 +1,76 @@
+59
+
+left coast where the air is fresh, the grill is hot, and I've got nothing to complain about
+well there's pollen
+
+left coast updating your experience means logging off and leaving the house
+
+where virtue signalling is its own reward
+
+ok doomer
+
+Fun fact: Medicare and insurance payments are higher if the patient is diagnosed with COVID. 
+  Therefore, hospitals have a financial incentive to diagnose as many cases as possible.
+  State governors also have an incentive.  If they overreacted for no good reason, they might not get re-elected.
+    https://www.nbcnewyork.com/news/local/nyc-reports-thousands-of-additional-deaths-city-toll-tops-10k-despite-signs-of-hope/2374646/
+  COVID deaths are anything that "are assumed to have caused, or contributed to" a death
+
+EA kills off Tetris app because they don't want to release updates
+  Tetris Premium and Tetris Blitz stop working 21 Apr
+  https://www.gizmodo.co.uk/2020/01/you-soon-wont-be-able-to-play-eas-official-tetris-game-on-your-iphone/
+  https://i.redd.it/x4m8g9o7dsr41.jpg
+If your software doesn't have an offline mode that can be used without dialling the mothership, you don't own it.
+  Servers could go down.  Company could go out of business.  Could get banned (even by accident)
+  The only function steam client does is update
+
+ICANN selling .org domain 
+  to Ethos Capital for $1.1B (founded by Erik Brooks)
+    shell companies wrapped in shell companies, all private.  "Public Interest Registry"
+  Turns .org (usually used for nonprofits) into a for-profit registry.  Org is second largest behind com
+  Included in the deal is a "Public Interest Commitment" (PIC)
+    = promise to not increase price of domains by more than 10%/yr for first 8 years (of a 10yr contract)
+    "Stewardship council" with control over aspects such as "censorship and freedom of epression" policies and "use of registrant and user data"
+      Ethos picks five of seven members.  Other two selected by a nominating committee chosen by Stewardship Council
+  ICANN put off final decision until May 4 after a letter from California attorney general
+  https://www.keypointsabout.org/pressrelease
+  https://www.theregister.co.uk/2020/04/17/icann_california_org_sale_delay/
+  2017 change of ICANN policy allows registrars to set censorship policies
+
+"right" to safety
+  NJ Gov Phil Murphy on Tucker says he is suspending the Bill of Rights
+     why are we not rioting in the streets over this?
+  https://invidio.us/watch?v=dG7SglDjeOM
+  Public have elevated "safety" above all other ideals, including liberty.
+  freedoms of religion, speech, and to peacably assemble ARE explicitly enumerated in the Constitution
+    "public safety", not listed in the Constitution, not considered by that document to be as important (Public defense is mentioned)
+    If you aren't willing to follow the Constitution, let's change it.  Or throw the whole thing out and have revolution
+  Modern concept of safety is a positive right.
+    negative = no one should harm you
+    positive = protection from things we can't control
+  Safety is impossible to achieve
+    cops response time
+    police/politicians/bureaucrats are not held liable when they don't protect us
+    and yet they keep removing our ability to do it ourselves
+  Safety as an ideal is incompatible with a free society.
+    Asimov three laws
+        A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+        A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
+        A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.
+  I would rather be free than safe
+    Obviously both would be better
+    but with freedom I can take responsibility for my own safety.  
+    Without freedom, I am entirely dependent on others who have no incentive to protect me.
+
+fire in a crowded theater
+  original holmes ruling thrown out in Brandenburg v. Ohio
+  Brandenburg test = "directed to inciting or producing imminent lawless action" AND "likely to incite or produce such action"
+  However, in WA, we have RCW 9A.84.040 https://apps.leg.wa.gov/RCW/default.aspx?cite=9A.84.040
+    (1) A person is guilty of false reporting if with knowledge that the information reported, conveyed, or circulated is false, he or she initiates or circulates a false report or warning of an alleged occurrence or impending occurrence of a fire, explosion, crime, catastrophe, or emergency knowing that such false report is likely to cause evacuation of a building, place of assembly, or transportation facility, or to cause public inconvenience or alarm.
+    (2) False reporting is a gross misdemeanor.
+
+Deep dive on Zoom client app security
+  https://dev.io/posts/zoomzoo/
+  found SQL injection vulnerabilities, buffer overflows
+  links to very old version of OpenSSL and curl with known vulnerabilities
+  Crash reports send personal info from registry and screen capture
+  and it's a 32-bit app

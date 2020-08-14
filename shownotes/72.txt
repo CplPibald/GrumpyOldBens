@@ -1,0 +1,46 @@
+72
+
+from the 76th most populous county in the US, here on America's left coast
+
+from just outside the Seattle left coast autonomous zone, but time will tell if it's far enough outside
+
+(Will county IL is #98)
+
+From the total lack of surprise dept: TikTok app is spying on you
+    https://www.tomsguide.com/uk/news/ios-14-just-caught-tiktok-spying-on-millions-of-iphone-users
+    iphone clipboard vulnerability has been known since February
+        tiktok was fingered then, but denied it
+    iOS 14 beta has a security watchdog - tells users when an app reads the clipboard
+        Now tiktok says it was an anti-spam feature
+        Still no fix, but everyone expects tiktok will change their app  (but only on ios)
+    Apple has a "Universal clipboard" function, so anything you copy on mac or ipad can be read by iphone apps
+        password managers?
+
+Microsoft closing all retail stores
+    https://www.ibtimes.com/microsoft-close-all-retail-stores-permanently-3002383
+    focusing on digital stores
+    "stores were likely inspired by Apple stores"  aka ripped off
+    realized after everything got closed by the lockdown, that they didn't need them
+
+Windows 10 mail randomly losing gmail messages
+    https://hothardware.com/news/windows-10-mail-nuking-gmail-here-quick-fixes
+    There is a fix: Get off gmail.  They're spying on you and selling everything in your mail to the highest bidder
+    other fix: create a new filter to "never send to spam"
+
+Gov't planting cyanide bombs
+    https://www.theguardian.com/environment/2020/jun/26/cyanide-bombs-wildfire-services-idaho
+
+
+
+
+
+24. Psychologists use the term “socialization” to designate the process by which children are trained to think 
+and act as society demands. A person is said to be well socialized if he believes in and obeys the moral code of
+his society and fits in well as a functioning part of that society. 
+
+25. The moral code of our society is so demanding that no one can think, feel and act in a completely moral way. 
+For example, we are not supposed to hate anyone, yet almost everyone hates somebody at some time or other, 
+whether he admits it to himself or not. Some people are so highly socialized that the attempt to think, feel 
+and act morally imposes a severe burden on them. In order to avoid feelings of guilt, they continually have 
+to deceive themselves about their own motives and find moral explanations for feelings and actions that in 
+reality have a non-moral origin. We use the term “oversocialized” to describe such people. [2]

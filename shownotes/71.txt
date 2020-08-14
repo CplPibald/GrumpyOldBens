@@ -1,0 +1,49 @@
+71
+
+left coast where "separate, but equal" is making a comeback
+
+
+
+newproject2 canceled
+
+Kansas cropduster flies under influence
+    http://va.news-republic.com/a/6838573637163811334
+
+Lincoln County, Oregon mask requirement, but only for whites
+    https://nypost.com/2020/06/23/oregon-county-issues-face-mask-order-exempting-non-white-people/
+    since rescinded
+    https://apnews.com/c52ce02c3d98deb2b3ef74ef0780456c
+    “We are shocked and appealed at the volume of horrifically racist commentary we have received regarding this 
+        policy exemption. ... All this only a month after George Floyd’s death.”
+
+Windows 7 gets one last update
+    https://www.ghacks.net/2020/06/22/microsoft-pushes-the-new-microsoft-edge-to-unsupported-windows-7-systems/
+    https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-edge-to-windows-7-via-windows-update/
+    Surprise, it's Microsoft Edge
+    via Windows Update.  Marked as "important"
+        after install, also pinned to taskbar and shortcut on desktop
+
+Lawful Access to Encrypted Data Act
+    https://www.judiciary.senate.gov/press/rep/releases/graham-cotton-blackburn-introduce-balanced-solution-to-bolster-national-security-end-use-of-warrant-proof-encryption-that-shields-criminal-activity
+    https://www.cnet.com/news/republicans-push-bill-requiring-tech-companies-to-help-access-encrypted-data/
+    I bash on Dems a lot, and before yet another person calls me a Republican, here are some Republicans that need to be booted:
+        Lindsey Graham (SC), Tom Cotton (AR), and Marsha Blackburn (TN)
+    yet another attempt to require tech companies to insert backdoors
+        presumably a response to Apple's 2016 refusal to backdoor the iphone
+        also complained about whatsapp
+    - once a warrant is obtained, requires device manufacturers and service providers to assist law enforcement accessing encrypted data
+    - AG can order service providers and dev mfrs to report on their ability to comply
+    "Directs the Attorney General to create a prize competition to award participants who create a 
+        lawful access solution in an encrypted environment, while maximizing privacy and security."
+
+Boston bans use of facial recognition
+    https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban
+    Prohibit any city official from obtaining facial surveillance data directly or through third parties
+    "It has an obvious racial bias and that's dangerous, but it also has sort of a chilling effect on civil liberties"
+Facial Recognition and Biometric Technology Moratorium Act
+    https://www.cnet.com/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/
+    Ed Markey (MA) and Jeff Merkley (OR)
+    blocks federal agencies or officials to acquire, possess, access, or use any biometric surveillance system, or 
+        any information derived from one
+    blocks federal financial assistance to any state agency that uses it
+

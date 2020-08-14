@@ -1,0 +1,65 @@
+80
+
+from the city hosting the impromptu Democrat National Convention here on America's left coast
+
+like a kidney stone, this too shall pass
+
+
+CVE-2020-13777 - vulnerability in GnuTLS
+    https://anarc.at/blog/2020-06-10-gnutls-audit/
+    session tickets
+    Passive cleartext recovery attack in TLS 1.0 to 1.2
+        attack must be active in TLS 1.3, which still doesn't have wide adoption
+    Effectively turns all HTTPS back into HTTP
+    "many eyes" fallacy
+    Affected: Any server that uses GnuTLS (fixed in 3.6.14 released last month)
+        apt, webdav, curl/wget, git, mutt, weechat, mariadb
+        mandos (full disk encryption) - author replied to say only OpenPGP data
+        systemd uses it
+    Not affected: 
+        apache, gnupg, python, nginx, openssh
+    SSL/TLS history of bad vulnerabilities
+        Most widely publicized was heartbleed in 2014, a buffer overrun in OpenSSL, pushed everyone to require TLS 1.2
+
+Over 4000 databases deleted by "meow" attack
+    https://www.bleepingcomputer.com/news/security/new-meow-attack-has-deleted-almost-4-000-unsecured-databases/
+    Quick reminder to secure your databases
+    Someone is wiping the data from unsecured internet-facing databases and replacing it with the text "meow"
+    mostly elasticsearch and mongodb
+    Attacks coming from a ProtonVPN IP
+
+
+Green energy
+    Solar = max about 1kW/m2, modern panels are about 15% efficient
+    Wind = about 2MW/turbine, or 500MW per sqkm max
+    nuclear = each plant produces about 1GW
+    hydro = Bonneville Dam about 1.2 GW
+    gas = about 560Mw/plant
+Windmills
+    - kill about 50k birds per year, compared to 8 million from glass panes, and 4 million from cats
+    - can't recycle fiberglass resin blades, but super hard to cut up
+    Betz's law
+LFTR = molten salt reactor
+    liquid fluoride thorium reactor
+    can't have a nuclear meltdown.  Controls keep it hot; If all control systems break, it just cools down.
+        if it fully cools, you write off the reactor
+    Problems:
+        - LF is extremely corrosive.  Design flaw could lead to water pooling under reactor.  Casing cracks, and dumps
+        molten salt on it, flash boils water, and throws radioactive fluorine salts all over
+        - Boron gas leak
+        - waste = political problem, not engineering.  There's not actually that much, and we know how to store it.
+            even then, after 100 years with unlimited energy, I bet we could find something better to do with it
+    Fukushima = one worker died from radiation, vs 20k died from tsunami
+Chehalis Dam?
+    https://www.kuow.org/stories/inslee-puts-proposed-chehalis-river-dam-on-hold-calls-for-non-dam-options
+
+
+Bonus COVID shizz
+    https://medium.com/@vernunftundrichtigkeit/coronavirus-why-everyone-was-wrong-fce6db5ba809
+
+anti-drug company executive orders
+    Supreme Court seriously improved exec orders by denying turnaround on DACA orders
+    - insulin
+    - drugs from Canada (Bernie)
+    - pharmacy benefit managers = middlemen
+    - fourth order??

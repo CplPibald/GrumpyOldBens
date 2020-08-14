@@ -1,0 +1,48 @@
+30-cars
+
+Where god is in our utopia, but the devil's in the details
+
+= Electric cars
+ Battery / Environmental impact
+ Rare earth from China
+ Tesla - silicon valley company
+ Hybrids
+ Dyson shut down their EV project
+ Amazon electric vans ("Climate pledge for net zero carbon by 2040")
+ proprietary charging stations
+Brands - market is getting crowded
+ Hyundai Kona Electric
+ Chevy Bolt/Volt
+ Volkswagen e-golf
+ Tesla
+ Nissan, Mitsubishi, Vauxhall, Ford, everyone
+
+= self-driving
+ technology is not ready
+ slow government permitting
+Trust (accidents)
+ control
+ trolley problem
+ Humans are still better at pattern-matching than computers
+It's $year, where are my flying cars?
+ dangerous
+ unnecessary?
+ FCC would never allow it
+The end of car ownership
+ fleets (Uber)
+ If it gets good, humans won't be allowed to drive
+
+= GPS addiction
+ Navigation is a lost art
+ distracting
+ GPS fails
+  driving into ocean
+  bus routes across Atlantic
+  private driveways, residential streets
+ Dependency on tech 
+  what happens if the system goes offline due to attack?
+
+= distracted driving
+ Mobile device addiction
+ Back in my day, no cell phones
+ dashcam

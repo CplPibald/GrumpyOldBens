@@ -1,0 +1,44 @@
+67
+
+left coast, where not voting third-party is throwing your vote away
+
+left coast where it's not illegal as long as it's woke
+
+
+Contact Tracing (from the i-told-you-so dept)
+    Minnesota using contact tracing to track protesters
+        https://bgr.com/2020/05/30/minnesota-protest-contact-tracing-used-to-track-demonstrators/
+    NYC has started.  Paying 600 people $65k/yr to track citizens
+        https://www.cbsnews.com/news/new-york-contact-tracing-coronavirus-positive/
+    "hackers" spoofing UK contact-tracing calls from gov't by spoofing SMS
+        https://www.theregister.com/2020/06/02/contact_tracing_spoofable/
+    Google said they'd ban covid apps that use location
+        https://www.lifewire.com/a-4844066
+    Google rolls out contact tracing OS.  Here's how to disable
+        Settings, google services, look for "COVID 19 Exposure Notification".  Tap usage and diagonstics, and turn off
+        Check again regularly, because Google likes to turn shit back on.
+    Google pulls "remove china apps" from play store
+        https://techcrunch.com/2020/06/02/remove-china-apps-google-play-store/
+
+NetMarketShare Windows 10 adoption numbers.  Win7 still with a quarter of PCs.  Linux up 20%
+    https://www.netmarketshare.com/operating-system-market-share.aspx
+
+Zoom to enable end-to-end encryption for paying customers
+    https://www.theguardian.com/technology/2020/jun/03/zoom-privacy-law-enforcement-technology-yuan
+    "Free users for sure we don’t want to give [end-to-end encryption] because we also want to work
+     together with FBI, with local law enforcement in case some people use Zoom for a bad purpose"
+        - CEO Eric Yuan
+
+EARN IT act
+    https://www.eff.org/deeplinks/2020/01/congress-must-stop-graham-blumenthal-anti-security-bill
+    would strip sites' sec 230 if they do not adhere to rules for removing child exploitation content
+    Establish a "national commission on online child exploitation prevention"
+    Gov't would recommend "best practices for providers of interactive computer services regarding the
+        prevention of of online child exploitation conduct"
+    Gives AG and Justice dept the power to unilaterally ban all encryption or force backdoors
+        which AG Barr has called for many times
+    Change to civil suits: Plaintiff would no longer be required to prove that a defendant knew about
+        an infringement.  Would only have to prove defendent acted "recklessly"
+
+List of companies that virtue signal (since deplatformed)
+    https://medium.com/@communismkills/here-are-the-companies-that-support-antifa-black-lives-matter-and-want-you-dead-1d79b1845f59

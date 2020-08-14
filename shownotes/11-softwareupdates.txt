@@ -1,0 +1,28 @@
+"programmers are lazy"
+
+Way back in the day (we always have to have a "back in the day") people would completely test their software before shipping.
+
+Now companies ship beta software knowing they can always patch it later
+
+Users are the testers now.
+
+Testing is expensive
+
+might mention MSFT laying off all the testers in Windows when they started Win10.  Maybe.  It's a bit close to home, since I was one such tester.
+
+Rebooting the OS because of Office "important" updates
+ - replace font that has swastika
+ - windows live writer unable to post a draft
+ - Reinstalling Adobe flash
+
+Timing of updates
+
+how they seem to happen only when it's inconvenient
+
+my personal xbox experience
+
+"The reboot problem"
+ How to apply updates without a restart
+ 
+ 
+ Consent dialogs

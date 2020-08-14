@@ -1,0 +1,83 @@
+56
+
+left coast where we're sheltering out of place
+left coast where it's not the destination they won't let you visit, it's the journey you aren't allowed to take
+
+
+windows RCE vulnerability
+    windows 7 and above in Adobe Type Manager Library, which improperly handles OpenType fonts (OTF)
+    - attack via convincing user to open specially crafted document, or viewing in preview pane
+    - In current Win10, preview pane is run in appcontainer (fontdrvhost.exe).  No EoP
+    - no patch yet (expected next Reboot Tuesday, 14 Apr)
+    - workarounds:
+        disable preview pane
+        disable webclient service to block WebDAV attacks
+        Delete/rename ATMFD.DLL on Win7/Win8 and older win10 (before 1709)
+    https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/adv200006#march-23-flaw
+    https://www.theverge.com/2020/3/23/21191611/microsoft-zero-day-windows-exploit-remote-code-execution
+
+Tourism to Marianas Trench
+    - Texas businessman Victor Vescovo takes guests
+    - $750k per person
+    - [ship] comforts include a chef, mess hall, and a rooftop bar for “strategic thinking exercises and international alcohol evaluations,” as McCallum puts it.
+    - 220lbs/person, claustrophobic, and they put you to work collecting samples
+    https://www.bloomberg.com/news/articles/2020-03-27/eyos-submarine-dive-to-challenger-deep-bottom-mariana-trench
+
+HIPAA suspended during crisis
+    - HHS suspending HIPAA during COVID scare, allowing health care providers to use facetime, skype, messenger, hangouts
+    - Note: NONE of these value your medical privacy.  Expect your personal health data to leak.
+    https://www.hhs.gov/hipaa/for-professionals/special-topics/emergency-preparedness/notification-enforcement-discretion-telehealth/index.html
+
+census
+  Census bureau is urging people to take online census "to save tax money"
+    - gov't wants to save?  that'll be the day
+    -  rub some ghost pepper on my nose and take a swig of whiskey down my windpipe right before I answer the door
+  Unidentified database
+    - random database comprising 800Gb of personal user info, and more than 200M detailed records
+    - Unsecured on google cloud server
+    - nobody knows who owns it
+    - wiped by an unidentified party (but copied who knows how many times)
+      - left a link to a website where a dancing pirate urges visitors to fix their security
+    - certain codes used were specific to census bureau
+    - no SSNs, but they did have credit scores.  Marketing company?
+    https://cybernews.com/security/report-unidentified-database-exposes-200-million-americans/
+
+corona
+    NYT releases dataset of confirmed cases
+    https://www.nytco.com/press/the-new-york-times-releases-its-dataset-of-u-s-confirmed-coronavirus-cases/
+    Social Distancing scoreboard
+        - Unacast collects location data from games, shopping, utility apps - all stuff that goes to ad companies
+    https://web.archive.org/web/20200326191332/https://www.washingtonpost.com/technology/2020/03/24/social-distancing-maps-cellphone-location/
+    https://web.archive.org/web/20200326171822/https://www.unacast.com/covid19
+
+Zoom meeting software
+    - zoom app (it's an app so obv collects OS, IP, location, device stats)
+    - privacy policy: "Zoom does use certain standard advertising tools which require Personal Data"
+        * collects: Name, physical address, job title/employer, facebook profile info, deviec info
+        even if you don't have an account and are only connected as a guest
+    - no UI for opt-out on web or in app
+    - don't need to sell data during this crisis; they're already the hottest product out there
+    - adtech isn't advertising, it's direct marketing.  An evolved form of junk mail
+    https://blogs.harvard.edu/doc/2020/03/27/zoom/
+    - Apps use facebag SDK, so send data to fecesbook
+    - Zoom's privacy policy doesn't mention fuckbook at all
+    https://www.vice.com/en_us/article/k7e599/zoom-ios-app-sends-data-to-facebook-even-if-you-dont-have-a-facebook-account
+    - "Attention tracking" feature: Host can see if zoom app isn't in focus
+    - admins can see any recorded call
+    - [OTHER TOOL] Slack keeps messages for as long as the company exists by default (bosses can set shorter retention period)
+        - older than last 10k messages will scroll off and not available to users, but still to slack, law enforcement, or hackers
+    https://www.eff.org/deeplinks/2020/03/what-you-should-know-about-online-tools-during-covid-19-crisis
+
+rights
+  Column: Here's what's wrong with Gov. Newsom's stay-at-home order: It's a legal mess
+    people are going to start suing.
+    not a "quarantine"; that only locks down people who are infected
+    "For starters, the order, like others around the country, is the most expansive, even breathtaking, assertion of government power in at least 50 years in the U.S. It directly impinges on a series of fundamental constitutional rights, including the rights of association, travel and assembly."
+    Supreme court has said that for gov't to restrict rights, it must have "compelling interest" and using the "least restrictive" means
+    https://www.yahoo.com/news/column-heres-whats-wrong-gov-192441223.html
+  Louisiana man arrested for posting to facebag
+    Quoted World War Z, in which zombie virus started in China
+    "SHARE SHARE SHARE ! ! ! ! JUST IN: RAPIDES PARISH SHERIFFS OFFICE HAVE ISSUED THE ORDER, IF DEPUTIES COME INTO CONTACT WITH ‘THE INFECTED’ SHOOT ON SIGHT….Lord have mercy on us all. #Covid9teen #weneedyoubradpit"
+    Rapides sherriff's office arrested him and took him into custody.
+    lawyers salivating to take his unlawful arrest case
+    https://lawandcrime.com/covid-19-pandemic/man-charged-with-terrorism-for-posting-brad-pitt-coronavirus-movie-comment-on-facebook/

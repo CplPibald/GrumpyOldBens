@@ -1,0 +1,36 @@
+63
+
+left coast where it's 35 miles to Seattle, we've got an expensive tank of gas, we're going half the speed limit, it's raining, and we're wearing sunglasses
+left coast where you don't have to be an expert to be completely, undeniably wrong
+
+Inslee requires restaurants in WA that want to reopen to track customers
+    https://www.seattletimes.com/life/food-drink/to-reopen-washington-state-restaurants-will-have-to-keep-log-of-customers-to-aid-in-contact-tracing/
+    "So wait..leftists are OK with forcing people to show ID to eat at a restaurant but not OK with people having to show ID to vote?"
+        contradiction, like letting people out of prison, but then throwing business owners in
+        or you can knowingly pass HIV to someone in CA, but have to wear a mask
+NZ Restaurant worker uses contact tracing details to hit on woman
+    https://www.newshub.co.nz/home/new-zealand/2020/05/auckland-woman-creeped-out-after-restaurant-worker-uses-her-contact-tracing-details-to-hit-on-her.html
+    yet another unintended consequence
+Inslee's "safe start" plan
+    https://www.governor.wa.gov/sites/default/files/SafeStartWA_4May20.pdf
+    refers to other "Proclamations"
+    "This phased approach may be adjusted as the pandemic evolves"
+    "Families are adjusting to a new way of life, and we understand the impacts this is having on them."
+
+Wink IoT hub goes subscription
+    https://www.theregister.com/2020/05/11/wink_subscription/
+    Changing from "pay once, use forever" to $4.99/mo
+    "4 million connected devices"
+    losing app, voice control, API, shortcuts (scripts), 
+    integration with services = nest, chamberlain, schlage, philips
+    samsung and google are competitors; don't require subscription
+
+"Section 215 renewed" = FBI spying
+    don't want to talk about
+
+Giphy now being purchased by facebook
+Large areas of London car-free
+    https://www.theguardian.com/uk-news/2020/may/15/large-areas-of-london-to-be-made-car-free-as-lockdown-eased
+
+Adobe Acrobat vulnerabilities give root on OSX
+    https://gizmodo.com/you-need-to-update-adobe-acrobat-for-macos-right-now-1843466382

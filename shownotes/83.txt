@@ -1,0 +1,62 @@
+83
+
+left coast on the front line of the great national maskdebate
+
+where I wield my privilege like a blunt weapon
+
+
+amazon tax vs sawant
+
+
+Antitrust - Apple, Facebook, Amazon, Google
+    Monopolies:
+        FB: FB and Instagram
+        Ap/G: app stores
+        G: search
+        F/G: advertising
+        Am: Shopping (almost 75% of all online sales)
+    “Three of the companies [Amazon, Facebook, and Google] basically have the same set of accusations against them,
+    which is that competitors come on your platform, you take their information, you preference 
+    your own results, compete against them, drive them out of business, or buy them cheap,” Reback said.
+Apple
+    Tim Cook says "apple is not a monopoly in any business it's involved in"
+    House Antitrust subcommittee
+        has documents that indicate carve-outs for some big devs below the 30% tax
+            (despite Cook's insistence that all devs big and small are equal)
+            Amazon's commission was 15% in exchange for removing "unauthorized" Apple products from Amazon
+            Baidu gets default search engine and to skip app review for "beta" versions
+    Telegram files complaint in EU
+    https://techcrunch.com/2020/07/30/telegram-hits-out-at-apples-app-store-tax-in-latest-eu-antitrust-complaint/
+        Apple claims no monopoly power because smaller marketshare than Android, and that everybody charges 30%
+    Free market argument: Apple uses regulators to criminalize jailbreaks, copyright to control every phone sold, and
+        DMCA to eliminate first-sale right
+        
+Apple secure enclave chip exploit
+    https://9to5mac.com/2020/08/01/new-unpatchable-exploit-allegedly-found-on-apples-secure-enclave-chip-heres-what-it-could-mean/
+    discovered at MOSEC conference in Shanghai  by security researcher Xu Hao of Team Pangu
+        who won't give details on the vulnerability
+    Secure Enclave coprocessor introduced in iphone 5S
+        "Each Secure Enclave is provisioned during fabrication with its own UID (Unique ID) that is not accessible to other parts of the system and is not known to Apple. When the device starts up, an ephemeral key is created, tangled with its UID, and used to encrypt the Secure Enclave's portion of the device's memory space. "
+        Hardware-based encryption key manager.  Enables touch ID
+        used in iphone 5s+, ipad 5th gen+, ipad pro, ipadmini 2+, mac with T1 or T2, Apple TV HD (4th gen+), all Apple Watch and homepod
+    vulnerability in ROM software between SEP and main memory
+    Detected through rootkit exploit, so no way to know if it affects iphone XS, XR, or later (probably not)
+        Apple says it's fixed with A12 and A13 chips
+    requires physical access to device
+
+
+BrianofLondon = tortious interference lawsuits discussion
+
+Invidious shutting down
+    Omar Roth, developer, is burned out
+    https://omar.yt/posts/stepping-away-from-open-source
+
+Blackberry cracked five years after seizure, leads to arrests
+    https://www.smh.com.au/national/nsw/silver-bullet-mass-arrests-after-blackberry-cracked-five-years-after-seizure-20200731-p55hbq.html
+    AU police investigating money laundering and drug ring
+    Blackberry was seized five years ago, new "capabilities" came out in April to allow hack
+    led to arrests in Sydney, Dubai, and Canada
+    Canadian cops unlocked a similar Blackberry in 2017
+
+
+

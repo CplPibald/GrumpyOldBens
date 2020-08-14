@@ -1,0 +1,37 @@
+53
+
+left coast where they know if you've been sleeping, and they know if you're awake, because google is already in town
+left coast where your personal information wants to be free
+
+leave gmail - they're selectively trashing political ads.  See also Robert Epstein
+
+Hulu uses location tracking to block if you're not at "home"
+  https://i.imgur.com/hb573eR.jpg
+
+Reddit partnered with crisis management hotline
+  now you can report posts saying someone is suicidal
+  reddit CYA
+  involuntary commitment?
+  Best comment: Just in time for the Bernie supporters
+
+side-reddit-note: They banned most T_D moderators because they had not "acted in good faith" to bring the community "in line with our policies"
+  Will be vetting the new list of moderators.  If you have >500 karma in quarantined subs, need not apply
+
+Privacy
+  School district in NY adopted facial recognition to monitor students
+  Last year a school in Queens added microphones with algorithms to detect aggressive behavior.  Got false positive from coughing
+    Recordings are kept
+  Companies that contracts to watch students' social media accounts
+    Social Sentinel flagged 
+      "Every time I talk to my mom I end up saying something to her in a rude way and she gets pissed off even though I try not to be rude."
+    GoGuardian, Securly, Gaggle, Bark
+      use machine learning
+    Encouraging schools and families to install spyware on childrens' phones
+      incl. root certificates
+      web filtering
+  Foreign authoritarian governments do this shit.  Kazakhztan, China, Iran
+  No evidence it works.  Destroys trust and privacy.
+    "Bark says that its tools have “prevented” 16 school shootings and detected more than 20,000 “severe self-harm” threats"
+  Cost comes from tax dollars of course
+  Schools surveilling students
+    https://ssd.eff.org/en/module/privacy-students

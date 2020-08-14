@@ -1,0 +1,71 @@
+
+If you're not paying for a service, then you're the product.
+
+Let's address the strawman in the room.  "I have nothing to hide"
+- Do you lock your doors?  We all have a level of privacy.  In the home?  The shower?
+  - Everybody poops, but we still close the bathroom door
+- At best, You don't know whether you have something to hide.  
+  - You aren't the one who gets to decide that.
+  - Once you give them permission to decide whether you've something to hide, you also give them permission to get it wrong
+  - You are breaking laws every day that you don't know about.  And laws can change.
+  - EVEN IF you trust companies or the government to always have good intent, data is breached every day.
+- You are assuming that the people in power share your values 
+  - authoritarian in the White House
+  - difference in federal vs local laws (eg: marijuana)
+  - even if you're innocent, police abuse their power
+
+  
+  chilling effects
+- give me all your passwords: ryan@grumpyoldbens.com
+
+- "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say."
+  -- Edward Snowden
+
+"A functioning police state needs no police."  -- William S. Burroughs
+  
+The advertising business is in to anything that lets them more effectively manipulate the public for less money.
+
+People say "privacy", but what they want is control - and that's the last thing big data wants to give you.
+
+"Privacy centric" is how facebook dies.  The network effect that made them what they are depends on a culture of oversharing.
+
+
+Ways companies track you - in the browser
+- logins
+- cookies
+- browser fingerprinting
+- tracking "dots" - 1x1 pixels, or simply the thumbs-up button
+- ping hrefs - work in chrome/safari, edge as of last year.  Disabled by default in firefox
+
+- PLUGINS can ignore most browser security
+
+APPS can do anything at all.
+
+roboform pw manager
+
+nord or malvad vpn
+
+
+wifi pineapple = MITM
+ISP tracking - deep packet inspection
+
+
+Things that don't work
+- Do not track
+
+
+Things that do work
+- VPNs
+- pw manager
+- Use browsers instead of apps
+- Don't stay logged in everywhere.  Use incognito browsing.
+- Restrict javascript
+- Never click links
+
+
+
+
+
+
+"Nothing to Hide" = a documentary telling why you do have something to hide...
+https://vimeo.com/218966342

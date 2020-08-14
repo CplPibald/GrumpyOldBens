@@ -1,0 +1,56 @@
+35-internetofshit
+
+left coast where the smart speaker controls what you hear, the smart oven controls what you eat,
+                 the smart fridge watches your input, the smart toilet watches your output, 
+                 the smart TV tells you what to do, the smart clock tells you when to do it,
+                 the smart assistant decides your life for you,
+                 and the dumb consumer basks in the convenience of it all
+
+left coast where Epstien didn't kill himself
+
+
+The Internet of Shit
+  updates, vulnerabilities
+  light bulbs
+  http://xkcd.com/416 - zealous autoconfig
+  Smart TVs
+  
+
+light switches turn smart bulbs into dumb bulbs.
+  "smart switches"
+  different brands don't always communicate
+
+Shine Bathroom - turn a toilet into a "smart toilet"
+  "It’s a dirty business, but someone had to do it." -- TechCrunch
+  $99 plus probably subscription fee
+  "That water is passed through a special filter that electrolyzes it and then sprays it 
+    with every flush to clean and deodorize. Shine claims this spraying technique is five 
+    times as powerful as traditional deodorizing spray, and as powerful as bleach, but without 
+    the harsh chemicals"
+  It has an app, "Sam", an "AI on your phone"
+  Sam identifies common toilet problems such as leaks, and automatically sends out a free repair kit
+  Sam can connect to Alexa.  "Alexa, ask Sam to clean the toilet."
+
+Man pleads guilty in Hobart, TZ, AU to stalking ex-gf
+  using an app to control her car start and stop
+  and know everywhere she went
+  installed spyware app on her phone to get location
+
+Raymond Chen, MSFT engineer can't change time on alarm clock
+  it needed you to install an app
+
+Teslas that won't let you drive without an update
+"smart lampposts" surveillance in Hong Kong
+smart ovens that turn on by themselves overnight
+ingestable sensors
+Hue offers to sync light bulbs with smart TV - only $230
+Vatican "click to pray eRosary" with app.  Complete with security flaw using PIN sync
+
+Smart home could work if all data/management is under my control
+  Why does the cloud need to know I'm turning on my lights?
+
+Gov't of Singapore is giving every citizen a free fitbit under gov't health system
+  $99 device...  but people have to subscribe to $10/mo coaching service for 1yr
+  fitbit now owned by google
+
+

@@ -1,0 +1,44 @@
+61
+
+left coast where the governors are keeping the economy behind a paywall
+
+
+
+describe why software companies make changes
+    no agenda yesterday talking about random skype updates, moving the search bar
+    if they leave everything the way it is, nobody knows about new features
+    programmers are vain and want to be promoted
+
+Gretchen Whitmer of Michigan extends "emergency" declaration
+    https://www.wxyz.com/news/coronavirus/governor-whitmer-issues-new-executive-order-extending-state-of-emergency-until-may-28
+    Emergency declaration was expiring, and legislature refused to extend it.  So she declared a brand new emergency until 5/28
+    "We're all in this together", she said
+
+Kentucky parents get visit from state Department of Child Kidnapping because of Karen
+    https://reason.com/2020/04/28/child-services-kentucky-social-distancing-covid-19-family-parents/
+    Needed to open a joint bank account.  Took five kids with (older two stayed in car).  Bank teller was immediately a bitch
+    CPS shows up back at home because of "anonymous tip"
+        tip says all the right things ... "bruising on arms", "suspicious persons", "unrelated male"
+    Investigator realized tip was fake.  So instead went in and illegally searched cabinets, fridge, questioning kids.
+    "off ramp" legislation = when CPS determines tip is false, they must leave
+    "free range parenting bill" from Utah = Taking your eyes off your kid is not neglect
+
+Wal Mart "COVID-19 Dos & Don'ts for advertising creatives"
+    https://www.walmartmedia.com/covid-19-dos-and-donts-ad-creatives/
+    "Brands understandably want to be sensitive and authentic while connecting effectively with customers in their hour of need."
+    Tip for marketers: If you're getting paid to speak your message, it's NOT authentic.
+    merriam-webster: authentic. adj. 2. not false or imitation: real, actual. 3. True to one's own personality, spirit, or character
+
+52% of Americans have decided not to use a product or service because of privacy concerns
+    https://www.pewresearch.org/fact-tank/2020/04/14/half-of-americans-have-decided-not-to-use-a-product-or-service-because-of-privacy-concerns/
+    PEW survey from June 2019
+        "About half (52%) of U.S. adults said they decided recently not to use a product or service because they were worried about 
+        how much personal information would be collected about them."
+    Most common reason cited is because people were asked to share personal information
+    “My smart TV requested permission to collect audio data and other types of data for research. I am not comfortable with that, so I declined.”
+
+ICANN rejects sale of .org TLD
+    https://www.icann.org/news/blog/icann-board-withholds-consent-for-a-change-of-control-of-the-public-interest-registry-pir
+
+Microsoft releases Rust for WinRT
+    https://blogs.windows.com/windowsdeveloper/2020/04/30/rust-winrt-public-preview/

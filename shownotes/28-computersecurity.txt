@@ -1,0 +1,43 @@
+28-computersecurity
+
+left coast where computer viruses are known to the state of California to cause cancer
+left coast where it's not the size of your password database, it's how you use it
+
+password security
+ - two-factor (on Windows account, plus any other accounts)
+ - authenticator
+ - password manager
+ - non-admin account
+ 
+antivirus
+firewall
+malware removal
+
+Encryption
+ - https? - only protects against MITM
+ - mail?
+ - VPN
+
+Updates
+
+Email best practices
+ - scan files
+ - How to detect scams/phishing
+ - disable images, scripts, view in plain text
+ 
+Browser
+ - ad blocker
+ - clear cookies periodically
+
+Phone = not as targeted as you think, because it's a walled garden
+ - keep up to date
+ - don't install bad apps
+
+IOT = hackers' paradise
+ - ask listeners if any are secure yet
+ - security should be a feature....  but it's not convenient
+ 
+ 
+ 
+best practices
+- guest network
