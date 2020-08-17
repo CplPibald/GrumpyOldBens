@@ -8,29 +8,6 @@ where I wield my privilege like a blunt weapon
 amazon tax vs sawant
 
 
-Antitrust - Apple, Facebook, Amazon, Google
-    Monopolies:
-        FB: FB and Instagram
-        Ap/G: app stores
-        G: search
-        F/G: advertising
-        Am: Shopping (almost 75% of all online sales)
-    “Three of the companies [Amazon, Facebook, and Google] basically have the same set of accusations against them,
-    which is that competitors come on your platform, you take their information, you preference 
-    your own results, compete against them, drive them out of business, or buy them cheap,” Reback said.
-Apple
-    Tim Cook says "apple is not a monopoly in any business it's involved in"
-    House Antitrust subcommittee
-        has documents that indicate carve-outs for some big devs below the 30% tax
-            (despite Cook's insistence that all devs big and small are equal)
-            Amazon's commission was 15% in exchange for removing "unauthorized" Apple products from Amazon
-            Baidu gets default search engine and to skip app review for "beta" versions
-    Telegram files complaint in EU
-    https://techcrunch.com/2020/07/30/telegram-hits-out-at-apples-app-store-tax-in-latest-eu-antitrust-complaint/
-        Apple claims no monopoly power because smaller marketshare than Android, and that everybody charges 30%
-    Free market argument: Apple uses regulators to criminalize jailbreaks, copyright to control every phone sold, and
-        DMCA to eliminate first-sale right
-        
 Apple secure enclave chip exploit
     https://9to5mac.com/2020/08/01/new-unpatchable-exploit-allegedly-found-on-apples-secure-enclave-chip-heres-what-it-could-mean/
     discovered at MOSEC conference in Shanghai  by security researcher Xu Hao of Team Pangu

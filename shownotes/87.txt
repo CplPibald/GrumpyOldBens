@@ -1,0 +1,112 @@
+87
+
+best show material is on the live stream
+where the GOB app store will be launching soon
+
+
+"To argue with a person who has renounced the use of reason is like administering medicine to the dead." -- Thomas Paine
+
+
+City exodus
+    NYC violence 5x last year
+        https://www.zerohedge.com/political/49-people-shot-last-72-hours-new-york-city-hits-its-expiration-date
+        "Escape from New York", 2020 style
+    Chicago closes downtown
+        https://www.zerohedge.com/political/chicago-shuts-down-its-business-district-overnight-weekend-due-continued-riots-and
+        Mayor Lightfoot flipped out when reporters asked if this was because they weren't prosecuting criminals
+            ... right after Police Chief David Brown said that.
+
+Nick Sandmann vs WaPo
+    https://www.theepochtimes.com/the-strategy-to-stop-fake-news-sue-the-media_3462193.html
+    (from the Schadenfreude dept)
+    Story: Nick and friends were in DC for anti-abortion rally, waiting for bus, getting harassed by Black Hebrew Israelites
+        when Nathan Phillips, native american activist, shows up for a photo op
+        News stations everywhere report that Sandmann was aggressor.
+        Rep Deb Haaland (D-NM) condemned Nick for "blatant hate, disrespect and intolerance for a native american vietnam
+            war veteran."  "you could tell by the hats they were wearing"
+            Phillips never went anywhere near Vietnam, despite claiming it
+        Nick, with attorney Lin Wood, sued dozens of media outlets for smearing him.
+    WaPo admits no fault, but still reached $250M settlement.
+    CNN settled for $275M in January
+    Pending lawsuits vs Gannett (USA Today), ABC, CBS, NYT, and Rolling Stone
+
+Antitrust - Apple, Facebook, Amazon, Google (3 Aug notes)
+    Monopolies:
+        FB: FB and Instagram
+        Ap/G: app stores
+        G: search
+        F/G: advertising
+        Am: Shopping (almost 75% of all online sales)
+    “Three of the companies [Amazon, Facebook, and Google] basically have the same set of accusations against them,
+    which is that competitors come on your platform, you take their information, you preference 
+    your own results, compete against them, drive them out of business, or buy them cheap,” Reback said.
+Apple
+    Tim Cook says "apple is not a monopoly in any business it's involved in"
+    House Antitrust subcommittee
+        has documents that indicate carve-outs for some big devs below the 30% tax
+            (despite Cook's insistence that all devs big and small are equal)
+            Amazon's commission was 15% in exchange for removing "unauthorized" Apple products from Amazon
+            Baidu gets default search engine and to skip app review for "beta" versions
+    Telegram files complaint in EU
+    https://techcrunch.com/2020/07/30/telegram-hits-out-at-apples-app-store-tax-in-latest-eu-antitrust-complaint/
+        Apple claims no monopoly power because smaller marketshare than Android, and that everybody charges 30%
+    Free market argument: Apple uses regulators to criminalize jailbreaks, copyright to control every phone sold, and
+        DMCA to eliminate first-sale right
+
+Amazon v. Apple (2009)
+    Amazon books wanted in, but didn't want to pay 30%
+    For years, couldn't purchase Amazon stuff in-app; had to go to website
+    https://www.theverge.com/2020/7/30/21348108/apple-amazon-prime-video-app-store-special-treatment-fee-subscriptions
+    Leaked documents from 2016 show Apple caved and only charges Amazon 15%
+        in exchange for bringing Prime Video to iOS
+    
+
+Spotify v. Apple (March 2019)
+    https://www.wired.com/story/spotify-apple-complaint-warren-antitrust-issue/
+    Lodged complaint with EU commission
+        Spotify gets charged 15% for users after first year, similar to Amazon
+
+Microsoft xCloud vs. Apple
+    https://arstechnica.com/gadgets/2020/08/apple-wont-let-stadia-or-xcloud-into-ios-citing-app-store-guidelines/
+    https://developer-tech.com/news/2020/aug/07/microsoft-app-store-backlash-xcloud-game-streaming/
+    Apple blocked xCloud game streaming service
+    Argues that they can't provide that carefully hand-censored experience to streamed content
+        though they allow netflix...
+    Apple can't monetize each game in Xbox game pass...
+    Also blocking Google Stadia, and nVidia Geforce Now (steam cloud not yet ready)
+        while pushing Apple Arcade
+
+Epic v. the world
+    https://www.wired.com/story/epic-games-sues-apple-fortnite-app-store/
+    https://www.msn.com/en-us/news/technology/a/ar-BB181gkk
+    https://en.wikipedia.org/wiki/Epic_Games
+    Early Epic
+        founded by Tim Sweeney
+        Unreal, Gears of War
+    Epic v. PUBG
+        Epic's runaway hit was Fortnite, f2p model with 350M total players since 2017
+        Over $3B in-app purchases mostly cosmetic, use Vinderbucks (V-bucks)
+    Epic v. Steam
+        Launched Epic Games Store, got big by buying exclusives with game publishers
+        https://www.polygon.com/2019/4/5/18295833/epic-games-store-controversy-explained
+        incl. Assassins Creed, Outer Worlds, Metro Exodus, Borderlands 3
+        Valve takes 30% of revenue.  Epic only takes 12%
+            Also, the 5% fee for Unreal engine is waived on EGS
+    Epic v. Apple, Google
+        Sweeney always hated the 30% cut, has said so in interviews
+            says Apple's ban on xCloud et al kills cross-platform gaming
+            30% is revenue, not profit.  "Apple and Google make more profit from a game than the game's developer"
+        Fortnite was launched as side-load on Android
+            put it on Play store in April 2020
+        Thu, 13 Aug Epic offered 20% discount on v-bucks, but only if purchased from Epic
+            Within hours, Fortnite was removed from App/Play stores
+        Epic filed antitrust lawsuits for anticompetitive behavior
+    Apple's defense of the 30%
+        say they provide security, user privacy
+        "well everyone else takes 30%" level playing field
+        estimates $15B annual from app store
+
+Congressional regulation?  Games avoided it once with ESRB (similar to motion picture association rating system)
+
+
+
