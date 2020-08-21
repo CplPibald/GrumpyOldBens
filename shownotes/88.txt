@@ -1,0 +1,52 @@
+88
+
+where Bill Gates proves that autism can cause vaccines
+where e-mail is the new bacon
+
+Gates hates freedom
+    https://www.washingtontimes.com/news/2020/aug/20/bill-gates-us-slow-to-combat-covid-19-because-we-b/
+    says US fumbled coronavirus response because "We believe in freedom, individual freedom. We optimize for individual rights,"
+    China "in their typical fairly authoritarian way, they did a very good job at suppressing the virus. There may 
+        have been a lot of individual rights that were violated there, but the overall macro effect that they achieved is kind of amazing.”
+    
+Virtual reality - Oculus to require facebook login
+    https://www.theverge.com/2020/8/19/21375118/oculus-facebook-account-login-data-privacy-controversy-developers-competition
+    https://www.zdnet.com/article/facebook-forcing-oculus-users-to-have-an-account-on-its-platform/
+    "Oculus said that when a user logs in using a Facebook account, Facebook will use information related to 
+        the use of VR and other Facebook products to "provide and improve your experience". It will also be used 
+        to show the user personalised content, including ads."
+    https://twitter.com/hmltn/status/1295789706383433734
+    Palmer Luckey in 2014:
+        "I guarantee that you won't need to log into your facebook account every tmie you wanna use the Oculus Rift"
+        "You will not need a facebook account to use or develop for the rift.  That would be lame. I promise."
+    Palmer Luckey in 2020:
+        “In hindsight, the downvotes from people with more real-world experience than me were definitely justified,”
+    Luckey "got fired" from fecesbook in 2016 for reasons not given.
+        "I gave $10,000 to a pro-Trump group, and I think that's something to do with it"
+    Facebook already had all your data from the oculus, even without account
+    Features that need FB account:
+        Chats, join friends (outside games) / parties, user-created events, share photo/video/stream to FB, messenger integration
+
+Epic continues bear-poking
+    Apple terminate Epic's dev key
+        https://www.zdnet.com/article/fortnite-battle-escalates-apple-to-terminate-developer-program-membership-epic-files-injunction/
+        affects UnrealEngine development for ios/mac
+        Epic filed for injunction
+    #FreeFortnite event with hat that mocks Apple
+        https://www.cnet.com/news/freefortnite-cup-epics-latest-jab-at-apple-is-a-tournament-with-prizes/
+        Online game event, last available to Apple users.  
+        Next update comes Aug 27
+    Digital Content Next (news publisher trade group: NYT, Wapo, ViacomCBS) also want 15%
+        https://www.msn.com/en-us/news/technology/news-publishers-join-epic-games-in-asking-apple-for-lower-app-store-fees/ar-BB18d77o
+    engines: Unreal vs Unity
+        most games still proprietary engine
+        some smaller engines: CryEngine from Crytek, Gamebryo (formerly NetImmerse)
+        Unreal costs money, but could waive if you released on Epic store
+
+China bans Notepad++ after dev pokes the bear
+    https://www.pcmag.com/news/china-bans-free-text-editor-notepad-plus-plus
+    Trying to download now hits Great Firewall saying it contains "illegal information"
+    ver 7.8.1 named "Free Uyghur" edition
+    ver 7.8.9 named "Stand with Hong Kong" edition
+    release notes for both contained political messages about why China is assho
+
