@@ -1,0 +1,108 @@
+89
+
+left coast where fatal SSH errors aren't always as fatal as they seem
+left coast where poking the bear is a national redneck pastime
+
+
+Wearable health tracking
+    Bluetooth SIG wants to push firmware to fitbits, smart watches to enable COVID tracking
+        https://www.engadget.com/covid-bluetooth-sig-ens-wearables-plan-120555994.html
+        Intended for children, runners, people in care homes
+        "a kid wearing a Fitbit could go about their day, downloading the [location + health] data to their parent's
+            phone when they get home from school"
+        Just creating standard - implementing still up to mfr of device
+    Wearing AI-enabled fitbits to detect early signs
+        https://www.bloomberg.com/news/articles/2020-08-19/how-your-fitness-tracker-could-help-fight-covid-19
+        "In a pandemic that has so far stubbornly resisted high-tech countermeasures, mass deployment of 
+            health trackers could be a powerful new public health weapon."
+        Studies acknowledge problems of people having to buy one.
+            distributing devices in Jackson, MI (but worried about experiments on black people)
+    BioButtons
+        https://www.biospace.com/article/releases/biointellisense-introduces-the-biobutton-for-90-days-of-continuous-wireless-temperature-and-vital-signs-monitoring-on-a-coin-sized-disposable-medical-device/
+            holy crap, that url
+        coin-sized disposable device that measures "continuous" (1/min?) vital signs (temp, heart rate, body position) up to 90 days
+            attach to upper chest
+        "proprietary biosensor technology and advanced analytics"
+        connects to phone via bluetooth, and sends constant health data to BioMobile app
+            includes proximity to other biobuttons
+        about $60 each
+    Cayman Islands require you to wear a biobutton
+        https://www.travelweekly.com/Caribbean-Travel/Insights/Caymans-plan-includes-wearable-tech
+        https://thepointsguy.com/news/travelers-can-now-wear-a-button-to-avoid-government-quarantine-at-cayman-islands/
+        along with proof of negative PCR test within 72 hours of departure (can you get results that fast?)
+            and another immediately after arrival
+        decline button = stay in gov't facility for 14 days
+        Of course, social distancing and face diapers required everywhere
+        https://www.travelweekly.com/Travel-News/Travel-Agent-Issues/Insights/Are-wearables-a-deal-breaker-for-travelers
+    Oakland University in Michigan tried to enforce BioButton
+        https://www.msn.com/en-us/news/technology/a/ar-BB17DVhu
+        "What to expect for Fall Semester" page mentioned students would be required to
+            wear button and to document symptoms in "symptom-checking app"
+        Students launched petition to make it optional.  Uni caved.
+        Tyler Dixon started petition because he was going to BLM rallies. "I'm not some anti-masker"
+        BioIntellisense CEO James Mault:
+            "The device only remits health data back to the user and no one else has access—not a school,
+            not an employer. When the platform determines that a person should not come into school or work,
+            the system alerts an administrator. They are only told that a person cannot come in, but they are 
+            not told why, says Mault. Of course, whoever the administrator is can make a reasonable assumption
+            that a person marked as ill likely has COVID-19. Even so, only the wearer ever gets access to symptom level data." 
+        https://www.thecollegefix.com/after-students-balk-at-demand-to-wear-biobutton-health-monitoring-device-university-backs-down/
+        Oakland University Vice President for Research David Stone: 
+            “If [students] cannot show their ‘cleared’ status, they cannot come to class,”
+            cleared either by button or by daily health screening portal
+
+    Story of this manufactured pandemic: many proprietary tech systems being mandated with no controls and no transparency.
+
+
+Epic continues bear-poking
+    #FreeFortnite event with hat that mocks Apple
+        https://www.cnet.com/news/freefortnite-cup-epics-latest-jab-at-apple-is-a-tournament-with-prizes/
+        Online game event, last available to Apple users.  
+        Next update comes Aug 27
+    Digital Content Next (news publisher trade group: NYT, Wapo, ViacomCBS) also want 15%
+        https://www.msn.com/en-us/news/technology/news-publishers-join-epic-games-in-asking-apple-for-lower-app-store-fees/ar-BB18d77o
+    engines: Unreal vs Unity
+        most games still proprietary engine
+        some smaller engines: CryEngine from Crytek, Gamebryo (formerly NetImmerse)
+        Unreal costs money, but could waive if you released on Epic store
+    Apple terminate Epic's dev key
+        https://www.zdnet.com/article/fortnite-battle-escalates-apple-to-terminate-developer-program-membership-epic-files-injunction/
+        affects UnrealEngine development for ios/mac
+        Epic filed for injunction
+    -- Updates: 24 Aug --
+    Microsoft weighs in on side of Epic, saying *pleeeeease don't take our unreal engine*
+        https://www.engadget.com/microsoft-supports-epic-in-apple-dispute-185640104.html
+        Apple says no evidence of significant harm to engine.  Epic disagrees
+    Hearing *today* (Mon 24 Aug) for TRO to put fortnite back into store
+        https://www.cnbc.com/2020/08/21/apple-says-epic-games-ceo-wanted-a-side-deal-for-fortnite.html
+        https://bgr.com/2020/08/24/apple-epic-lawsuit-fortnite-monday-hearing/
+        Apple, in filing: "In the wake of its own voluntary actions, Epic now seeks emergency 
+        relief. But the 'emergency' is entirely of Epic's own making,"
+
+Apple health records security (link from CSB during show)
+    https://support.apple.com/en-us/HT209519
+    By default, health app data is synced with iCloud (encrypted)
+    "You may choose to share your health records data with third-party apps you trust"
+    "You may choose to share certain information from your health records with Apple in order to help 
+        Apple develop, improve, and understand the Health Records feature."
+        Info is "processed locally" to anonymize.  If that doesn't work, Apple promises to delete
+        provides instructions to "stop sharing this information at any time"
+
+China bans Notepad++ after dev pokes the bear
+    https://www.pcmag.com/news/china-bans-free-text-editor-notepad-plus-plus
+    Trying to download now hits Great Firewall saying it contains "illegal information"
+    ver 7.8.1 named "Free Uyghur" edition
+    ver 7.8.9 named "Stand with Hong Kong" edition
+    release notes for both contained political messages about why China is assho
+
+Homeschooling deep dive
+    TN school asking for waiver saying you won't eavesdrop on kids while remote schooling
+        https://www.foxnews.com/us/tennessee-parents-waiver-eavesdropping-online-lessonskd
+    google classroom
+
+Google Australia tries to sway public opinion against news regulation
+    https://australia.googleblog.com/2020/08/regulation-impact-on-YouTube-Community.html?m=1
+
+Wisconsin Gov. Tony Evers trying to start a race war again
+
+Motorola surveillance system in AUS (from No Agenda)?

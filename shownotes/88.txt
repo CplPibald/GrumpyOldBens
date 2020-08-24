@@ -26,27 +26,3 @@ Virtual reality - Oculus to require facebook login
     Facebook already had all your data from the oculus, even without account
     Features that need FB account:
         Chats, join friends (outside games) / parties, user-created events, share photo/video/stream to FB, messenger integration
-
-Epic continues bear-poking
-    Apple terminate Epic's dev key
-        https://www.zdnet.com/article/fortnite-battle-escalates-apple-to-terminate-developer-program-membership-epic-files-injunction/
-        affects UnrealEngine development for ios/mac
-        Epic filed for injunction
-    #FreeFortnite event with hat that mocks Apple
-        https://www.cnet.com/news/freefortnite-cup-epics-latest-jab-at-apple-is-a-tournament-with-prizes/
-        Online game event, last available to Apple users.  
-        Next update comes Aug 27
-    Digital Content Next (news publisher trade group: NYT, Wapo, ViacomCBS) also want 15%
-        https://www.msn.com/en-us/news/technology/news-publishers-join-epic-games-in-asking-apple-for-lower-app-store-fees/ar-BB18d77o
-    engines: Unreal vs Unity
-        most games still proprietary engine
-        some smaller engines: CryEngine from Crytek, Gamebryo (formerly NetImmerse)
-        Unreal costs money, but could waive if you released on Epic store
-
-China bans Notepad++ after dev pokes the bear
-    https://www.pcmag.com/news/china-bans-free-text-editor-notepad-plus-plus
-    Trying to download now hits Great Firewall saying it contains "illegal information"
-    ver 7.8.1 named "Free Uyghur" edition
-    ver 7.8.9 named "Stand with Hong Kong" edition
-    release notes for both contained political messages about why China is assho
-
