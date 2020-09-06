@@ -80,6 +80,7 @@ Epic continues bear-poking
         relief. But the 'emergency' is entirely of Epic's own making,"
 
 Apple health records security (link from CSB during show)
+    https://noagendasocial.com/@CSB/104745342665565804
     https://support.apple.com/en-us/HT209519
     By default, health app data is synced with iCloud (encrypted)
     "You may choose to share your health records data with third-party apps you trust"

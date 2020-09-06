@@ -1,0 +1,66 @@
+90
+
+left coast where if you're alone in your car wearing a mask, you don't need a Biden sticker on the back; we already know
+where the only law still enforced is don't vote republican
+
+
+Mintegral ios SDK caught sending data home by cybersecurity firm Snyk
+    https://thehackernews.com/2020/08/ios-sdk-ad-fraud.html
+    made by Chinese ad company Mobvista
+    Ad SDKs normally only collect data for click attribution
+        This one collects URL, device ID, IP addr, OS version, charge state, network type, advert ID, and "other user sensitive data"
+        and sends them to a remote logging server
+    "Also fraudulently reports user clicks on ads, stealing potential revenue from competing ad networks"
+        intercepts clicks in apps with more than one ad SDK
+        Registers click to its own network, and then sends bogus data to other network
+    Includes anti-debug measures to hide what it's doing
+
+Law Enforcement are demanding speaker data more often from Amazon/Google
+    https://www.zerohedge.com/technology/police-requests-access-your-smart-speaker-are-72-2016
+    Over 3000 requests to Amazon, 2000 of which were complied with
+        up 24% year over year, up 72% since 2016
+    used for confirming/breaking alibi "I was home"
+    warrants also up for wearables
+    “We were able to tell from his device that he would pick up the phone, take 18 steps, and it corresponded with the time he posted a Facebook post,”
+
+Industries trying to woke themselves out of business
+    DC Comics makes Wonder Woman a fat slutty mom in a boob tube and jeans
+        https://www.zerohedge.com/political/new-woke-wonder-woman-slammed-overweight-badly-dressed-frump
+    DC "Gotham High", a Batman retelling as a teen high-school drama with gay Alfred
+        prioritizing diversity checklist over everything
+    Marvel "New Warriors": Snowflake and Safespace, nonbinary twins
+    NBA, NFL, MLB, NASCAR
+
+TN bill SB8005 crackdown on rioters
+    https://www.msn.com/en-us/news/us/s/ar-BB18hIET
+    Rioters tried to create autonomous zone next to state capitol in June
+        have been camping for two months on War Memorial Plaza
+    Bill
+        felony to camp overnight on state property
+        12h mandatory hold without bond for unauthorized camping, vandalism of state property, or other rioty things
+        assault against first responder upgraded to aggravated class C felony (3-15 yrs, up to $10k, loss of voting rts)
+
+Apple lawsuit updates
+    Settled class-action over Powerbeats2 charging issues for $10M
+        https://www.engadget.com/apple-settles-lawsuit-over-power-beats-2-charging-issues-091045642.html
+        alleging “design defect” that caused them to stop holding a charge after a short amount of time.
+        accused Apple of not repairing/replacing within warranty period
+    Epic was denied injunction to get Fortnite back in app store
+        but kept dev account active temporarily (next hearing 28 Sep)
+    Apple blocked Facebook app update
+        https://www.theverge.com/2020/8/28/21405140/apple-rejects-facebook-update-30-percent-cut
+        Feature lets FB users buy tickets for online events through app (where all proceeds go to organizers)
+        included line "Apple takes 30% of this purchase. Click to learn more"
+        Apple blocked update, saying violated an App Store rule that doesn’t let developers show “irrelevant” information to users.
+
+Stallman the prophet
+    https://www.theregister.com/2009/03/23/stallman_javascript_warning/
+
+Lin Wood represents Kyle Rittenhouse pro bono
+
+
+People on NAS are a bunch of bloodthirsty a-holes over this Rittenhouse thing
+
+"I don't vote because I don't want to take part in a corrupt system" well then, you've cut yourself off from the last
+    means of peacefully resolving this
+

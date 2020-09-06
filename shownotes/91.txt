@@ -1,0 +1,39 @@
+91
+
+where if there's anything more important than my ego around, I want it caught and shot now
+where I have tried turning it off and back on again
+
+Contact tracing
+    Exposure Notification Express
+    https://techcrunch.com/2020/09/01/apple-launches-system-level-covid-19-exposure-notification-express-with-ios-13-7-google-to-follow-later-this-month/
+    Local gov submits config to Apple/Goog = name, logo, criteria for triggering exposure notification, and info to give people
+    Already in iOS 13.7, no app needed.  Android uses app.
+    https://www.axios.com/p-daff828c-efb8-4678-99a9-8418d01d90bf.html
+    "iOS users can get notifications without an app. On Android, users will be sent to the Google Play Store to 
+        download one that Android can generate on the fly if there isn't already an app available locally. "
+    Researchers Serge Vaudenay and Martin Vuagnoux already found a vulnerability that allows tracking
+    https://hackaday.com/2020/09/03/covid-tracing-framework-privacy-busted-by-bluetooth/
+    called "Little thumb"
+    A/G really did try to preserve privacy, with rolling bluetooth ids
+        (but it's a HARD task)
+    there's a pattern to the BT ids.
+
+India bans 100 more chinese apps
+    https://techcrunch.com/2020/09/02/india-bans-pubg-and-over-100-additional-chinese-apps/
+    includes PUBG, Baidu, WeChat, several tencent apps
+
+Blackbaud
+    university note: "may have included name, DOB, info pertaining to relationship with WSU foundation"
+    https://www.blackbaud.com/securityincident
+    "In May of 2020, we discovered and stopped a ransomware attack"
+    "did not access CC, bank account, or SSN"
+    "Because protecting our customers’ data is our top priority, we paid the cybercriminal’s demand with confirmation that the copy they removed had been destroyed."
+
+
+Facebook designates Kyle Rittenhouse a mass murderer, censors accordingly
+    https://www.breitbart.com/tech/2020/09/02/facebook-declares-kyle-rittenhouses-actions-a-mass-murder-wont-allow-posts-in-support/
+
+Diane Becton, DA of Contra Costa CA, ordered attorneys to consider the looter's needs before filing charges
+    https://www.thegatewaypundit.com/2020/09/pure-marxism-soros-backed-democrat-da-argues-looting-rioting-stealing-acceptable-really-need-stealing/
+    Investigators must now consider ... factors, including “was the theft committed for financial gain or personal need?”
+
