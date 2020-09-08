@@ -1,0 +1,39 @@
+
+92
+
+left coast where your problem is very important to us and could you please wait on the line indefinitely, no one will be with you shortly
+where we listen to our experts
+
+
+Ohio Gov DeWine signs order to send asymptomatic people to internment camps
+    https://www.citizenfreepress.com/breaking/in-the-middle-of-the-night-governor-mike-dewine-signed-an-order-creating-fema-camps-for-asymptomatic-covid-patients/
+
+BLM speedbump cosplayers in Everett
+    https://www.heraldnet.com/news/everett-protest-ends-with-dramatic-encounter/
+
+Cuomo wants new Gestapo (not NYPD) to enforce social distancing
+    https://reason.com/2020/09/03/andrew-cuomo-says-4000-person-nypd-social-distancing-taskforce-needed-before-hell-allow-indoor-dining-in-nyc/
+
+Critical race theory propaganda banned in federal agencies
+    https://www.whitehouse.gov/wp-content/uploads/2020/09/M-20-34.pdf
+    https://www.bbc.com/news/world-us-canada-54038888
+    from OMB director Russell Vought
+    "All agencies are directed to begin to identify all contracts or other agency spending related to any training
+        on 'critical race theory', 'white privilege', or any other training or propaganda effort that teaches or 
+        suggests either (1) that the United States is an inherently racist or evil country, or (2) that any race
+        or ethnicity is inherently racist or evil"
+    "These types of "trainings" not only run counter to the fundamental beliefs for which our Nation has stood since 
+        its inception, but they also engender division and resentment within the Federal workforce,"
+
+Podcastindex developer endpoints
+    https://api.podcastindex.org/developer_docs
+    API 1.0 capabilities
+    - search for podcasts by term
+    - Get data on a podcast by feed URL, podcastindex ID, or itunes ID
+    - add podcasts to index with a read-write key
+    - get episode list by above
+    - get "recent" episodes globally across whole index
+    Returns data in json, but other formats "coming soon"
+
+HAM Radio Karens
+    https://mynorthwest.com/2131116/snohomish-county-mask-compliance-survey
