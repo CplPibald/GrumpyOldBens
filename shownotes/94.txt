@@ -1,0 +1,86 @@
+94
+2020-09-14
+
+left coast where Portland has entered its third straight month of block-party-with-benefits
+where the apocalypse continues apace
+
+
+Microsoft retrieves underwater datacenter
+    https://www.bbc.co.uk/news/technology-54146718
+
+nVidia buys ARM Holdings
+    https://markets.businessinsider.com/news/stocks/nvidia-stock-price-acquire-arm-softbank-agree-semiconductor-billion-tech-2020-9-1029586175
+    https://www.msn.com/en-us/money/companies/e/ar-BB190U1K
+    was owned by SoftBank
+
+Google: "Hey, look at our virtue!", or "decarbonizing our energy"
+    https://www.bbc.com/news/technology-54141899
+    'Google says it has wiped out its entire carbon footprint by investing in "high-quality carbon offsets".'
+    'It became carbon-neutral in 2007 and says it has now compensated for all of the carbon it has ever created.'
+    https://sustainability.google/commitments/
+    "We’re proud that we were the first major company to reach carbon neutrality and have become the world’s 
+        largest corporate buyer of renewable energy.  But we know we must push further to confront the magnitude 
+        of today’s climate challenge. Now, we aim to be the first major company to achieve 24/7 carbon-free energy by 2030."
+    https://static.googleusercontent.com/media/www.google.com/en//green/pdfs/renewable-energy.pdf
+        so really they're just choosing which power markets, which are a big bureaucracy to track power prices
+        estimates seem to assume the "90% clean grid" which is 10% natural gas
+    "carbon-intelligent computing platform"
+        https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/
+        rearranging time of day of datacenter usage to correspond to peak wind and solar times
+    commits to "achieve 24/7 carbon-free energy in our operations by 2030"
+        Which means still not there
+    "carbon-free energy" and "clean power" seems to be wind, solar, and hydro
+        with lots of battery technology mixed in to compensate for variability in generation
+        nuclear is "carbon-free" but not "renewable"
+        biomass is "carbon-neutral" but not "carbon-free"
+    https://static.googleusercontent.com/media/www.google.com/en//green/pdfs/renewable-energy.pdf
+    Googleplex in Mtn View has "1.6 MW of solar panels (now grown to 1.9 MW), operate 400 kW of 
+        fuel cells and have a 970 kW generator adjacent to our campus that burns landfill gas that would 
+        otherwise have been vented to the atmosphere"
+    And of course lobbying to push this as gov't policy
+        https://www.blog.google/outreach-initiatives/sustainability/let-sunshine-opening-market-more-renewable-energy-asia/
+
+Renewable Energy Credits
+    https://www.energysage.com/other-clean-options/renewable-energy-credits-recs/
+    wind, solar, hydropower, biomass, geothermal
+    "Buying RECs is not equivalent to buying electricity. Instead, RECs represent the clean energy attributes of renewable electricity."
+    "there is no way to know exactly what energy source your electricity comes from. To solve this problem, 
+        you can purchase RECs along with your electricity"
+    Not transferable, so two companies can't take credit for the green energy, even if the power is re-sold
+Home fuel cell generation
+    https://www.alternativeenergyhq.com/home-fuel-cells-for-power-generation.php
+    "The ClearEdge5 is a compact system which efficiently converts natural gas or propane into both electricity and heat."
+    So it's gas power...  How is this green compared to a natural gas plant?
+    "The Fuel Processor converts natural gas into ultra-clean hydrogen through a catalytic process, as opposed 
+        to burning the natural gas, which dramatically reduces pollutants."
+    Hydrogen fuel cells don't emit carbon
+        but take energy input to make hydrogen.  So they're a battery.
+
+Green energy (from 80.txt)
+    Solar = max theoretical about 1GW/km2 at noon in summer; modern panels are about 15% efficient, land use about 30%, 
+        so call it 10-20km2 of land.
+        https://www.americanthinker.com/articles/2019/07/carbonfree_power_solar_versus_nuclear.html
+    Wind = about 2MW/turbine, a 1Gw plant would spread over 100mi2
+        can also use for crops/animals, but noise and vibrations keep people out
+    nuclear = each plant produces about 1GW
+    hydro = Bonneville Dam about 1.2 GW
+    gas = about 560Mw/plant
+Windmills
+    - kill about 50k birds per year, compared to 8 million from glass panes, and 4 million from cats
+    - can't recycle fiberglass resin blades, but super hard to cut up
+    Betz's law
+LFTR = molten salt reactor
+    liquid fluoride thorium reactor
+    can't have a nuclear meltdown.  Controls keep it hot; If all control systems break, it just cools down.
+        if it fully cools, you write off the reactor
+    Problems:
+        - LF is extremely corrosive.  Design flaw could lead to water pooling under reactor.  Casing cracks, and dumps
+        molten salt on it, flash boils water, and throws radioactive fluorine salts all over
+        - Boron gas leak
+        - waste = political problem, not engineering.  There's not actually that much, and we know how to store it.
+            even then, after 100 years with unlimited energy, I bet we could find something better to do with it
+    Fukushima = one worker died from radiation, vs 20k died from tsunami
+Inslee blocks needed Chehalis Dam
+    https://www.kuow.org/stories/inslee-puts-proposed-chehalis-river-dam-on-hold-calls-for-non-dam-options
+Small-scale modular nuclear ractor gets US safety approval
+    https://arstechnica.com/science/2020/09/first-modular-nuclear-reactor-design-certified-in-the-us/
