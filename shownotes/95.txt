@@ -1,0 +1,62 @@
+95
+
+where the temperature is dropping, the leaves are turning colors, and the politicians are back to whining about climate change
+where we are experiencing no white guilt, and are thus eligible for federal title six dollars
+
+Podcastindex now listable in Captivate
+    https://www.captivate.fm/news/podcastindex-how-to-get-listed/
+
+Facebook censors people saying ANTIFA is setting fires
+    https://www.9news.com/article/news/local/wildfire/antifa-facebook-wildfires-oregon/283-a4688f59-1692-43a4-894b-4c561d274052
+    Sept. 12, Andy Stone, a policy communications manager at Facebook, announced on Twitter the social media giant is 
+        "removing false claims the wildfires in Oregon were started by certain groups. This is based on confirmation 
+        from law enforcement that these rumors are forcing local fire and police agencies to divert resources from 
+        fighting the fires and protecting the public. This is consistent with our past efforts to remove content 
+        that could lead to imminent harm given the possible risk to human life as the fires rage on."
+
+TikTok/WeChat to shut down 20 Sep
+    https://arstechnica.com/tech-policy/2020/09/tiktok-wechat-to-be-pulled-from-us-app-stores-as-of-september-20/
+    https://www.whitehouse.gov/presidential-actions/executive-order-addressing-threat-posed-tiktok/
+    https://www.whitehouse.gov/presidential-actions/executive-order-addressing-threat-posed-wechat/
+    WeChat shutdown by 9pm JCD this Sunday
+        which was the end of the 45-day deadline given to Dept of Commerce after Trump's executive order 6 August
+    App stores can't permit downloads
+    ISPs/CDNs banned from "enabling the functioning or optimization" of apps
+        specifically, banned from payment transactions via WeChat
+    TikTok shut down 12 Nov after 90 days allowing ByteDance to divest
+    Oracle is trying to buy 20% of TikTok to keep it going
+
+U.S. District Judge William Stickman IV (Harrisburg, PA) rules Tom Wolf's restrictions are unconstitutional
+    https://6abc.com/coronavirus-in-pennsylvania-covid-19-unconstitutional-gov-wolf/6422411/
+    https://www.natlawreview.com/article/pennsylvania-federal-judge-strikes-down-key-provisions-governor-wolf-s-covid-19
+    The governor's efforts "were undertaken with the good intention of addressing a public health emergency. 
+        But even in an emergency, the authority of government is not unfettered. The Constitution cannot accept 
+        the concept of a 'new normal' where the basic liberties of the people can be subordinated to open-ended 
+        emergency mitigation measures."
+    “well-intentioned effort to protect Pennsylvanians from the virus … good intentions toward a laudable end 
+        are not alone enough to uphold governmental action against a constitutional challenge.”
+    Restrictions in PA can't be enforced:
+        size of indoor/outdoor gatherings 
+        stay-at-home order
+        closing all "non-life-sustaining" businesses
+    Lawsuit didn't challenge mask mandate
+    PA state health secretary Rachel Levine: "anything that limits our ability and the number of tools we have is a challenge to public health."
+
+Federal Open Courts Act
+    https://arstechnica.com/tech-policy/2020/09/bill-to-tear-down-federal-courts-paywall-gains-momentum-in-congress/
+    Overhauls PACER
+        https://pacer.uscourts.gov/pricing-how-pacer-fees-work
+        created for the web in 1998.  Was required to be self-funded, but made over $150M in 2016
+        requires you to have an account and either provide a CC during registration or wait 7-10 days
+        10c per page (up to $3/document),  10c per page of search results,  $2.40 per audio
+            they recommend searching by case number, to limit results
+        fees waived if you use less than $30/qtr
+    bill sponsored by Rep Doug Collins (R-GA) and Hank Johnson (D-GA)
+        can deeplink to specific documents from the web, but currently useless without an account
+        requires all documents in fulltext format, and public site-wide search
+            access to journalists/data scientists
+
+Princeton: "We are racist".  Dept of Education: "You're under investigation"
+    https://www.redstate.com/bonchie/2020/09/17/epic-princeton-declares-itself-racist-betsy-devos-immediately-opens-an-investigation/
+    https://www.princeton.edu/news/2020/09/02/letter-president-eisgruber-universitys-efforts-combat-systemic-racism
+
