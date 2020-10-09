@@ -1,0 +1,117 @@
+
+100
+
+left coast where we're told to mask up between bites of food
+left coast where mathematics is now racist
+
+
+Newsom tweets that people should wear masks between bites
+    https://www.foxnews.com/politics/california-govs-diners-masks
+    "Going out to eat with members of your household this weekend? Don't forget to keep your mask on in between bites."
+        - @CAgovernor, October 3
+Newsom injects racism into COVID's peanut butter
+    https://www.americanthinker.com/blog/2020/10/gavin_newsom_beclowns_himself_finding_nonsensical_excuses_to_keep_california_locked_down.html
+    Cities/Counties can no longer open up until the case rates in the "most disadvantaged neighborhoods" and 
+        "disproportionately impacted populations" meets new requirements
+
+Election fraud
+    LA county issues ballots with no Trump
+        https://www.breitbart.com/politics/2020/10/06/over-2000-la-county-voters-received-faulty-ballots-no-way-to-vote-president/
+    Allentown, PA judge indicted for opening and altering ballots
+        https://www.thegatewaypundit.com/2020/10/charges-filed-trans-elections-judge-erika-bickford-allentown-pennsylvania-including-tampering-ballots/
+    Dem strategy: They know they can't win, so just fuck up the election badly enough that it goes to the House
+
+'Cellmate' IoT chastity cage has a security flaw that could leave men locked in
+    https://www.bbc.co.uk/news/technology-54436575
+    chastity cage that locks/unlocks via bluetooth from an app
+        About 40k sold
+    All requests go through central server (China)
+        No manual/local unlock option
+    Pen Test Partners discovered a vulnerability allows attacker to get name/"personal details"/GPS coords of every user
+        as well as "device code" - can be used to register/unregister phone to device
+    Workarounds recommended by the company if you get locked in
+        Partially disassemble device and push a battery against two wires to trigger a motor
+        bolt cutter or grinder
+
+"Do not track" makes a comeback
+    https://soylentnews.org/article.pl?sid=20/10/08/0119236
+
+MS Edge announces at Ignite 2020
+    https://blogs.windows.com/windowsexperience/2020/09/22/whats-new-in-web-experiences-ignite-2020-need-to-secure-your-remote-workers-choose-microsoft-edge-as-your-browser-for-business/
+    comes to Linux in October
+        It's Chrome that doesn't phone home to Google
+    "Hardware isolation through Microsoft Defender Application Guard"
+        Private mode on Win10 that spins up a new VM
+    kiosk mode is back (was removed in chromium ver)
+    more search overloading of address bar
+    "data loss prevention"
+        eg: pops up dialog (and notifies sysadmin?) if you try to move a file to an "unprotected" location
+
+Tesla locked out of cars from app
+    https://techcrunch.com/2020/09/23/tesla-experienced-an-hour-long-network-outage-early-wednesday/
+    Tesla network went offline for one hour
+        Maybe due to roll out of 2fa
+    impacted all website stuff, and all remote Tesla functionality
+        such as connecting to your car via app
+    Unlocking/starting car still worked via keycard or bluetooth LE
+Similar momentary google outage (about 40 mins)
+    https://techcrunch.com/2020/09/24/google-meet-and-other-google-services-go-down/
+    Google meet, drive, docs, analytics, classroom, calendar, gmail, hangouts, youtube
+    "We experienced a short service disruption affecting several products"
+
+TIGTA investigating IRS CI division for illegal use of databases
+    https://www.vice.com/en/article/qj479d/irs-investigation-location-data-no-warrant-venntel
+    Treasury Inspector General for Tax administration
+        founded in 1999 as independent oversight of IRS
+    CI = Criminal investigation division of the IRS (the guys with the shotguns)
+    CI admitted at a hearing in June that it had purchased location data from databroker named Venntel
+        Venntel buys location data from games, weather, e-commerce, other apps.  Then sells to gov't clients
+        CI tried to use phone location info to determine where people lived, to out tax dodgers
+    Attempt failed, but Sens. Wyden and Warren asked TIGTA to investigate whether it was legal without warrant
+        Carpenter v. United States (2018) SCOTUS ruled that warrant was needed to get cell location info
+    IRS still has database, of course
+Related: "Geofence" tool allows police to get list of everyone whose phone was in the area of a crime
+    https://www.wired.com/story/creepy-geofence-finds-anyone-near-crime-scene/
+
+Boeing abandons WA state for North Charleston SC
+    https://mynorthwest.com/2209539/sen-ericksen-boeing-move/
+    https://www.seattletimes.com/seattle-news/jilted-again-the-problem-isnt-boeing-its-us/
+    https://www.thegatewaypundit.com/2020/10/left-wing-governor-washington-state-freaks-boeing-moves-production-south-carolina/
+    ``Boeing said it will make the mid-2021 move to “preserve liquidity” and “enhance efficiency and improve performance for the long-term,” ``
+    HQ moved to Chicago in 2001
+    framed as move away from unions
+        Right-to-work laws prevent unions from compelling membership as a condition of employment
+        https://en.wikipedia.org/wiki/File:Right_to_Work_states.svg
+    and a move away from high taxes
+        In 2004, Gov. Locke passed a "tax break" lowering B&O tax on aerospace
+        worth $100M in 2018
+        repealed in 2020 because EU was planning to impose retaliatory tariffs
+        WA B&O tax (in lieu of corporate income tax) levied on gross receipts, rather than net
+        Legislature tried to lower all mfr. tax to aerospace level to appease EU.  Inslee vetoed.
+    Inslee called it "an insult", as if Boeing owes the state decades more of high taxes and cost of business
+        but mere months ago, he was threatening to jack up taxes on them if they didn't commit to staying
+        Inslee says Boeing wouldn't even take his calls
+
+Mathematical Association of America: "Math is racist"
+    https://www.rebelnews.com/math_is_racist
+    follow up to story from GOB 85 about Brooklyn College professor
+    Yet one more institution compromised by social justice
+    https://www.mathvalues.org/masterblog/anti-science-policy-censure-of-discourse-on-race-and-racism
+    Penned by the "Committee for Minority Participation in Mathematics"
+    "Anti-science Policy and the Censure of Discourse on Race and Racism"
+        most projection in a headline I've read all year
+    Quotes
+        "Thanks to science and mathematics, we understand now that masks, social distancing, frequent, rapid, mass testing,
+            and contact tracing are all fundamental to keep our communities safer during the COVID-19 pandemic.
+            Yet policies at the federal level have not consistently reflected these facts"
+        "Critical race theory, referenced in recent Executive statements by the President of the United States, 
+            is an established social science inquiry which is grounded in decades of scholarship."
+        "Although mathematics, science, and higher education develop fact-based theories and practices, 
+            they are also political because they exist within a highly politicized system."
+        "As mathematicians, we notice patterns - this is something we are all trained to do. We bring these Executive 
+            actions to our community’s attention for several reasons: we see the pattern of science being ignored 
+            and the pattern of violence against our colleagues that give voice to race and racism."
+        "It is time for all members of our profession to acknowledge that mathematics is created by humans 
+            and therefore inherently carries human biases."  
+        "The time is now to move mathematics and education forward in pursuit of justice."
+
