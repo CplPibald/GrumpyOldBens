@@ -1,0 +1,114 @@
+102
+
+where we feed the trolls, because it entertains us
+where agreeing with the schools, the media, the banks, the unions, the government, the social networks,
+    the retailers, the universities, and the advertisers somehow makes you counter-culture
+
+Twitter pays $100k to WA state for violating campaign laws
+    https://washingtonstatewire.com/twitter-to-pay-100000-to-washington-state-for-multiple-campaign-finance-violations/
+    WA requires records of all campaign spending to be publically accessible
+    complaint from 2012 until Nov 2019 when Twitter banned political ads
+        Candidates reported paying $195k to twitter during that time
+    Sideshow Bob already got $200k from each of Google and Facebook in Dec 2018 for the same reason
+        (then sued Facebook again in April 2020)
+
+Twitter steps up censorship in wake of Hunter Biden story
+    Banned NY Post account and blocked links to Biden article
+        https://nypost.com/2020/10/14/facebook-twitter-block-the-post-from-posting/
+    Banned @kayleighmcenany
+        https://static.noagendasocial.com/media_attachments/files/105/035/627/885/692/752/original/1849889c497ef9a9.jpeg
+    Locked @TeamTrump official account
+        https://www.breitbart.com/tech/2020/10/15/twitter-locks-trump-campaign-account-less-than-3-weeks-before-presidential-election/
+    Links to House Judiciary Committee website are labeled "potentially unsafe"
+    Ajit Pai says FCC will regulate social media
+        https://www.theverge.com/2020/10/15/21518097/fcc-social-media-censorship-moderation-ajit-pai-section-230-nypost-biden
+        "Members of all three parties"
+
+Sec 230 reform draft legislation
+    Trump issued exec order on 28 May
+        https://www.whitehouse.gov/presidential-actions/executive-order-preventing-online-censorship/
+    DoJ proposes draft legislation
+        https://www.justice.gov/file/1319331/download
+    Brookings commentary (slanted, but not unreadable)
+        https://www.brookings.edu/techstream/trumps-section-230-reform-is-repudiation-in-disguise/
+    Adds carve-outs where protections do not apply
+        "Bad samaritan" carveout if service provider acted purposefully
+        Criminal carveout = provider had knowledge and failed to remove
+            or preserve evidence for one year --- Does this make illegal not keeping logs?
+        Judicial decisions = when a judgment is entered about defamatory material and provider doesn't comply
+    Mechanism must be "accessible and apparent"
+    New classifications of law for which there is no 230 protection
+        Anti-terrorism laws, child sex abuse laws, cyber stalking laws, antitrust laws
+    Clarifies that a person is a provider if you "solicit, comment upon, fund, or affirmatively and substantively 
+        contributes to, modifies, or alters information provided by any person or entity"
+    New "Good faith" section/definition:
+        Must have publicly available TOS "that state plainly and with particularity" content moderation policy
+        Must restrict access to things they say they block
+        Must not restrict access on "deceptive or pretextual grounds"
+        Must not restrict access to anything that "is similarly situated to material that the provider intentionally
+            declines to restrict"
+        Must give notice describing "with particularity" the "reasonable factual basis" for the restriction
+            Unless law enforcement asks not to give notice
+            or provider "reasonably" believes the material relates to terrorism
+        
+
+Online test taking and FERPA violations
+    As discussed on GOB 58
+        Proctorio, Examity, ProctorU
+    https://www.reddit.com/r/assholedesign/comments/ix866t/and_during_a_pandemic/
+    Honorlock = test proctor program acts like malware (chrome extension?)
+        - force close all other programs, incl. Zoom.  Doesn't let you reopen
+        - streams webcam directly to protcors/teachers
+        - edits registry
+        - detects virtual machines
+        - limited to chrome?
+        https://honorlock.com/wp-content/uploads/2020/03/Honorlock_App_Privacy_Policy_032020.pdf
+        Patent for detecting cheaters googling answers
+            https://patents.google.com/patent/US9881516B1/en
+            Uses test questions to generate and host SEO-fake-answers as a honeypot.  Detects a device looking for
+            answers from the same IP range while the test is being proctored
+            Watermarks test questions with special characters
+    Respondus Lockdown Browser
+        "Respondus uses facial recognition to see that there is a face in the frame in the security check before 
+            the test, and also we have to show our student ID, show around our room with our camera, and record 
+            ourselves talking so they know it isn’t someone else who looks exactly like us taking the test by 
+            monitoring our voice" -- DoctorDuck47
+        Stops you mid-test if its facial recognition can't find your face
+    Other computers/tablets?  Limited to one MAC address from university?
+    Some colleges do force webcams, because if people see a hotel room, then they know it's a COVID case and that violates HIPAA - Kallik (uni IT)
+        Chromebooks can't run lockdown browsers; so they have to loaner laptops
+    Advice:
+        Never admit you have a computer at college.  Force them to provide you one.
+        Tell Karens that pedo teachers are spying on kids?
+    FERPA
+        https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html
+        https://studentprivacy.ed.gov/resources/ferpa-and-coronavirus-disease-2019-covid-19
+        Parents can inspect child's education records
+            Right transfers to student if over 18
+                If either parent claimed student as dependent on taxes
+        Request a school to correct inaccurate records (can request a formal hearing if school refuses)
+        Schools need written permission to release most info
+            list of exceptions though: school officials, other school for transfer, audits or studies, accrediting, financial aid, law enforcement
+        covers grades, behavior, schoolwork
+        May disclose "directory" information: name, address, phone, date and place of birth, honors and awards, attendance
+            which is enough for identity theft
+            Parents may opt out of this
+        medical records (some debate...  "FERPA exception" in HIPAA)
+        "Health and safety exception"
+    GDPR
+    rumors of bricking computers?
+
+Yet more student monitoring crap
+    https://www.wired.co.uk/article/university-covid-learning-student-monitoring
+
+Boobury union IATSE zero-tolerance policy
+    International Alliance of Theatrical Stage Employees
+    follow covid restrictions or else
+        testing three times a week if near performers.  Otherwise once a week
+        Wear full PPE at all times on set
+        "Lab-based PCR tests, the gold standards of COVID-19 testing accuracy, or rapid PCR tests used in 
+            conjunction with lab-based PCR tests, will be allowed. Antigen and antibody tests are not acceptable."
+        "Dedicated COVID-19 compliance supervisor"
+    agreement between Hollywood unions and Alliance of Motion Picture & TV producers
+    "we must continue to recognize the severity of the COVID-19 crisis and the lethality of this contagion" - IATSE prez Matthew Loeb
+

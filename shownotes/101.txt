@@ -1,0 +1,37 @@
+101
+
+where the future is here and I want my money back
+where I have to talk to my apps because nobody else will listen
+
+
+bitwarden password manager vulnerability (via progo)
+    https://noagendasocial.com/@progo/104912126935567707
+    silent auto updates can install arbitrary code
+    FISA warrant, and you don't even know it happened
+    Co-founder of Keytern.al Jeffrey Paul
+        "The fact that, of all things, a password manager would grant FULL REMOTE CODE EXECUTION to its developers is 
+        insane. The very fact that you would ship a feature like this means you are in no way qualified to hold keys 
+        or authentication credentials that allow you to publish a new version that could, at your sole option, 
+        backdoor everyone's installations and steal all the passwords of every single user of this software."
+
+Nike Adapt BB 2.0 sneakers connect to heygoogle
+    https://9to5google.com/2020/10/08/google-assistant-nike-adapt-2-0-review/
+    Google assistant can now control Android apps by voice
+    demo they used was Nike's electronic laces
+        "Hey, Google, open Nike Adapt and unlace"
+        loosen and tighten
+        Back to the Future shoes "Nike Mag"
+
+MS Edge announces at Ignite 2020
+    https://blogs.windows.com/windowsexperience/2020/09/22/whats-new-in-web-experiences-ignite-2020-need-to-secure-your-remote-workers-choose-microsoft-edge-as-your-browser-for-business/
+    comes to Linux in October
+        It's Chrome that doesn't phone home to Google
+    "Hardware isolation through Microsoft Defender Application Guard"
+        Private mode on Win10 that spins up a new VM
+    kiosk mode is back (was removed in chromium ver)
+    more search overloading of address bar
+    "data loss prevention"
+        eg: pops up dialog (and notifies sysadmin?) if you try to move a file to an "unprotected" location
+
+CATO report card on governors' fiscal policy
+    https://www.cato.org/publications/white-paper/fiscal-policy-report-card-americas-governors-2020
