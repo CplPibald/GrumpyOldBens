@@ -1,0 +1,52 @@
+103
+
+where you are more likely to die in the car on the way to the COVID testing center than you are from the virus
+where my bill gates impression could still use some work
+
+"The Social Dilemma" review
+advice:
+    no social media before high school
+    no devices in the bedroom after a certain hour (eg: half hour before bed)
+    talk to kids about a time budget
+    NEVER click on a recommendation - always choose your YT video
+
+Raspberry Pi death flash (2015)
+    https://www.raspberrypi.org/blog/xenon-death-flash-a-free-physics-lesson/
+    Pi shuts down when exposed to high-frequency pulse such as xenon camera bulb or laser pointer
+        due to photoelectric effect
+    WL-CSP package: a bare silicon die with solder balls attached
+        chip marked U16 on a Pi 2, between USB power and HDMI port
+
+Faceboook can't win - censors left-leaning sites too (according to gizmodo/WSJ)
+    https://gizmodo.com/with-zucks-blessing-facebook-quietly-stymied-traffic-t-1845403484
+    in reaction to criticism about right-leaning censorship - wanted to appear unbiased
+    (maybe don't censor?)
+    Reportedly affected: Mother Jones
+    "Facebook’s been caught coddling right-leaning outlets and pages several times in the company’s bid 
+        to appear unbiased, lest it set off the frothing conservative mob out for its head over baseless 
+        claims of anti-conservative censorship." -- Alyse Stanley, Gizmodo
+
+Cuomo steps up the dystopian vibe
+    https://abcnews.go.com/US/ny-shuts-10000-person-wedding-cuomo-reveals-covid/story?id=73671721
+    "micro cluster strategy" - Rockland cty sherriff halts 10k person wedding in Brooklyn
+    "We have data so specific that we can't show it because it could violate privacy conditions. 
+        We know exactly where the new cases are coming from." - Cuomo
+    "A cluster signifies a lack of compliance, common sense. The only answer is more enforcement"
+
+Five Eyes plus India, Japan renew call for backdoors
+    https://www.infosecurity-magazine.com/news/five-eyes-repeat-encryption/
+    https://www.justice.gov/opa/pr/international-statement-end-end-encryption-and-public-safety
+    They still seem to think the tech companies just aren't trying hard enough.
+    "Encryption is an existential anchor of trust in the digital world and we do not support counter-productive 
+        and dangerous approaches that would materially weaken or limit security systems."
+    "Particular implementations of encryption technology, however, pose significant challenges to public safety,
+        including to highly vulnerable members of our societies like sexually exploited children."
+    want to ban end-to-end encryption (they call it "warrant-proof encryption")
+        1) Because it "severely undermines company's own ability to identify and respond to violations of their ToS"
+            (again mention child exploitation)
+        2) Because it keeps law enforcement out.  "protect national security, where there is lawful authority to do so"
+    "child" or "children" appears 13 times in the two-page release
+    "However, we challenge the assertion that public safety cannot be protected without compromising privacy 
+        or cybersecurity. We strongly believe that approaches protecting each of these important values are 
+        possible and strive to work with industry to collaborate on mutually agreeable solutions."
+
