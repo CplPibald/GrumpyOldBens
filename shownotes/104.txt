@@ -1,0 +1,105 @@
+104
+
+where people been toobin on camera since the invention of the internet
+in month 7 of our global experiment in Munchausen Syndrome by Proxy
+
+Discord starts censoring speech
+    https://reclaimthenet.org/discord-banning-misinformation/
+    Ice Age Farmer
+        according to page, dedicated to "gardening, preps, seed saving, canning, alternative construction & greenhouse channels"
+    Banned for misinformation (that old bromide)
+    Why?  All Discord communities are invite-only, not public
+Facebook disbanding anti-lockdown/anti-mask groups
+    https://reclaimthenet.org/state-governors-facebook-censorship-protest-groups/
+    https://reclaimthenet.org/facebook-begins-deleting-anti-mask-groups/
+Apple orders Telegram to censor in-app content or be booted from app store
+    https://reclaimthenet.org/telegram-apple-censoring-in-app-content/
+    App devs aren't even allowed to tell users that content was censored at Apple's request
+Sony to start listening to playstation chat recordings "for safety and moderation"
+    https://reclaimthenet.org/playstation-recording-voice-chats-moderation/
+Google de-ranks Mises 
+    https://mises.org/power-market/google-making-it-harder-find-mises-institute-content
+
+Chrome "bug" prevents browser from deleting Google, Youtube cookies when told to delete all cookies
+    https://www.theverge.com/2020/10/21/21526341/google-chrome-local-storage-cookies-youtube-search-bug-fix
+
+School worksheet misinformation about 2nd amendment (posted by @nostradamust)
+    https://noagendasocial.com/@nostradamust/105069098550774820
+    "The Bill of Rights in Today's World (F2591)" by "Instructional Fair / TS Denison"
+        Is a real teaching material publisher.  Can't find the publication
+    McDonald v. Chicago (2010)
+        76yo retired engineer wanted to buy a handgun.  Chicago required registration, but never gave them for handguns
+        Conclusion: Reaffirm 14th amendment that 2nd amendment applies to cities and states
+    DC v. Heller (2008)
+        Heller was a DC cop who carried a gun in federal office buildings, but couldn't carry in his home.
+        DC firearms law banned handguns, and required rifles/shotguns to be kept unloaded and disassembled or trigger locked
+        SCOTUS reaffirmed that 2nd amendment applies to individuals, not "militias" (national guard)
+
+San Diego school district goes woke
+    https://www.nbcsandiego.com/news/local/san-diego-unified-school-district-changes-grading-system-to-combat-racism/2425346/
+    `teachers can no longer consider non-material factors when grading. Things like turning work in on time 
+        and classroom behavior will now instead count towards a student's citizenship grade, not their academic grade.`
+
+Walton Central School District (Walton, NY) decides that two consecutive absences is a COVID case
+    https://noagendasocial.com/@pdk/105067865145973987
+    Need a doctor's note proving a negative to say it's a non-COVID illness
+
+4chan to hack OR/WA election sites?  #BigIfTrue #ButProbablyNot
+    https://noagendasocial.com/@progo/105067652498218567
+    https://boards.4chan.org/pol/thread/283257640#p283257640
+    Allegedly, knowing only name+DOB, you can cancel someone's vote via the website and get a new ballot sent out
+    Politifact lets their bias show through their smugness (but probably got it right this time)
+        https://www.politifact.com/factchecks/2020/oct/20/blog-posting/4chan-users-spread-false-information-about-oregons/
+        https://old.reddit.com/r/SeattleWA/comments/jdnicb/can_we_legitimately_go_into_any_washington_state/g9db09b/
+    WA site can issue a second ballot if first hasn't been received, but only first recieved with valid signature counts
+
+Bags of stolen Sammamish ballots
+    https://www.thegatewaypundit.com/2020/10/bags-full-stolen-ballots-found-seattle-suburb/
+
+North Carolina appeals court pushes election back until 12 Nov
+    https://www.thegatewaypundit.com/2020/10/north-carolina-appeals-court-rules-absentee-ballots-can-come-november-12th/
+
+Another giant Trump sign in California
+    https://www.breitbart.com/local/2020/10/20/second-trump-hollywood-style-sign-seen-in-california/
+    That picture, though...  I can't unsee the vagina in the hillside right under the sign...  :/
+
+Yet another Walgreens closing in SF
+    https://www.sfchronicle.com/bayarea/philmatier/article/Rampant-shoplifting-leads-to-another-Walgreens-15654730.php
+    Shoplifters walking in, scooping armfuls off shelf into backpack, and walk out.
+        ``As he walked past the checkout line, a customer called out, “Sure you don’t want a drink with that?”``
+    CVS across the street fully stocked.  Private security guard.
+
+Seattle cops leaving in droves, blasting city council in exit interviews
+    https://www.zerohedge.com/political/i-refuse-work-socialist-city-council-seattle-cops-go-scorched-earth-exit-interviews
+    "You could pay me twice what you’re paying me now and I would not work for Seattle under this current political 
+        mayhem, Marxist collaborations and lack of government and police leadership."
+
+US justice dept talking about breaking up Chrome
+    https://yro.slashdot.org/story/20/10/17/0349230/us-antitrust-regulators-could-target-googles-chrome-browser-for-breakup
+    https://appleinsider.com/articles/20/10/12/justice-department-takes-aim-at-google-chrome-for-potential-big-tech-breakup
+    From anonymous sources speaking to Politico (spokesperson declined to comment)
+    Want to force Google to sell off Chromium into an independent group
+
+Law enforcement casting "geofence" nets
+    https://www.wired.com/story/creepy-geofence-finds-anyone-near-crime-scene/
+    https://www.techdirt.com/articles/20201010/07291345476/law-enforcement-also-using-reverse-warrants-to-obtain-google-searches.shtml
+    also called "reverse warrant"
+    Works like this: Find when a crime happened, then subpoena google, verizon, AT&T, etc to get everybody that was in the location
+        Instant suspect list.  Investigate those people
+    violates presumption of innocence?  Probable cause?
+    Get it wrong sometimes (eg: Jorge Molina of Phoenix spent a week in jail in March 2019)
+    Law Enforcement claims that warrant isn't even required because you're already giving up that data
+    Now also grabbing everyone who did a particular google search (eg: home address)
+        do web searches constitute probable cause?
+
+UK ISPs are giving customer data to TV network owners
+    https://torrentfreak.com/isps-are-monitoring-iptv-pirates-activities-court-documents-reveal-201018/
+    UEFA sued Sky Ireland over allowing matches to be pirated.  
+        Evidence is sealed, but specific subscriber traffic analysis was used (what?)
+    ISPs have been blocking pirate sites during matches for years    
+
+UK NHS giving tracing data to police
+    https://www.bbc.co.uk/news/uk-54586897
+    If a person tests positive, police are now notified and enforce isolation
+    fail to isolate = £1,000 to £10,000 fine
+        enforced by app
