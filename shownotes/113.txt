@@ -1,0 +1,43 @@
+113
+
+Where there is a special level of hell for people who play christmas music before Thanksgiving
+where we trust the mystery meat, even though we know we shouldn't
+
+Facebook tracks you.  Next: water is wet
+    https://www.distractify.com/p/centra-facebook-tool
+    Josh Hawley (R-MO) grilled Zuck about it
+        Zuck responded he wasn't familiar with a program by that name (of course not - he has underlings for that)
+        Hawley wanted to know "how many accounts in the US have been subject to review and shut down through Centra"
+    revealed a couple years ago that FB "marks" uploaded photos to track outside platform
+        https://www.forbes.com/sites/zakdoffman/2019/07/14/facebook-is-embedding-hidden-codes-to-track-all-your-uploaded-photos-report/
+        Custom IPTC metadata (International Press Telecommunications Council)
+            https://iptc.org/standards/photo-metadata/iptc-standard/
+            "Photo metadata is key to protecting images' copyright and licensing information online."
+            upload image, then someone saves and uploads later, boom link between them
+                or just a method of deduplicating
+            "You download a meme from some account/page which is known to spread propaganda/hate speech etc.
+                Now you think, hey let me just share this on WhatsApp on my family groups, because why not. 
+                Now Facebook can easily tag you as a user who 'believes in that propaganda' and can sell that 
+                data to political parties or companies to target ads or more propaganda on you."
+                https://www.reddit.com/r/privacy/comments/ccndcq/facebook_is_embedding_tracking_data_inside_the/
+        Some services (eg: Twitter) strip IPTC/EXIF on upload
+    ways FB tracks:
+        Any app using FB API
+        Using FB login
+        Friends with FB (scrapes their contacts)
+        All browsing using a device you've used to log in to FB
+        Webcrawl images and pull IPTC/EXIF to link to uploader
+Solomon Islands wants to ban Facebook
+    https://www.abc.net.au/news/2020-11-23/solomon-islands-set-to-ban-facebook-for-sake-of-national-unity/12910786
+    to stop cyberbullying and online defamation
+
+Steal Tesla model X with bluetooth hack
+    https://www.wired.com/story/tesla-model-x-hack-bluetooth/
+    Tesla uses BT for keyless entry - if your phone is near, the car unlocks
+    Hack rewrites firmware of key fob via BT and gets unlock code from fob
+        1) Key fob has no code signing for FW updates.  New FW to query secure enclave chip inside fob
+            Interface with fob by buying used "body control module" from a Tesla
+        2) Use fob secret + VIN number to generate unique unlock code
+        3) Key fobs contain unique key, but it is not checked.  Can pair new key and drive away.
+    Company pushes OTA updates all the time, so fix is soon
+    In the past, attackers have relayed key fob attacks (eg: from inside house)

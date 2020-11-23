@@ -1,0 +1,80 @@
+110
+
+where if Vegas casinos used the same math as election officials, they would be a much more popular
+from America's left coast, this is Agent of Suppression
+
+== Election ==
+
+    Dominion software manual
+        https://threadreaderapp.com/thread/1326715838850764802.html
+    Spoilation of evidence
+        https://www.americanthinker.com/articles/2020/11/what_the_layperson_can_make_of_election_law.html
+        https://freedomheadlines.com/freedom-wire/mathematical-proof-of-voter-fraud-biden-violates-benfords-law/
+        Alito ordered PA to separate on-time from timely ballots
+            if this didn't happen, it is spoilation of evidence
+                specifically, discarding envelope with signature and date and corresponding ballot inside
+            and case law says that it must be interpreted in the worst way posible against the spoiler
+                meaning possibly ALL mail-in ballots in particular precincts being discarded
+        SCOTUS probably won't rule a winner,
+            but they could declare no electors allowed from that state
+        Keeping only (R) observers away is prima facie evidence of criminal intent by (D) - aka obstruction of justice
+        Supreme Court ruled in Bush v. Gore (2000) that election rules must be objectively followed - not subjectively applied
+        Article II, sec. 1 of Constitution: "Each state shall appoint, in such manner as the legislature thereof may direct, a number of Electors..."
+            Gov, Secstate, and state SC have no say.
+            So state legislature of PA, GA, NC, WI, and AZ (all (R) legislatures) could convene and declare a winner
+    Benford's Law
+        Prediction of first-digit (and second, third, etc) probabilities
+        https://www.thegatewaypundit.com/2020/11/breaking-twitter-facebook-suspending-anyone-retweeted-tweet-benfords-law-shows-inplausibility-biden-vote-distribution/
+        Probability of this vote distribution: 10^-23
+        Of course big tech is censoring any discussion of it.
+    Statistical case (Steve Cortes, Trump campaign advisor)
+        https://www.realclearpolitics.com/video/2020/11/10/steve_cortes_delivers_statistical_case_against_biden_the_improbability_of_joe_bidens_victory.html
+        https://thenationalpulse.com/news/case-against-biden-win/
+        1. Voter turnout
+            About 160M votes cast of 240M registered voters = 66% overall
+            WI: 84%, MI: 101%
+        2. Better than Obama?
+        3. Biden-only ballots
+            GA: • Trump: 818  • Biden: 95,801
+        4. Rejected ballot rate
+            Normal: about 3%
+            PA: 0.03%  NY: 21% back in June
+    Michigan: More voters than population
+        https://www.theepochtimes.com/mkt_app/more-eligible-voters-in-michigan-than-population-size_3574149.html
+        July 2019 population of michigan according to US census: 9,986,857
+        Estimated Oct 2020 (World Population Review): 10,045,000
+        79% over 18, according to census, or about 7.9M
+        Voter info center shows 8.1M registered votes, 200k more than state's voting-age population
+    PA ballots returned before they were sent
+        https://www.theepochtimes.com/pennsylvania-100000-ballots-with-implausible-return-dates_3572942.html
+        Over 100k ballots returned day of or after sent out.  23k have return date before they were sent.  9k with so sent date
+    PA Trust the Vote lawsuit:
+        https://www.breitbart.com/politics/2020/11/11/true-the-vote-lawsuit-illegal-ballots-counted-in-four-pennsylvania-counties/
+        Selectively choosing only Dems to "cure" defective ballots
+        Officials urging unregistered voters to use a registered name
+        Delaware Cty: given ballots but not required to sign registration
+        People sent mail-in ballots and then told to vote in person
+    Time-series analysis from Edison Research data (scraped from nyt.com)
+        https://www.zerohedge.com/political/it-defies-logic-scientist-finds-telltale-signs-election-fraud-after-analyzing-mail-ballot
+        https://static.noagendasocial.com/media_attachments/files/105/184/609/774/194/405/original/8cb1919a8843a2df.jpg
+        https://threadreaderapp.com/thread/1325599797273825287.html
+        Plot ratio between candidates over time.  Mail-in is constant with slight drift toward R (rural)
+            45 states hold this pattern
+        Actual graphs note jumps (balot dumps?) in ratio for WI, GA, MI, VA.  PA graph shows steady upward trend
+    Thousands of votes "lost" or mysteriously switched from Trump to Biden (Dominion)
+        https://www.thegatewaypundit.com/2020/11/breaking-exclusive-analysis-election-night-data-states-shows-millions-votes-either-switched-president-trump-biden-lost/
+        https://thedonald.win/p/11Q8O2wesk/happening-calling-every-pede-to-/
+        "glitches": Switch where exact same number subtracted from Trump added to Biden in a moment
+            or lost votes, where the number just went down for no reason
+        States with Dominion systems or Premier Election Systems (owned by Dominion)
+            PA: 221k switched, 941k lost
+            NY: 18k switch, 623k lost
+            VA: 12k switch, 789k lost
+            MN: 196k lost
+        Overall, almost 3 million votes deleted and over 500k switched from Trump to Biden, 
+            (according to thedonald.win thread)
+    Google manipulating votes (Dr. Robert Epstein)
+        controlling first result
+        sending "go vote!" message only to democrats
+
+--

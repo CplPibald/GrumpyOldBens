@@ -1,0 +1,34 @@
+107
+
+where we will NOT be reminding you to vote tomorrow
+
+
+CDC cancels flu season
+    https://www.cdc.gov/flu/weekly/weeklyarchives2020-2021/Week40.htm
+    "Geographic Spread: Because of the ongoing COVID-19 pandemic, this system will suspend data collection for the 2020-21 influenza season."
+
+Trump Train uses Antifa tactics
+    https://www.zerohedge.com/political/watch-caravan-vehicles-trump-shut-down-new-jersey-highway
+    Using the same evil tactics as BLM, causing harm and inconvenience to people who want to be left alone
+
+Keurig releases yet another DRM'd coffee maker: Keurig Custom Smart for $400
+    https://www.bloomberg.com/news/articles/2020-10-02/keurig-introduces-wi-fi-enabled-smart-brewer-to-compete-with-nespresso
+        Article reads like a goddamn press release
+    wi-fi enabled
+        "It knows, to the degree, what temperature the water should automatically be warmed or cooled to and
+            the pace at which it then trickles through the grind and into the cup."
+        Highly configurable heat, speed, strength ... through a mobile app
+    Juicero anyone?
+"Smarter" iKettle and Coffee maker vulnerability (Sep 2020)
+    https://arstechnica.com/information-technology/2020/09/how-a-hacker-turned-a-250-coffee-maker-into-ransom-machine/
+    Smart Kettle has full OS inside, connected to wifi, and no authentication
+    PenTest Partners first found vulnerabilities in ikettle in 2015
+        Disrupt and spoof wifi access point, let kettle join, connect to telnet, and use default admin password
+    Company never issued a warning.  It's a kettle, so many still in use
+    Smarter released new coffee maker in 2018.  
+        Researcher Martin Hron from Avast played with it.
+        Out of the box, acted like an unsecured wifi AP, to communicate with phone app (no authentication)
+        Created custom firmware and flashed via app, which allowed:
+            turn on/off burner, dispense water (even if no pot), spin the bean grinder, display messages, and beep
+
+

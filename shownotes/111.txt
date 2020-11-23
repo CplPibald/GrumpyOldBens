@@ -1,0 +1,54 @@
+111
+
+where the foul stench of autocracy is in the air
+where I've learned that questioning the pope is okay, but thou shalt not question the infallability of Jack Dorsey
+
+
+Archive.org adding "fact check" labels to wayback pages
+    https://www.rt.com/op-ed/505437-internet-archive-censorship-slippery-slope/
+    https://www.msn.com/en-us/news/technology/internet-archive-rolls-out-fact-checking-on-archived-webpages/ar-BB1aDnpQ
+    Important step to rewriting history. 
+        "Who controls the past controls the future.  Who controls the present controls the past." -- Orwell
+    Brewster Kahle has TDS: plans to move server farm to Canada after Trump's 2016 win
+    Biggest donors: Knight Fdn, Andrew Mellen Fdn, Rita Allen Fdn, Pierre Omidyar's Democracy Fund
+        who also fund Poynter Institute, which handles online "fact checking" for FB and Twitter (Ministry of Truth)
+
+New Florida law strengthens stand-your-ground law
+    https://www.miamiherald.com/news/politics-government/state-politics/article247094007.html
+    Permits violence against anyone involved in the "interruption or impairment" of a business
+        burglary within 500ft of a "violent or disorderly assembly"
+    Blocking traffic during protest a "third degree felony"
+        Immunity to drivers who unintentionally kill or injure protesters blocking traffic
+    State to withhold funds from any locality that cuts police budget
+
+EU to ban end-to-end encryption?
+    https://www.zerohedge.com/political/european-union-moves-outlaw-encrypted-apps
+    mandate that apps such as Telegram, Signal, and WhatsApp give backdoor access to EU intelligence 
+    excuse is recent islamic terrorist attacks in France and Austria
+    Draft Resolution on Encryption from Council of EU
+    https://files.orf.at/vietnam2/files/fm4/202045/783284_fh_st12143-re01en20_783284.pdf
+    "We acknowledge encryption is good, but we still need access.  Don't worry, you can trust government."
+    "Sec. 4: Creating a better balance"
+    Yet another call for tech companies and gov't to work together for "a solution" (aka backdoors)
+    Schrems II - July 2020: C-311/18, Data Protection Commissioner v Facebook Ireland Ltd
+        https://www.steptoe.com/en/news-publications/european-courts-judgment-in-schrems-ii-puts-eu-data-flows-between-a-rock-and-a-hard-place.html
+        Max Schrems sued to prevent facebook from sending his personal data to USA
+        Court concluded that US law did not afford EU citizens a level of protection 'essentially equivalent' to 
+            that guaranteed by the EU Charter of Fundamental Rights
+
+Should working from home be taxed?  (Andrea Riquier of Market Watch)
+    https://www.marketwatch.com/story/should-working-from-home-be-taxed-11605027448
+    Betteridge's Law
+    "Workers are leading a 'full economic life' but contributing less to the infrastructure of the economy whilst still receiving its benefits"
+        "benefits" like downtown office real estate, and transportation systems....  which they're NOT USING
+
+New macbook using M1 chip comes out this week
+    https://www.oann.com/apple-to-unveil-macs-with-their-own-processors-widening-its-app-ecosystem
+    all 64-bit ARM
+    air starting at $1000, pro at $1300, and mini at $700
+    Cost savings estimated $150-$200/chip. Prices going down?  2018 starting price was $1200, 2019 was $1100
+    of course, upgrade to 16Gb ram and 2Tb storage brings the price closer to $2k
+    It's fast in benchmarks:
+        https://www.macrumors.com/2020/11/15/m1-chip-emulating-x86-benchmark/
+    but who cares, we're not TWiT
+

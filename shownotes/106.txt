@@ -1,0 +1,42 @@
+106
+
+where after 243 days of sheer collective terror, Halloween has been deemed unnecesary
+where the people you want to see in yoga pants are not the people you see in yoga pants
+
+Shure MV7 microphone?
+
+"Smart" yoga pants (via BillyBon3s)
+    https://www.wearablex.com
+    Monitors your body position during yoga
+    "haptic feedback" (vibrates) if you're doing it wrong
+        and it talks to you
+    Connects to phone via bluetooth LE
+    "Sydney-born, NYC-based company"
+
+KB4577586 removes Adobe Flash from Windows, prevents reinstallation
+    https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-update-to-remove-adobe-flash-from-windows/
+    for Windows 10, via Microsoft Catalog (manual install)
+    Removes OS-bundled flash player
+    According to bleepingcomputer, doesn't seem to remove Flash browser component in Edge or other browsers
+
+Win10 October Update (20H2)
+    https://www.techrepublic.com/article/windows-10-20h2-heres-why-youll-need-to-upgrade/
+    MSFT reintegrating Edge into OS?
+        https://www.reddit.com/r/privacy/comments/jk7bve/
+        As usual, the update shits an Edge icon onto desktop and taskbar
+            and is not uninstallable from control panel
+            "because Windows supports applications that rely on the web platform, our default web browser is an essential
+                component of our operating system and can't be uninstalled"
+        Sets Edge to default browser via first-run dialog
+            "recommended"  “best browser for Windows 10 with enhanced privacy protection”.
+                hardware isolation (VM), data loss prevention (nag when you try to drag/drop) - mentioned show #101
+        Creates scheduled tasks to keep Edge "auto updated" (rather than use WU)
+        MSFT got sued back in the 90s for browser bundling (consent decree)
+            https://en.wikipedia.org/wiki/United_States_v._Microsoft
+            Consent decree expired in 2007, extension expried in 2012
+        But this is now standard operating procedure on all operating systems 
+            All mobile come with browser.  ChromeOS
+        https://www.zdnet.com/article/microsoft-heres-why-you-cant-uninstall-our-edge-browser/
+        https://www.lifehacker.com.au/2020/07/how-to-uninstall-edge-chromium-when-windows-10-wont-let-you/
+    Alt+tab now shows every Edge tab
+    Settings app takes over a little bit more control panel functionality (but still not all of it)

@@ -1,0 +1,41 @@
+105
+
+where the average American now spends more on taxes than food, clothing, healthcare, and entertainment combined
+where we're not woke, but still broke
+
+Average 2019 American spent $15,245 combined on food, clothing, healthcare, and entertainment
+    and had $18,764 stolen in taxes
+    2016 was the first time taxes have been higher than discretionary spending
+    https://cnsnews.com/commentary/terence-p-jeffrey/americans-spent-more-taxes-2019-food-clothing-health-care-and
+
+Youtube-DL source taken down from github by RIAA DMCA notice
+    https://github.com/ytdl-org/youtube-dl
+    https://soylentnews.org/article.pl?sid=20/10/24/0058203
+    Youtube uses a cypher to trivially encode its video source (then sends JS to decode the cypher)
+        Youtube-DL copies the JS algorithm and runs it in python
+        which invokes anti-circumvention of DMCA
+    Notice was given to Github (MSFT), who shut down github repo
+        youtube-dl site still works, still has code
+    Source code contained test cases and readme that download copyrighted music
+    Lots of source mirrors available
+        but the next YT change breaks all of them.  Needs more devs
+
+Wikipedia deletes "List of scientists who disagree with the scientific consensus on global warming"
+    https://electroverse.net/wikipedia-deletes/
+    https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming
+    Excuse was the inconsistently-applied 'notability' standard
+        https://en.wikipedia.org/wiki/List_of_Death_Note_episodes
+        https://en.wikipedia.org/wiki/List_of_Naruto_episodes
+        https://en.wikipedia.org/wiki/List_of_Friends_episodes
+    "I see a consensus here that there is no value in having a list that combines the qualities of a) being a scientist,
+        in the general sense of that word, and b) disagreeing with the scientific consensus on global warming."
+    20 keep votes in the thread, 35 delete
+    Every online hivemind eventually moves left, because there are more unemployed leftists online
+        and because they're willing to shout down dissenters
+
+Expensify gets woke.  Prepare for going broke
+    https://www.bloomberg.com/news/articles/2020-10-23/expensify-biden-email-goes-out-to-10-million-customers
+    David Barrett, CEO of Expensify
+    Contrast Brian Armstrong from Coinbase (whom Barrett called "cowardly")
+
+https://fee.org/articles/if-american-healthcare-kills-european-healthcare-kills-more/

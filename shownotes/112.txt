@@ -1,0 +1,113 @@
+112
+
+left coast where I know which end of the microphone to speak into
+where our governor continues to tighten his grip on the testicles of the economy
+
+Trump election exec order Sep 2018
+    https://www.whitehouse.gov/presidential-actions/executive-order-imposing-certain-sanctions-event-foreign-interference-united-states-election/
+    After each election, DNI and AG must investigate foreign interference, incl postmortem and whether affected outcome
+    US gov't can seize "all property and interests" of anyone found:
+        to have directly or indirectly engaged in, sponsored, concealed, or otherwise been complicit in foreign 
+            interference in a United States election;
+        to have materially assisted, sponsored, or provided financial, material, or technological support for, 
+            or goods or services to or in support of, any activity ... or person blocked by this order
+        to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly,
+            any person whose property or interests in property are blocked pursuant to this order.
+    other sanctions on someone: block transactions, prevent banks from transacting, freeze assets
+        may not enter US
+    "Any conspiracy formed to violate any of the prohibitions set forth in this order is prohibited."
+    loophole: Sec. 10. Nothing in this order shall prohibit transactions for the conduct of the official business 
+        of the United States Government by employees, grantees, or contractors thereof
+
+Inslee tightens grip on testicles of the economy (aka: "Inslee hates Thanksgiving")
+    https://www.seattlepi.com/coronavirus/article/new-washington-coronavirus-restrictions-inslee-15728705.php
+    "Ban" all indoor gatherings, indoor dining
+    25% capacity for grocery, retail, "personal services" (eg: barber/stylist)
+    25% capacity for churches or "religious gatherings" (max 200)
+    Office employees required 100% work at home
+    No indoor youth sports.  Athletes must wear masks
+    No gyms, movie theaters, bowling, museums, aquariums
+    "Since the beginning of the pandemic, Washington has reported 127,731 cases, 9,281 hospitalizations and 2,519 deaths."
+
+"Nearly 20% of COVID-19 survivors develop mental illness
+    https://sputniknews.com/society/202011111081133302-nearly-20-of-covid-19-survivors-develop-mental-illness-study-finds/
+    Published in The Lancet Psychiatry studied 62k cases
+    18% diagnosed with mental illness.  6% of those were first-time diagnoses
+    Only mention of "lockdown" in study is that their data might be higher but people were undiagnosed due to medical centers closed
+
+UCSF mask study retracted
+    https://www.theblaze.com/op-ed/horowitz-pro-mask-study-withdrawn-after-virus-spread-in-counties-analyzed-by-researchers
+    published 23 October
+    Studied 1083 US counties and found correlation between mask mandates and lower hospitalizations
+    Withdrew study 4 Nov because the rates went back up
+
+Digital license plates
+    https://www.usatoday.com/story/tech/2020/11/14/digital-license-plates-cars-trucks-suvs/6262494002/
+    $600 plus $75/yr
+    Connected via cell (verizon/att)
+    Renew registration with app
+    Tracks where your car is at all times (it's a feature!)
+    “Everything is encrypted end to end. Think about our platform as being like online banking; it’s absolute safe 
+        and protecting everyone’s data.” - Neville Boston, who sells these things
+    "virtual wallet for your car"
+    "I can put up my favorite sports team, and I can change the background color"
+
+Women's Liberation Front (WOLF) opposes Biden's Equality Act because of too much transgender equality
+    https://www.breitbart.com/politics/2020/11/18/feminists-biden-support-lgbt-equality-act-would-harm-womens-rights/
+    Equality Act (May 2019)
+        - give bathroom and locker room access to individuals based on their ‘gender identity,' not birth sex
+        - Eliminates religious exemptions from 1993
+        - Sexual orientation and gender identity become protected classes under 1964 Civil Rights Act
+        - Change definition of "sex" in CRA to include pregnancy/childbirth
+            meaning "can't discriminate based on wanting an abortion"
+    WOLF hates the first clause - TG bathrooms
+        from WOLF website: “female humans, the class of people called women, are oppressed by men under a male-supremacist system called patriarchy,”
+
+Scotland police now let people report crimes via Alexa or smartwatch
+    https://www.thetimes.co.uk/article/hi-alexa-please-report-a-crime-to-police-scotland-b7jt933hl
+    New draft strategy document for consideration
+    "Control room staff will also be able to remotely control the mobile phones of those calling in and use them to record continuing incidents."
+    Send drones to crime scenes
+Report crimes via Alexa in Lancashire UK (2018)
+    https://www.cnet.com/news/uk-police-want-you-to-report-crimes-to-alexa/
+    https://theintercept.com/2018/03/09/amazon-echo-alexa-uk-police/
+    New weapon in Karen's arsenal
+    security?  storing police reports with Amazon?  opt-in for now
+
+Open Street Map being taken over by big tech
+    https://joemorrison.medium.com/openstreetmap-is-having-a-moment-dcc7eef1bb01
+    as a fuck you to Google
+    purists, as expected, are upset it's being co-opted
+
+Kurt Russell Court Jester
+    https://www.latimes.com/entertainment-arts/story/2020-11-19/kurt-russell-politics-celebrities-court-jesters
+
+T-mobile censoring text messages
+    2010 T-mobile lawsuit from EZ Texting
+        https://techcrunch.com/2010/09/23/t-mobile-claiming-right-to-censor-text-messages-it-disapproves-of/
+        https://yro.slashdot.org/story/10/09/18/1244230/T-Mobile-Facing-Lawsuit-Over-Text-Message-Censorship
+        Tmo blocked EZ after medical marijuana signed up for EZ
+    2020 T-mobile again being accused of censorship
+        https://www.privateinternetaccess.com/blog/some-t-mobile-customers-shadowbanned-from-texting-after-sending-the-word-belly-via-sms/
+            Reddit thread on word "belly".  Claims glitch (misconfigured spam filter?)
+        https://news.ycombinator.com/item?id=24020183
+        No remediation procedure, just a 10day ban
+        legal issues?  blocked 911 calls?
+        Accusation on NAS of "COVID" censoring
+
+Lawsuit filed against google for wasting customers' data
+    https://www.theregister.com/2020/11/14/google_android_data_allowance/
+    plaintiffs in IL, IA, WI
+    260Mb/month
+
+Google app lets banks manage and lock you out of your android device
+    https://enigmatic.observer/notice/A11lczP2dTxdw8HeYi
+    from HN
+    > People who are not from these countries (Kenya etc.) might not know that the following are already true—
+    > [1] Many people buy phones on loans, because even cheap phones are quite expensive for the average Kenyan.
+    > [2] These phone companies _already_ use device policy based apps to control usage for those who have not paid. The difference is that these apps are actually predatory, they are free to siphon off data and what not, and have the usual shadiness that you expect from apps made by relatively random corps who care way less about user privacy than big cos.
+    > What this solution seems to be doing is providing a way to enforce the device lock policy at the OS level that actually lessens the vice-grip that these companies have on the user's phones and limits the power of the company to only block the phone from use, as opposed to the earlier model where they could do whatever the fuck they wanted on the device using their installed software.
+    So it is not as outrageous as it originally seems.
+
+
+
