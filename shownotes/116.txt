@@ -1,0 +1,162 @@
+116
+
+where Elliot Page is a shoe-in for Hollywood's Best Female Impersonator award
+don't need a second wave because it's already communist
+
+DameB: "extreme protesting is parkour for assholes"
+
+I have a name for the m5m's favorite rhetorical fallacy
+    https://en.wikipedia.org/wiki/Argumentum_ad_lapidem
+    https://www.crisismagazine.com/2017/throwing-stones-everyones-favorite-fallacy
+    Argumentum ad lapidem, aka Appeal to the Stone
+
+Reminder: Bruesewitz v. Wyeth 2010 : SCOTUS decided that vaccine mfrs are not liable for any vaccine injury
+    "plaintiffs design defect claims were expressly preempted by the Vaccine Act"
+    6-2 with Sotomayor and Ginsberg dissenting
+
+Impeachment against Mike DeWine (OH)
+    https://www.breitbart.com/politics/2020/11/30/articles-of-impeachment-filed-against-ohio-gov-mike-dewine-over-abuse-of-power-during-coronavirus-pandemic/
+Michigan UP counties support impeaching Whitmer
+    https://www.mlive.com/news/2020/11/northern-michigan-county-board-declares-its-support-of-impeaching-gov-whitmer.html
+
+== voting shiz
+
+Bruce Schneier swerves outside his lane and into politics - goes full TDS
+    https://www.schneier.com/blog/archives/2020/11/undermining-democracy.html
+        Previously appeared in the New York Times
+        Tags: disinformation
+        comments are clearly censored
+    Rehashes "russian disinformation campaign of 2016"
+    "When people's faith in the democratic system is undermined, democracy stops working"
+        but he seems to think it was Trump's lawsuits that are undermining confidence, and not the fraud that predicated them
+    Calls it "an insider attack"
+        "In democracy, the insiders aren’t just the officials who manage voting but also the politicians who shape what people believe about politics.
+        "For four years, Donald Trump has been trying to dismantle our shared beliefs about democracy. And now, his fellow Republicans are helping him"
+    "Democracy works when we all expect that votes will be fairly counted, and defeated candidates leave office."
+    "The fundamental problem, is Republican insiders who have convinced themselves that to keep and hold 
+        power, they need to trash the shared beliefs that hold American democracy together."
+    "We know how to make voting itself more open and more secure. The more difficult problem is this. How do you 
+        shift the collective belief among Republicans that elections are rigged?"
+        Oh, I dunno, MAYBE DON'T RIG ELECTIONS
+Schneier signs on as an "expert" saying there's no evidence of fraud
+    https://www.schneier.com/blog/archives/2020/11/more-on-the-security-of-the-2020-us-election.html
+    One-page letter amounting to a massive appeal to authority
+        signed by 59 people with mostly university credentials
+    The entire substance of the letter
+        "We are aware of alarming assertions being made that the 2020 election was “rigged” by
+        exploiting technical vulnerabilities. However, in every case of which we are aware, these claims
+        either have been unsubstantiated or are technically incoherent. **To our collective knowledge**, no
+        credible evidence has been put forth that supports a conclusion that the 2020 election outcome
+        in any state has been altered through technical compromise."
+    https://www.schneier.com/blog/archives/2020/11/2020-was-a-secure-election.html
+
+Dominion wasn't legal to operate in Missouri because they didn't pay taxes
+    https://www.thegatewaypundit.com/2020/12/missouri-lawmaker-discovers-dominion-failed-pay-missouri-taxes-not-allowed-operate-state-still-running-elections/
+
+QSnatch malware
+    https://www.zdnet.com/article/cisa-says-62000-qnap-nas-devices-have-been-infected-with-the-qsnatch-malware/
+    Attacks NAS devices from QNAP
+    Installs fake admin login page to capture credentials
+    SSH backdoor and web shell
+    Steals predetermined list of files incl. system config and logs, encrypted with attacker's public key, and sent to the internet
+    blocks updates to firmware
+    Now allegations that it was installed on Dominion precinct servers (don't know if it was intentional)
+
+Judicial Watch sues Colorado to clean up voter rolls
+    https://www.judicialwatch.org/press-releases/co-voter-rolls/
+    National Voter Registration Act of 1993
+    In 2019, 40 out of 64 Colorado counties had registrations exceeding 100% of voting-age population
+        8 counties had over 17% of registered voters inactive
+    Also sued PA and NC for same thing earlier this year
+    Sued IL in Sept for refusing to disclose voter roll data (in violation of federal law)
+    2019 study found 378 counties nationwide had more registered voters than voting-age population
+        Accounting for 2.5 million registrations over 100%
+    These inaccurate voter rolls are what was used to send out absentee ballots
+
+== Mask holes
+
+Concordia University shuts doors, cancels all sports after 50 false positive COVID tests
+    https://nypost.com/2020/11/25/university-covid-outbreak-due-to-more-than-50-false-positive-results/
+    antigen tests given to healthy people
+        48 students and 16 staff tested positive
+    All school activities canceled, classes are remote until spring semester
+
+No masks on pregnant women and babies
+    https://rationalground.com/justice-is-essential/
+    stillbirths from hypoxic pregnant women 
+    brain damage in babies
+    accidents from bus drivers and pilots
+
+== "Tech"
+
+Facebook WoW project teaches algo to go easier on hate against whites
+    https://www.washingtonpost.com/technology/2020/12/03/facebook-hate-speech/
+    "According to the new proposals, it is not as wrong to spew “hatred” directed towards men, whites, Americans, 
+        and Christians than it is to do the same against US-minority groups."
+    numerical scores weighted based on their perceived harm
+    engineers said they had changed the company’s systems to deprioritize policing contemptuous comments about “Whites,” “men” and “Americans.”
+        categorized as "low-sensitivity", so not automatically deleted
+    "Because describing experiences of discrimination can involve critiquing White people, Facebook’s algorithms 
+        often automatically removed that content, demonstrating the ways in which even advanced artificial 
+        intelligence can be overzealous in tackling nuanced topics."
+    “We can’t combat systemic racism if we can’t talk about it, and challenging white supremacy and White men is an
+        important part of having dialogue about racism,” said Danielle Citron, a law professor specializing in free
+        speech at Boston University Law School, who also reviewed the documents. “But you can’t have the conversation 
+        if it is being filtered out, bizarrely, by overly blunt hate speech algorithms.”
+
+Github removes MediaBox HD in response to DMCA notice from MPA
+    https://torrentfreak.com/mpa-hits-mediabox-hd-on-github-massive-movie-tv-show-piracy-201128/
+    https://github.com/github/dmca/commit/fe18e807c487baf2e6bc9971df8822e0e8774acf
+    after they reinstated youtube-DL, as mentioned on GOB 112
+        Also Hellboy producers vs MKVCage story on GOB 115
+    TweakBox appstore had removed MediaBox after Hellboy producers complained in Sep 2019
+    Only Android version of app had been hosted on github; ios was selfhosted
+        now Android page on github points back to mediaboxhd.net
+
+Trump wants sec230 removed in NDAA
+    https://www.breitbart.com/politics/2020/12/02/donald-trump-threatens-to-veto-defense-bill-without-terminating-section-230/
+    Threatened to veto unless it repeals 230
+    Current draft (Thursday) doesn't have the provision (but does contain $730B of military spending)
+        https://www.msn.com/en-us/news/politics/defense-bill-released-without-section-230-repeal-despite-trumps-threats-to-veto/ar-BB1bCfa8
+        https://www.nextgov.com/cybersecurity/2020/12/final-ndaa-calls-establishment-national-cyber-director/170478/
+        https://www.congress.gov/bill/116th-congress/house-bill/6395/text
+        $1.5B in appropriations specifically listing COVID
+            "SEC. 704. Mental health resources for members of the Armed Forces and their dependents during the COVID–19 pandemic."
+        removal of Confederate "names, symbols, displays, monuments"
+            Camp Beauregard (LA), Ft Benning (GA), Ft Bragg (NC), Ft Gordon (GA), Ft A.P. Hill (VA), Ft Hood (TX),
+            Ft Lee (VA), Ft Pickett (VA), Ft Polk (LA), Ft Rucker (AL), Camp Maxey (TX), Camp Pendleton (VA)
+        other pork
+            "SEC. 375. Repeal of sunset for minimum annual purchase amount for carriers participating in the Civil Reserve Air Fleet."
+            
+    Tulsi Gabbard agrees
+        https://www.rt.com/usa/508553-tulsi-trump-section-230/
+        She sued Google back in July over her campaign being censored
+        more votes than Kamala at DNC
+        Also against lockdowns as applied
+    sidenote: Etsy (Brooklyn) bans "stop the steal" stocking cap
+
+Aricebo telescope collapses
+    https://www.bbc.com/news/world-us-canada-55147973
+    Instrument platform fell into the dish
+    Two cables had previously broken (August)
+
+Hewlett Packard Enterprise abandons California for Texas
+    https://www.sfgate.com/news/article/Hewlett-Packard-Enterprise-to-move-headquarters-15770904.php
+    HP started Silicon Valley in 1938
+        Broke up in 2015 into HP Inc (PC and printers) and HP Enterprise (datacenter hardware)
+        Inc is still in Palo Alto
+    Story suggests that taxes, cost of living, are too high (probably)
+    Tesla threatened to move in May, but didn't
+        but still their new plant is in Austin
+    (CNN and Forbes also had articles, which sucked - nothing about two HP companies)
+
+Mac's Public House in Staten Island becoming ground zero for lockdown war
+    https://abc7ny.com/staten-island-bar-autonomous-zone-shuts-down-restaurant/8425537/
+    "Autonomous Zone"
+    manager dragged out in cuffs
+
+Embedding executable code in an image - a click-on-this attack (2015)
+    https://security.stackexchange.com/questions/81677/how-is-it-possible-to-embed-executable-code-in-an-image
+    MSFT has ".pif" as an executable format in win10
+        .pif was a wrapper for a DOS 16 program to run in win32
+        kinda looks like "gif", but if you click it, it runs using ShellExecute()

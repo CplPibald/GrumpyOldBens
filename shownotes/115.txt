@@ -1,0 +1,37 @@
+115
+
+where the sun is shining, the birds are chirping, the trees are dancing, and it's raining like mad
+where we're playing a new drinking game: Every time you hear a shot, take a shot
+
+election: JCD says not going to "reverse" the election - sure, because there's nothing to reverse
+
+
+WaveLink/Jetstream/Winstars routers (cheap Chinese Walmart brand) come with wide-open backdoors
+    https://cybernews.com/security/walmart-exclusive-routers-others-made-in-china-contain-backdoors-to-control-devices/
+        via BillyBon3s
+    Researchers Mantas Sasnauskas, James Clee, Roni Carta
+    Jetstream is Walmart exclusive brand
+        Walmart says it is "sold out" and they have "no plans" to restock
+    webcmd.shtml
+        RCE script that displays a dialog with "Run a system command as root"
+        no validation
+        credentials checked with client-side JS
+        Unencrypted backups can be downloaded without authentication
+    getwifi.sh
+        Lists all nearby wifi connections
+        can connect to them
+    Connected to internet as honeypot, and almost immediately compromised by a Chinese IP
+        Mirai botnet, believed responsible for 2016 DynDNS attack
+        (majority of devices in that attack were routers)
+    https://nvd.nist.gov/vuln/detail/CVE-2020-10971
+    https://nvd.nist.gov/vuln/detail/CVE-2020-10972
+    update on their site explaining that this is just for system management
+    "What to do": Get rid of this, according to tomsguide
+
+World Economic Forum: 5 reasons weeds are the new superfood
+    https://www.weforum.org/agenda/2020/11/weeds-good-food-control-climate-change
+    1 Easy to grow
+    2 rich in nutrients
+    3 diversity of diet
+    4 "they know more about the soil than we do"
+    5 they taste great
