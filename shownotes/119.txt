@@ -1,0 +1,79 @@
+119
+
+where the podcasters come pre-triggered
+where no amount of compression can stop the signal
+
+Commerce, Treasury dept hacked
+    https://www.bbc.com/news/world-us-canada-55265442
+    https://www.zdnet.com/article/microsoft-fireeye-confirm-solarwinds-supply-chain-attack/
+    https://www.solarwinds.com/securityadvisory
+    https://www.fireeye.com/blog/products-and-services/2020/12/global-intrusion-campaign-leverages-software-supply-chain-compromise.html
+    vuln in SolarWinds Orion software, from update between March and June 2020
+        monitoring and management software
+        allows IT staff remote access, monitoring emails
+        Patch to be released on Tuesday 15 Dec to replace compromised component
+    "supply chain attack"
+        manually breach SolarWinds and then deploy malware-laced update
+        Same way they gained access to FireEye
+    malware called "SUNBURST" by FireEye, Solorigate by MSFT
+        detection added to both companies' AV
+        Compromise goes back to spring 2020
+        not self-propagating
+    Technical details
+        https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html
+        SolarWinds.Orion.Core.BusinessLayer.dll is infected with a trojan
+        contains backdoor that uses HTTP to retrieve "jobs"
+            Tries to resolve avsvmcloud.com
+            can transfer files, execute, profile system, reboot, and disable services
+            masquerades as normal Orion traffic
+                incl. setting hostname of their command and control infrastructure to match legitimate hostnames within victim environment
+                Commands are hidden (steganography) amongst GUID and HEX strings in Orion control XML
+            stores data with config files
+        Uses blocklists to detect and kill or hide from forensic and AV tools        
+    FireEye detection and countermeasures
+        https://github.com/fireeye/sunburst_countermeasures
+    CISA emergency directive 21-01
+        https://cyber.dhs.gov/ed/21-01/
+        "Disconnecting affected devices is the only known mitigation measure currently available"
+        If possible, image systems and analyze traffic
+        Shut down everything using Orion.  Do not rejoin to domain
+        Block all traffic
+        
+Mastercard, Visa, and Discover cartel all collude to cut off Pornhub
+    https://www.bloomberg.com/news/articles/2020-12-11/discover-joins-mastercard-visa-in-cutting-ties-with-pornhub
+    Nicholas Kristof of NYT accused them of distributing nonconsensual, underage, revengeporn videos
+    Pornhub took steps to prevent it, incl. ban on uploads from unverified users
+
+Antitrust lawsuit vs Facebag
+    https://www.cbsnews.com/news/facebook-antitrust-lawsuit-ftc-46-states-instagram-whatsapp/
+    46 states (everyone but AL, GA, SC, SD)
+    separate suit from US FTC
+    want to break off instagram, whatsapp
+    FB points out that the gov't did approve these mergers (under Obama administration)
+    Wapo biased toward FB.  
+    NYT bias: "The Trustbusters Come for Facebook. Finally"
+
+Conversation I had with someone who called what we have here "late-stage capitalism"
+    What we have is corporatism, cronyism, fascism, but not pure capitalism
+    it's been corrupted by special interests bringing State regulation, contracts, and subsidies
+    the influence of lobbyists
+    The existence of the corporation as a liability shield
+
+Followup: The paper that Timnit Gebru left Google over
+    https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/
+    Reasons why AI can be scary: 
+        1) It takes a lot of electricity to train (green)
+        2) Opportunity cost  
+        3) If we don't carefully curate the dataset, our AI will be racist
+
+Mailchimp goes full woke (October 29)
+    https://reclaimthenet.org/mailchimp-misinformation-censorship/
+    "does not allow the distribution of content that is, in our sole discretion, materially false, inaccurate, 
+        or misleading, in a way that could deceive or confuse others about important events, topics, or circumstances."
+    So they're editorializing.  Sec 230, anyone?
+    MC censored Stefan Molyneux, March for Trump, VICE founder Gavin McInnes, Alex Jones
+SlickStack bans mailchimp
+    https://slickstack.io/blog/mailchimp-banned
+    Wordpress hosting infrastructure using LEMP (bring your own VM)
+    virtue signaling against wokeness
+

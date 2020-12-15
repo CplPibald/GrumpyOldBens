@@ -1,0 +1,50 @@
+117
+
+where people are dying, but it's only a problem if it's from COVID
+where we're coming up with new creative and vindictive ways to avoid Big Brother
+
+Let's Encrypt cert expiration for devices that haven't been updated since 2016
+    https://hackaday.com/2020/12/01/lets-encrypt-will-stop-working-for-older-android-devices/
+    https://www.theregister.com/2020/11/06/android_encryption_certs/
+    IdenTrust's DST Root X3 certificate expiring 2021-09-01
+    LE uses its own ISRG Root X1 for signing, which was widely accepted by 2018
+    All versions of Android before 7.1.1
+    Workaround: Install Firefox mobile, which has its own cert list, instead of using OS list
+
+CyberNews analyzes 15bn passwords
+    https://cybernews.com/best-password-managers/most-common-passwords/
+    collected from publicly leaked data breaches
+    15,212,645,925 passwords, of which 2,217,015,490 were unique
+    Years used in passwords - most popular are 2010, 1987, and 2000
+        but mostly ramp smoothly.  Birth years?
+    Names: eva(7m), alex, anna, max, ava, ella, leo, jack, ryan(3m), daniel
+    Sports teams: suns, heat, reds, magic, liverpool, chelsea, jazz, arsenal, kings, angels
+    Curse words: ass(26m), sex(5m), fuck(5m), god, sexy, butt, bitch, cow, shit, arse
+    Cities: abu(2.3m), rome(1m), lima, hong, milan, london, liverpool, austin, antonio, york
+    Months, seasons, weekdays
+        friday(157k), monday(148k), sunday(128k), saturday(28k)
+    Food: tea, pie, nut, fish, water, butter, cookie, rice, cake
+    Length: Most common 8 chars (25%), next 6, 7, 9, 10(12%).  Sharp dropoff beyond that
+
+Mailchimp goes full woke (October 29)
+    https://reclaimthenet.org/mailchimp-misinformation-censorship/
+    "does not allow the distribution of content that is, in our sole discretion, materially false, inaccurate, 
+        or misleading, in a way that could deceive or confuse others about important events, topics, or circumstances."
+    So they're editorializing.  Sec 230, anyone?
+    MC censored Stefan Molyneux, March for Trump, VICE founder Gavin McInnes, Alex Jones
+SlickStack bans mailchimp
+    https://slickstack.io/blog/mailchimp-banned
+    Wordpress hosting infrastructure using LEMP (bring your own VM)
+    virtue signaling against wokeness
+
+Wickliffe, OH school district's new dystopian tracking future
+    https://www.news5cleveland.com/news/continuing-coverage/coronavirus/local-coronavirus-news/wickliffe-schools-using-wearable-bluetooth-devices-for-covid-19-contact-tracing
+    Created by Volan Technology of NJ
+    BT-enabled ID badges and fobs to track student's location within school
+    "Because the system does not rely upon the GPS on a student's phone, it bypasses any potential privacy or security concerns in that regard."
+    "Will [this technology] stay like how airport security stayed after 9/11? Probably. We don't want 
+        to let our guard down again because there might be a future pandemic," - Michael Bettua, founder of Volan
+    "There is no concern about privacy because only when the students are in the building and only when they are wearing their badge can they be tracked"
+    Uses GPS to geofence within school
+    Students are scored based on how well they social distance
+    data stored locally

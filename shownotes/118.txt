@@ -1,0 +1,70 @@
+118
+
+where on the 14th day of christmas, my true gov gave to me: Two weeks to flatten the curve
+no place like ::1
+
+Youtube takes yet another step toward Orwellian thoughtcontrol
+    https://blog.youtube/news-and-events/supporting-the-2020-us-election
+    Now banning all videos that show evidence of election fraud
+        They say it's because the "safe harbor" date 8 Dec has passed
+    Any other election-related material will have the omnipresent link to the official propaganda
+
+"Break Up Big Tech Act"
+    https://gabbard.house.gov/news/press-releases/reps-gabbard-gosar-introduce-break-big-tech-bill-remove-legal-immunity-big-tech
+    Gabbard with Paul Gosar (AZ)
+        worked before on "Don't Push My Buttons Act" and "Stop the Censorship Act"
+    According to Gabbard's site, Removes 230 immunity for companies that do:
+        - Selling and displaying personalized as well as contextual advertising without user’s consent
+        - Collecting data for commercial purposes other than the direct sale of the interactive computer service, 
+            i.e. turning the user into a commodity or otherwise monetizing the transmission of content
+        - Acting as a marketplace in the digital space by facilitating the placement of items into the stream of commerce
+        - Employing digital products and designs intended to engage and addict users to the service
+        - Acting as a publisher by using algorithms to moderate or censor content without opt-in from users
+    Don't Push My Buttons Act: "protection ... shall not apply ... service that"
+    https://www.govinfo.gov/content/pkg/BILLS-116hr8515ih/pdf/BILLS-116hr8515ih.pdf
+        (i) collects information regarding the habits, preferences, or beliefs of a user of the service; and
+        (ii) uses an automated function to deliver content to the user described in clause (i) that corresponds with the habits,
+            preferences, or beliefs identified as a result of the action taken under that clause with respect to that user. 
+        Unless the user asked for it
+    Pushes burden of proof onto provider that user "knowingly and intentionally elected to receive the content"
+        this will crush small providers
+
+FireEye cyberattack
+    https://www.fireeye.com/blog/threat-research/2020/12/unauthorized-access-of-fireeye-red-team-tools.html
+    https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html
+    Targeted and accessed FireEye's pentest tools ("Red Team")
+        "range from simple scripts used for automating reconnaissance to entire frameworks that are similar to 
+            publicly available technologies such as CobaltStrike and Metasploit."
+        no zero-days
+        github repo containing countermeasures
+    they believe it was state-sponsored.  Working with FBI and MSFT
+
+Cornell renames English Dept to "department of literatures in English"
+    https://campusreform.org/article?id=16112
+    to combat the "conflation of English as a language and English as a nationality"
+    proposal by prof Carole Boyce-hyphen-Davies, motivated by BLM
+    Dept Chair Carolien Levine said that the name change “is in keeping with the University’s call to have us 
+        really rethink our everyday practices around racism.”
+Cornell has mandatory flu vaccine, unless you're BIPOC
+    https://www.breitbart.com/tech/2020/12/08/cornell-u-offers-exemption-to-mandatory-flu-vaccine-policy-for-bipoc-students/
+    “students who identify as Black, Indigenous, or as a Person of Color (BIPOC)” can apply to be exempt from the 
+        mandatory vaccine rule if it makes them uncomfortable for reasons that most may find perplexing.
+
+Followup: The paper that Timnit Gebru left Google over
+    https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/
+    Reasons why AI can be scary: 
+        1) It takes a lot of electricity to train (green)
+        2) Opportunity cost  
+        3) If we don't carefully curate the dataset, our AI will be racist
+
+Mailchimp goes full woke (October 29)
+    https://reclaimthenet.org/mailchimp-misinformation-censorship/
+    "does not allow the distribution of content that is, in our sole discretion, materially false, inaccurate, 
+        or misleading, in a way that could deceive or confuse others about important events, topics, or circumstances."
+    So they're editorializing.  Sec 230, anyone?
+    MC censored Stefan Molyneux, March for Trump, VICE founder Gavin McInnes, Alex Jones
+SlickStack bans mailchimp
+    https://slickstack.io/blog/mailchimp-banned
+    Wordpress hosting infrastructure using LEMP (bring your own VM)
+    virtue signaling against wokeness
+
