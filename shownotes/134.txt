@@ -1,0 +1,41 @@
+134
+2021-02-12
+
+where we listen to a podcast because, and I quote, it's good
+where you can go to onlyfans.com/grumpyoldbens for hot hard drive swapping
+
+another one of those dates made up of all 0s, 1s, and 2s
+
+
+Apple redirects Google Safe Browsing traffic
+    https://the8-bit.com/apple-proxies-google-safe-browsing-privacy/
+    Google Safe Browsing: If Google decides a site is "unsafe", it won't let you visit
+        All versions of Chrome, Android
+        They do this by sending the url to google for every page you visit to check against index
+        Sites can be added "in minutes", but to remove it you have to "request a malware review in Google Webmaster Tools"
+            takes up to 24 hours
+        "What if I don't think my site is infected"
+            "Malware can hide in many places, and it can be hard even for experts to figure out if their website is infected. Our accuracy rate is very good"
+            TL;DR: "you're wrong"
+    Apple Safari uses Safe Browsing too
+        Hashes prefix of url "information calculated from website address" to send to Google
+        Previous versions of ios, google could still see IP address of request
+        ios 14.5 now proxies through Apple servers
+
+Victorpest e-rat-traps
+    https://www.victorpest.com/
+    "Make Your Home a Safe Space... from rodent pest invaders"
+    "My Account Members" get 2x reward points with every purchase
+    "Smart-Kill" Wi-Fi enabled mouse and rat traps
+        "We live in a connected world. Your trap can too"
+        "Avoid the hassle of checking traps in hard to reach places. We'll send you a notification when the job is done"
+    3 Easy Steps to Get Started
+        Download the app
+        Connect trap to Wi-Fi network
+        Monitor trap with your mobile device
+    Rat trap takes 4 C batteries (AA for mouse)
+    App manual warns that pressing home button during setup and then launching app again will not resume where left off
+        notifications when trap catches something or battery is low
+
+Secure Messaging Apps: Good reviews, bad UI
+    https://www.securemessagingapps.com/

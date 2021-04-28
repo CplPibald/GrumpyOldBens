@@ -1,0 +1,57 @@
+128
+
+where we eagerly await the Inogleration
+shouting theater in a crowded fire
+
+JCD: I need to correct Darren's pronunciation, or I'm cowed
+
+
+Harvard students petition university to revoke degrees of Trump supporters
+    https://www.foxbusiness.com/politics/harvard-students-seek-to-revoke-diplomas-of-trump-supporting-graduates-following-capitol-hill-violence
+    Specifically Ted Cruz, Dan Crenshaw (R-TX), and Kayleigh McEnany
+    I am writing to urge that Harvard examine any current or future associations with lawmakers and other people 
+        who aided in this attempted overthrow of our democracy. As I have told you in past conversations, I do 
+        believe that we need more politically conservative voices on campus. I still believe this. I am also a
+        firm believer in academic freedom, and I will not compromise on that stance. However, we must have minimum 
+        standards to which we hold those associated with Harvard. Those standards surely include supporting free 
+        elections and not encouraging violence. If we do not insist that those at Harvard do not try to overturn 
+        the free and fair votes of other citizens or that they would not encourage the violent overthrow of our 
+        own government, then we have no standards at all.
+        - Ryan D. Enos, Harvard student gov't President
+
+Germany to put people into quarantine camps if they flout covid rules
+    https://www.dailymail.co.uk/news/article-9157971/Covid-Germany-hold-people-refuse-quarantine-detention-centres.html
+    State of Saxony building new refugee camp with special section for quarantine-flouters
+    Baden-Württemberg to detain repeat offenders
+
+Coalition for a Safer Web is suing Apple demanding it remove Telegram from appstore
+    https://www.rt.com/usa/512822-telegram-lawsuit-apple-remove/
+    “Telegram currently serves as the preferred neo-Nazi/white nationalist communications channel, fanning 
+        anti-Semitic and anti-black incitement during the current wave of protests across America,” 
+    “Apple has not taken any action against Telegram comparable to the action it has taken against Parler to 
+        compel Telegram to improve its content moderation policies.”
+    But reddit pundits keep telling me slippery slope is a fallacy
+    The app most used to coordinate large groups is iMessage
+
+Google acquires Fitbit
+    https://blog.fitbit.com/2021-update/
+    https://blog.google/products/devices-services/fitbit-acquisition
+    https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2484
+    Making commitment to EU
+
+NSA advises companies avoid third-party DNS
+    https://www.bleepingcomputer.com/news/security/nsa-advises-companies-to-avoid-third-party-dns-resolvers/
+    Recommendation to companies / gov't agencies
+    - Force all traffic to use only company-designated DNS resolvers
+    - Block known DNS-over-HTTPS providers at company firewall
+    - Gov't agencies avoid third-party resolvers until unified gov't DoH service available
+        Use EINSTEIN 3 (E3A) as authoritative for all federal agency local DNS
+            intrusion detection, analysis of federal network traffic
+            uses classified watch list
+            run by CISA, the same org whose Chris Krebs was fired for failing to see election fraud
+            and allowed SolarWinds, the biggest gov't cyberattack ever
+    DNS resolver attacks
+    - outside attacker can redirect almost any request - even to your internal sites
+    - "official" DNS (eg: ICANN) can be compromised (commonly by governments)
+        Either get at servers themselves, or using great firewall or simply by coercing ISPs
+

@@ -1,0 +1,47 @@
+137
+2021-02-22
+
+
+where Bill Gates is living proof that autism causes vaccines
+where supply and demand must always give way to wokeness
+
+Canada wants to be next to tax facebook
+    https://www.cbc.ca/news/politics/canada-next-country-facebook-news-1.5919665
+    Heritage Minister Steven Guilbeault *plans* to draft legislation
+    would affect Google too
+    picking winners and losers
+
+How to proceed against facebook
+    1) Enforce sherman antitrust act of 1890
+    2) Social networks aren't monopolies; they're network effect
+        * People can leave to other networks
+        * Propaganda if you must
+    Don't pick winners and force them to pay a dying industry
+
+Kroger shuts down two QFC stores in Seattle
+    https://www.seattletimes.com/business/local-business/qfc-to-close-two-seattle-stores-blames-citys-new-4-hazard-pay-law/
+    Seattle passed "hero pay" law last month
+        requires any grocery companies with more than 500 workers worldwide and stores larger than 10k sqft
+        must pay retail employees $4 on top of pay they currently receive
+            for the duration of the coronavirus emergency
+        passed 8-0.  Needed 3/4 to make it take effect immediately == no lead-in time
+        Grocery stores already struggling under "huge increases" in unemployment tax
+    stores were "underperforming"; groceries are "razor-thin margin"
+    previously closed two Ralph's in Long Beach due to same thing
+        Los Angeles also passed hazard pay law
+
+Kroger latest to lose data to Accellion breach
+    https://www.msn.com/en-us/money/companies/kroger/ar-BB1dSvRH
+    Warns of breach of
+        HR data, money service records, pharmacy records
+    "money services" == cash checks, pay bills, send money - without bank account
+    Accellion is the gift that keeps on giving
+    Brands
+        Kroger, Fry's, King Soopers, Smith's, City Market, QFC, Ralphs, Gerbes, Baker's, Dillons, 
+        Pay-less food, Fred Meyer, Pick n Save, Metro Market, Marianos
+
+Indian gov't breached
+    https://johnjhacking.com/blog/indian-government-breached-massive-amount-of-critical-vulnerabilities/
+    white-hat hacking group Sakura Samurai
+    police records, gov't employment records, exposed credentials - the usual
+    entered into vuln databases, but expect exploits if not fixed

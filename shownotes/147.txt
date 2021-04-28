@@ -1,0 +1,82 @@
+147
+
+2021-03-29
+
+where our extensive network of hydropower plants generates enough electricity to mine all the bitcoins in the world. barely.
+bringing you the best in closed-source proprietary walled-garden podcasts
+
+
+BTC is currently using 15Gw to keep the currency alive
+    https://cbeci.org/ = Cambridge Bitcoin Electricity Consumption Index
+        theoretical between 4.7 and 52 GW
+    bigger than the capacity of almost all power plants in world
+    https://stopburncoins.medium.com/cryptocoins-proof-of-work-should-be-banned-1cb49c91682c
+    https://news.bitcoin.com/the-bitcoin-network-now-consumes-7-nuclear-plants-worth-of-power/
+    https://en.wikipedia.org/wiki/List_of_largest_power_stations_in_the_world
+    proof of work vs proof of stake
+        stakes: peercoin = coin age
+
+Smart-places mobile tracking
+    https://smart-places.org/mobile-location-analytics-opt-out/about-mobile-location-analytics-technology/
+    venues contract with these people
+    They track your MAC or bluetooth ID everywhere in the venue 
+        (and across, possibly - they don't rule it out)
+    Opt out by entering BT or MAC into a web form
+        ios8 randomly changes MAC address.  They recommend you turn that feature off in order to opt out.
+    "Can my MAC address later be linked to my name, address, or other personal information?"
+        Companies pinky-swear they won't do that
+
+MSFT opensourced calc.exe
+    https://arstechnica.com/gadgets/2019/03/calc-exe-is-now-open-source-theres-surprising-depth-in-its-ancient-code/
+    https://blogs.windows.com/windowsdeveloper/2019/03/06/announcing-the-open-sourcing-of-windows-calculator/
+    All internal numbers represented as rationals, for speed, memory and avoid floating point precision loss
+    Entire UI Rewritten for Win8 "fluent design", became default in win10
+
+MSFT buying Discord for $10B ?
+    https://www.bloomberg.com/news/articles/2021-03-23/discord-would-give-microsoft-a-10-billion-place-to-talk
+    https://www.bloomberg.com/news/articles/2021-03-27/what-discord-is-and-why-microsoft-covets-it-quicktake
+    No official announcements, but the rumors are widespread
+    140M monthly users.  $100M revenue in 2020 according to WSJ (plus $480M investor)
+    fucking Bloomberg "Discord was used as a gathering ground for White nationalists to organize the 2017 rally in Charlottesville, Virginia"
+    What they want
+        - xbox branded communities outside of xbox
+
+Police Executive Research Forum high-priority needs for self-driving cars
+    https://www.technocracy.news/self-driving-cars-will-stop-for-police-roll-windows-down-unlock-doors/
+    "High-priority needs" for driverless cars:
+        - vehicles need LE authorization to run in automated mode
+            incl. full database info on car/owner
+        - LE can communicate with vehicles in automated mode
+            fine, if that communication is the same as blinking lights
+        - vehicles as "evidence sources"
+            even cars passing an accident scene
+    license plate readers were just the beginning
+    Safety?  Or money?
+        How do you decide an autonomous vehicle is unsafe?
+            who do you ticket?
+        autonomous cars as surveillance system
+        some cities get up to 80% of revenue from traffic tickets
+    Eduardo Alvarez, on Medium:
+        https://medium.com/open-road/effects-of-autonomous-vehicles-on-law-enforcement-465285a9e42c
+    Waymo "police interaction protocol":
+        Cars are designed to pull over automatically, unlock doors and roll down windows
+        24hr LE hotline dedicated to allowing police/fire/firstresponders to talk to Waymo's call center
+            to remotely control/shutdown the car
+    Remote control could also help with theft - drive to police stn with thief locked inside
+        or political dissident
+        hackers?  "Terrorists"?
+    "EDR" blackbox data recorder module for forensics
+        Cars have had this, but the more data is in the computer, the more is logged
+        Great for insurance co
+        warrant?  Insurance ToS?
+        2015 Mtn View incident, EDR showed that the operator "barely touched" the steering wheel for 37 mins prior to crash
+            leading NHTSA to determine it was operator error (WAT?)
+    Concl-1: If we can get to the utopia of everybody uses an AV, then we won't need cops
+        Police need to be trustworthy
+        People could never own cars again
+        Cars work for police/insurance and not for "owner"
+    Concl-2: if cars continue working for owner, then
+        can't trust them to always be autonomous, because owner must be able to override
+        police can't assume a car will behave (same as now)
+        software must become open sourced
+

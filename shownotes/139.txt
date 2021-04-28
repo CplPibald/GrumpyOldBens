@@ -1,0 +1,84 @@
+139
+2021-03-01
+
+where even our medical devices are racist
+from America's left coast, Alexa, enable the skills to pay the bills
+
+FDA warning on pulse oximeter devices
+    https://www.fda.gov/medical-devices/safety-communications/pulse-oximeter-accuracy-and-limitations-fda-safety-communication
+    used for estimating blood oxygen level
+        not very accurate.  A reading of 90% could mean anywhere from 86%-94%
+    "The most current scientific evidence shows that there are some accuracy differences in pulse oximeters 
+        between dark and light skin pigmentation; this difference is typically small at saturations above 80% 
+        and greater when saturations are less than 80%"
+    "these clinical studies are not statistically powered to detect differences in accuracy between demographic groups"
+    
+Alexa skills are a privacy nightmare
+    https://www.alexa-skill-analysis.org/
+    https://www.zdnet.com/article/why-would-you-ever-trust-amazons-alexa-after-this/
+    (give people warning: "Alexa, halt and catch fire")
+    Researchers at Ruhr-University Bochum (Germany) and North Carolina State
+        looked at 90k skills in catalog
+    "A first problem is that Amazon has partially activated skills automatically since 2017. Previously,
+        users had to agree to the use of each skill. Now they hardly have an overview of where the answer Alexa 
+        gives them comes from and who programmed it in the first place." - Dr. Martin Degeling
+    no indication where an answer comes from - A lot of overlap on keywords
+    Installing is a little too easy
+        Method 1: Open Alexa app on smartphone, select skill from menu and click "enable"
+        Method 2: "Alexa, recommend me some skills"
+        Method 3: "Alexa, enable porn sounds"
+        ``There's no need to download or install skills`` according to Amazon getting started page
+        "Alexa, help me get started with skills"
+        "Alexa, let's play a game"  "Alexa, what's the question of the day"
+        specific invocations will automatically install a skill
+        when overlap, Amazon always favors first-party (obv).  How else? Rating? Pay?  No transparency
+            easy to activate "wrong" skill
+    - Updating is even easier!
+        Skills go through v1 certification process
+            After that, they can change their backend code with impunity
+    - An attacker can publish skills using well-known company names
+        "When a skill is published in the skill store, it also displays the developer's name. We found that developers
+        can register themselves with any company name when creating their developer's account with Amazon. This 
+        makes it easy for an attacker to impersonate any well-known manufacturer or service provider."
+            "In an experiment, we were able to publish skills in the name of a large company."
+    - Only 24% of skills have a privacy policy
+        which doesn't even have to tell you what they're doing
+        23% of skills don't disclose the data they collect from you
+        13% of "kids" category has PP (COPPA?)
+        42% of "health"
+    - Amazon has a permissions API, but they found it's easy to bypass
+        they found 358 skills requesting personal info without going through API
+    Official Amazon response to ZDNet: "The security of our devices and services is a top priority."
+
+Boston schools are woke
+    https://www.msn.com/en-us/news/us/b/ar-BB1e3qiV
+    https://www.bostonglobe.com/2021/02/27/metro/parents-group-files-lawsuit-block-bps-dropping-test-exam-schools/
+        School board voted to suspend using an admissions test for their "elite" schools
+            instead now allocating spots based on disadvantaged zip code and lowest income
+        Parents' group filed lawsuit
+    https://www.rt.com/usa/516733-boston-schools-racial-equity/
+        Advanced learning programs suspended for 4/5/6 grade
+            because too many white and asians got into the program
+        “There's been a lot of inequities that have been brought to the light in the pandemic that we have to address,
+            There's a lot of work we have to do in the district to be anti-racist and have policies where all 
+            of our students have a fair shot at an equitable and excellent education.”
+
+Facebook meddling in Turkey's politics
+    https://www.propublica.org/article/sheryl-sandberg-and-top-facebook-execs-silenced-an-enemy-of-turkey-to-prevent-a-hit-to-their-business
+    censored YPG, a Kurdish militia group
+        geoblocked to prevent anyone in Turkey or Syria from seeing their pages
+        "I am fine with this" - Sheryl Sandberg
+    still censored today (eg: photos posted by YPG in Turkey alleging war crimes)
+
+Deepfake Tom Cruise
+    https://www.inputmag.com/tech/deepfake-videos-of-tom-cruise-show-just-fast-its-improving
+
+Fake contacts app
+    https://github.com/BillDietrich/fake_contacts
+    adds contacts to your phone
+    by default all names starting with Z (names are configurable)
+    push button to remove them
+
+Amazon pulls book that challenges transgender movement. Senators Hawley, Robio, Lee, Braun complain.
+    https://www.dailymail.co.uk/news/article-9306031/Senators-write-Jeff-Bezos-know-Amazon-pulled-book-challenges-transgender-movement.html
+    https://www.msn.com/en-us/news/us/a/ar-BB1dWNbG

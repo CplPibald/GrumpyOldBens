@@ -1,0 +1,58 @@
+143
+
+2021-03-15
+
+where I weathered the latest Windows update with my audio settings more or less intact
+which was a great country until it's not
+
+India full crypto ban?
+    https://www.reuters.com/article/us-india-cryptocurrency-ban/india-to-propose-cryptocurrency-ban-penalising-miners-traders-source-idUSKBN2B60R0
+
+New sidechannel attack using only HTML+CSS
+    https://thehackernews.com/2021/03/new-browser-attack-allows-tracking.html
+    "CSS Prime+Probe" fingerprinting attack
+    "rendering a web page that includes a long HTML string variable covering the entire cache 
+        (e.g., a <div> element with a class name containing two million characters), then performing a search for a short,
+        non-existent substring in the text, in turn forcing the search to scan the whole string. In the final step, 
+        the time to carry out this probe operation is sent to an attacker-controlled server."
+
+Google announces plans to stop selling ads based on browsing history
+    https://blog.google/products/ads-commerce/a-more-privacy-first-web/
+    "People shouldn’t have to accept being tracked across the web in order to get the benefits of relevant advertising"
+        -- David Temkin, dir for Google Ads & Privacy Team
+    first sentence: "It’s difficult to conceive of the internet we know today — with information on every topic,
+        in every language, at the fingertips of billions of people — without advertising as its economic foundation."
+Google removing 3rd party cookies from Chrome, replacing with FLoC (Jan 2021)
+    https://blog.google/products/ads-commerce/2021-01-privacy-sandbox/
+    firefox/safari already block 3rd party by default
+    anti-competetive move
+    first sentence: "Advertising is essential to keeping the web open for everyone"
+        I dispute
+Replace with "Federated Learning of Cohorts", an interest-based tracking system
+    https://github.com/google/ads-privacy/blob/master/proposals/FLoC/FLOC-Whitepaper-Google.pdf
+    allows sites to place you into categories, rather than as an individual
+    this is the most socialist thing I've seen from them
+    "cohort assignment algorithm" which assigns a "cohort id" to a user based on their browsing history
+    algo to assign categories to users like a tag cloud
+Google Trust Token API
+    https://web.dev/trust-tokens/
+     "to help combat fraud and distinguish bots from real humans, without passive tracking."
+    issue cryptographic tokens to a user you trust
+        stored in browser
+        browser then uses it in other contexts (other sites?)
+        don't contain PII
+    replacement for cookies?
+
+<progo> ~20 years after javascript and ability to play media in the browser, we still haven't developed the 
+    technology to hold all media playback in a document until the user gives consent
+
+
+https://blogs.microsoft.com/on-the-issues/2021/02/22/deepfakes-disinformation-c2pa-origin-cai/
+    "as I returned home from the World Economic Forum in Davos in early 2019"
+            Eric Horvitz - Technical Fellow and Chief Scientific Officer, MSFT
+
+Transgender surgery now paidfor by military
+    https://www.washingtonexaminer.com/news/military-transgender-surgery-free
+    question of whether it's "necessary" care, or mental illness.  Military pays other necessary medical expenses
+    ... but doesn't take people with preexisting conditions - TG as protected class
+    if soldiers are gov't property, does this damage their combat effectiveness?

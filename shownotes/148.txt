@@ -1,0 +1,46 @@
+148
+
+2021-04-02
+
+where it's been two years and I'm still as grumpy as the day we started
+where April makes me grumpy
+
+Darren, do you want to let me in on the joke yet?  Am I a real podcaster?
+
+Sweden puts kibosh on Gates' SCoPEx experiment to dim sun
+    https://www.rt.com/news/519904-sweden-experiment-dim-sun-gates/amp/
+    "Stratospheric Controlled Perturbation Experiment"
+    Harvard solar geoengineering program page - wokeness alert
+        "We are concerned that fossil fuel companies or other interests will seek to exploit solar geoengineering as 
+        a pretext for delaying reductions in greenhouse gas emissions. We do not want donors who are (or could 
+        reasonably be construed as being) motivated to support solar geoengineering research to protect fossil fuel industries"
+        Has a rating scale for each donor's "commitment to climate" and "ties to fossil fuels"
+    plan to release calcium carbonate into upper atmosphere
+        BTW, global warming isn't caused by direct sun's rays - it's caused when heat can't escape the planet because it's reflected back
+        chalk blocks reflected outbound radiation, not inbound IR
+    Was a relatively small experiment this summer to find out what would happen
+        but Swedish Space Corporation called off the experiment
+        want to move it to States now
+
+Coinbase to IPO on 14 April (mentioned on show #138)
+    https://decrypt.co/63671/coinbase-going-public-in-april-14-announce-q1-earnings-beforehand
+    According to S-1, they made $322M profit in 2020 on revenue of $1.2B
+
+W3C re-introduces popular BLINK feature
+    https://www.w3.org/2021/04/pressrelease-blink.html.en
+    built on W3C Personalization Semantics
+        change color, rate of blink, etc
+        Also supports animated gifs
+        emoji support
+        "People prefer different types of blinking depending on their cultural and societal background"
+    Webpage can support audio-alternatives to blinking, when page is obscured or user is looking elsewhere
+    Extensions for AI-enabled blinking
+
+Zero-click vulnerability in MacOS Mail program
+    https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c
+    CVE-2020-9922
+        fixed in Catalina 10.15.6 update
+    x-mac-auto-archive header
+        auto uncompresses attached zip file into $TMPDIR using symlinks
+    was able to rewrite mail rule list
+    

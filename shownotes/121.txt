@@ -1,0 +1,78 @@
+121
+2020-12-21
+
+where this christmas, give the gift of a bemrant
+where the christmas cheer comes in a rocks glass
+
+Mention Jupiter and Saturn conjunction / solstice
+
+NYC restaurant group bans Cuomo from eating in NYC
+    https://www.thegatewaypundit.com/2020/12/struggling-new-york-city-restaurant-owners-ban-andrew-cuomo-establishments/
+
+Lin Wood responds to Smartmatic C&D threat against Powell
+    https://static.noagendasocial.com/media_attachments/files/105/415/596/594/922/220/original/42c67eee12e700c6.png
+
+Poland Bill threatens fine for social media companies that censor lawful speech
+    https://www.zerohedge.com/geopolitical/polish-bill-threatens-22-million-fines-social-media-companies-who-censor-lawful-speech
+    Justice Minister Zbigniew Ziobro
+    would enable individuals to file complaints
+    up to $2.2M fine per instance
+
+College football playoff semifinal moved from Rose Bowl to Arlington, TX
+    https://www.cbsnews.com/news/college-football-playoff-semifinal-moved-rose-bowl-att-stadium-texas/
+    California lockdown restrictions mean fans would not be allowed to attend game
+        incl. family of players and coaches
+    Tournament of Roses board asked Newsom twice for exception, was denied
+    not sure if it's still going to be called Rose Bowl
+        first time since 1942 it's not playend in Pasadena
+        if it's not called Rose Bowl, it will be first time in over 100yrs Rose Bowl wasn't played
+California projected to lose Congressional seat (and elector) due to exodus
+    https://www.washingtonexaminer.com/news/californians-flee-projected-house-seat-electoral-vote-loss
+    https://www.mercurynews.com/2020/01/03/california-lose-congressional-seat-reapportionment-2020-census/
+    2010 was the third time since 1850 that it didn't gain seats
+    but it has never lost them before
+    Also losing seats: MN, MI, IL, OH, AL, WV, PA, NY, RI
+    Gaining: OR, MT, CO, AZ, NC, FL+2, TX+3
+
+CDC Anaphylaxis report: 3% of vaccine recipients had "health impact events" after Pfizer vaccine
+    https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2020-12/slides-12-19/05-COVID-CLARK.pdf
+    ** "unable to perform normal daily activities, unable to work, required care from doctor or health care professional"
+    3150 of 112807, as of 18 Dec
+    Recommendation: medical professional on hand at every vaccination site to recognize anaphylaxis and respond immediately
+
+CitizenLab finds iPwn "zero-click" Pegasus exploit against journalists' iphones
+    https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-nso-group-imessage-zero-click-exploit/
+    KISMET exploit to install Pegasus spyware on 36 iphones belonging to staff at Al Jazeera during July/Aug 2020
+        confirmed to work on ios 13.5.1 and iphone 11
+    Causes phone to upload large amounts of data
+        Hot mic recording
+        Decrypted audio of calls
+        takes pictures
+        location
+        passwords and stored credentials on phone
+    NSO Group developed Pegasus spyware
+        Claim it's only for governments to fight terrorism
+    Call to action: Update your device to ios 14
+
+Facebag attacks Apple over new ios privacy feature
+    https://developer.apple.com/app-store/user-privacy-and-data-use/
+    App devs say whether apps collect private info (name, email, phone, address, health/fitness) 
+        when submitting to store
+    Apps must "ask permission" to track across apps
+        the dialog presents two options: "Allow Tracking" and "Ask App Not to Track"
+        example: Placing a third-party SDK in your app - didn't name facebook, but that's exactly what it does
+        Not allowed to gate functionality on allowing tracking
+    Facebook "warned" that ad campaigns bring 50% less revenue for publishers without targeting and personalization
+    held press conference last week with small business owners claiming Apple will put them out of business
+        -- Dan Levy, head of ads and business products at Facebook
+        though doesn't explain how
+        “Folks should go study Apple policies, because this is about control of the entire internet” 
+        Points out that Apple stands to make more in subscriptions if companies can't make $$ with ads
+    multiple full-page ads
+        "We're standing up to Apple for small businesses everywhere"
+            Says the duopolist that owns half of all advertising
+    https://www.zdnet.com/index.php/category/2381/index.php/article/apple-introduces-privacy-information-for-apps-across-all-of-its-stores/
+    https://techcrunch.com/2020/12/19/this-week-in-apps-app-store-privacy-labels-facebook-criticizes-apple-over-ad-targeting-twitter-kills-periscope/
+    https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/
+    https://www.theguardian.com/technology/2020/dec/16/facebooks-attempt-to-vilify-apple-tastes-like-sour-grapes
+

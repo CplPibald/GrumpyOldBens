@@ -1,0 +1,74 @@
+125
+2021-01-08
+
+where Mexico has decided it's going to pay for that wall, and Canada wants one too
+where the illegitimate leaders are legitimately having a legitimacy crisis
+
+WhatsApp to require data sharing with Facebook
+    https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/
+    News delivered by in-app alert
+        "By tapping Agree (the only button), you accept the new terms which take effect February 8.  After this date you'll
+            need to accept these updates to continue using WhatsApp"
+    Facebook reserves the right to share all data with third parties
+    With the TOS of 2016 you still had a one-time option to turn off data sharing.
+        Known to collect:
+            Phone number, contacts in address books, profile names/pictures, online data, app logs
+        According to Apple app store, they also reserve the right to collect:
+            purchases, financial information, location, contacts, user content, identifiers, usage data
+    So much for the praised end-to-end encryption, I guess.
+        You do not own or control the encryption key. Facebook does.
+    Dutch link (two days before any English site)
+        https://noagendasocial.com/@MartinJJ/105509768083052594
+        https://www.iculture.nl/nieuws/whatsapp-vo
+    WhatsApp TOS effective February 8 show your data will be shared with Facebook and third parties. You need to 
+        accept this or your accounts will become inactive. 
+
+Trump EO bans all transactions with Chinese apps
+    https://www.whitehouse.gov/presidential-actions/executive-order-addressing-threat-posed-applications-software-developed-controlled-chinese-companies/
+    cites threats to "national security, foreign policy, and economy of the United States"
+        all this data permits China to track locations and build dossiers on federal employees and contractors
+    Bans "any transaction by any person, or with respect to any property, subject to the jurisdiction of the United 
+        States, with persons that develop or control the following Chinese connected software applications, or with 
+        their subsidiaries
+        Alipay, CamScanner, QQ Wallet, SHAREit, Tencent QQ, VMate, WeChat Pay, WPS Office
+    "prevent the sale or transfer of United States user data to, or access of such data by, foreign adversaries, 
+        including through the establishment of regulations and policies to identify, control, and license the export of such data"
+    excludes contracts entered before 5 Jan
+
+Trump memorandum instructs State dept to label Antifa as domestic terrorists
+    https://www.whitehouse.gov/presidential-actions/memorandum-inadmissibility-persons-affiliated-antifa-based-organized-criminal-activity/
+    Adds Antifa to State Dept list of "Aliens Who Are Members of an Identified Criminal Organization".
+    Doesn't affect much.  Mostly people entering the country
+        renders inadmissible aliens who have engaged or who are likely to engage in terrorist activity and those aliens 
+            who seek entry into the United States to engage, principally or incidentally, in unlawful activity.  
+        Active membership in a criminal association is relevant to the determination of whether an applicant for 
+            a visa or other immigration benefit
+
+Antifa riots in Tigard, OR last night
+    https://www.oregonlive.com/washingtoncounty/2021/01/tigard-police-station-becomes-protest-target-1-day-after-fatal-police-shooting-of-26-year-old-man.html
+    Broke windows, trashed front office of police station, sprayed anti-police messages on cars and local businesses
+        Tigard police declared a riot
+    Article claims it was because of a police shooting
+        a cop shot a 26yo while trying to arrest him for domestic abuse, and "12-34 issues"
+            12-34 Behaviorial Problems / Mentally Unbalanced
+
+Biden "truth wants to come out"
+    "No one can tell me that if it had eben a group of BLM protestors yesterday that they wouldn't have been treated 
+        very differently than the mob that stormed the Capitol.  We all know that's true - and it's unacceptable."
+    Labeled all trump supporters as "domestic terrorists" in a tweet
+
+Zuck cancels Trump's account
+    Babylon Bee: "Blockbuster cancel's Trump's account"
+    Zuck thinks he's more important than the PUSA
+
+Twitch nukes PogChamp emoji because dude it was based on said something that didn't agree with them
+    https://www.polygon.com/2021/1/6/22218059/pogchamp-twitch-removed-emote-ryan-gootecks-gutierrez-trump-capitol-hill
+
+Blank Covid Vaccination Card
+    https://www.republicanmandate.com/news-articles/blank-covid-vaccine-card
+    Blank of card used to prove vaccination
+
+Analysis of "racist patriarchy"
+    https://quillette.com/2020/12/22/a-peculiar-kind-of-racist-patriarchy/
+    Breakdown by industry - minorities and women make a lot more than men/whites in many places
+    This would be impossible if we really had a racist patriarchy.

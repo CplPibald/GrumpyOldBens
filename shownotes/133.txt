@@ -1,0 +1,74 @@
+133
+2021-02-08
+
+where the sportsball season is over, but the superspreader events continue
+where you've got questions, and we've got unhelpful answers
+
+superbowl-spreader event
+chiefs still waiting to count their mail-in touchdowns
+
+Tom Brady likes fresh air
+    https://www.zerohedge.com/covid-19/leftists-have-collective-meltdown-over-tom-brady-not-wearing-mask
+
+Re-Logic cancels Stadia version of Terraria
+    https://techraptor.net/gaming/news/terraria-studio-re-logic-suspended-from-youtube
+    Terraria YT account received a strike for "TOS violation" in email three weeks ago
+        after not posting in months
+    they assumed mistake, but Andrew Spinks (founder) personal email was suspended
+        along with "thousands of dollars of google play apps"
+    He couldn't get in contact with anyone to ask about it.
+    "I will not be involved with a corporation that values their customers and partners so little. Doing business with you is a liability,"
+    "I can take this no other way than you deciding to burn this bridge. Consider it burned"
+    Terraria has sold 30m copies
+    Stadia is a streaming service
+        requires you to purchase digital games from Play store
+        some free games on "pro tier"
+
+Chromium zeroday vulnerability in V8 javascript engine
+    https://www.zdnet.com/article/google-patches-an-actively-exploited-chrome-zero-day/
+    Update to ver 88.0.4324, released Thursday
+    CVE-2021-21148
+    already being exploited in the wild
+    Few details yet; Google intends to release them after more browsers are patched.
+    Security researcher Mattias Buelens reported to Google on 24 Jan
+        Two days later, a N. Korean hacker group started targeting security researchers by luring them to a honeypot blog.
+
+Accused murderer Corey Pickett granted right to review source of DNA testing tool
+    https://www.theregister.com/2021/02/04/dna_testing_software/
+    Software called TrueAllele which analyzed DNA 
+        used to tie Pickett to a 2017 Jersey city shooting
+        170k lines of MATLAB
+    dev CyberGenetics insists it's a trade secret
+        Company offered to let them review under NDA and $1M liability fine
+    Defense: Other software from CyberGenetics was buggy, 
+        affecting 60 past cases
+        Review of FST (Forensic Stastical Tool) "uncovered a secret function, tending to overestimate the likelihood of guilt"
+    lower court denied defense right to see.  Appeals court awarded
+
+India threatens to block Twitter over farmer protests
+    India is having farmer protests
+        https://www.washingtonpost.com/politics/2021/02/05/indias-farm-protests-turned-violent-last-week-why-are-farmers-protesting-first-place/
+    PM Narendra Modi 
+    Rihanna and Greta weighed in
+    Nearly half of Indians are in agriculture, but farms are inefficient and not competetive globally (environmental impact)
+        India has long subsidized farming
+    Passed three laws in September
+        - Farmers’ Produce Trade and Commerce Ordinance = allows farmers to trade outside their state
+        - Farmers Agreement Ordinance = allows farmers to enter contracts outside markets and before produce is grown
+        - Essential Commodities Ordinance = removes most price controls and deregulates farm markets
+        Also removed some subsidies
+    Many farmers are protesting these changes.  Claim
+        - private buyers will undercut fixed prices from mandis (gov't-regulated markets)
+        - Corporations will take over by hoarding and become monopolies
+    Protests are coordinating via Twitter
+        https://www.reuters.com/article/india-twitter-idUSKBN2A31J9
+        #ModiPlanningFarmerGenocide
+    India Technology Ministry has instructed Twitter to block accounts, and block any content that opposes reforms
+        https://www.wsj.com/articles/india-threatens-twitter-with-penalties-if-it-doesnt-block-accounts-11612364787
+        Twitter complied for a bit, then unblocked, claiming free speech
+        “Twitter seems to be following a dual standard in India,” said one official
+            “Will it promote a genocide hashtag in Europe or the U.S.?”
+    India laws support fines, up to 7yrs jail for executives
+    Gov't has already blocked internet to outskirts of New Delhi - they say aimed at "maintaining public order"
+
+

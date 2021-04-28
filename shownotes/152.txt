@@ -1,0 +1,68 @@
+152
+2021-04-16
+
+bright and sunny left coast where nice weather makes me grumpy
+where I deftly avoided getting fleeced by a remote code exploit in my slime simulator
+
+Apple fleeceware crisis
+    https://www.forbes.com/sites/gordonkelly/2021/04/10/apple-iphone-app-store-fleeceware-scam-iphone-12-pro-max/
+    apps designed to trick money out of users
+        designed to prevent you from noticing large hidden charges
+            the charge comes from Apple
+            usually recurring (eg: weekly)
+        Not picked up by malware review, because no virus code
+        App does what it should.  But sends out bogus charges.
+        pay for 5star reviews, which drown out bad reviews
+    types:
+        musical instrument, palm readers, image editors, camera filters, fortune tellers, PDF/QR readers, slime simulators
+    ex: vpn app whose website is blank, making #32 in the app store utilities category
+        making over $1M/mo  (with Apple taking 30% of course)
+        dead phone numbers, nonexistent company addresses, blank webpages, etc
+    https://techstory.in/how-to-see-whether-you-are-being-cheated-by-fleeceware-applications/
+    Avast study found 204 fleeceware apps in app store; over 100 in one recommended list or another
+            for an estimate $365M in revenue.  30% of that is $109M
+        Same study found only 70 fleeceware apps on Google play
+            for only $38M
+    CHECK your purchase history!  Especially "subscriptions"
+    Epic is using this in their lawsuit to stop the 30% tax-
+        Cited "senior Apple engineer" in 'internal Apple documents'
+            "Apple security is like 'bringing a plastic knife to a gunfight'"
+            Security is "more like the pretty lady who greets you at the Hawaiian airport than the drug-sniffing dog"
+
+Yet another Chrome zero-day (12 Apr) from pwn2own
+    https://www.bleepingcomputer.com/news/security/google-chrome-microsoft-edge-zero-day-vulnerability-shared-on-twitter/
+    affects current versions of both Edge and Chrome
+    Rajvardhan Agarwal 
+    RCE vulnerability
+        using custom HTML page and javascript
+        currently bound by sandbox
+            but there are other vulnerabilities to break out of sandbox
+    With --no-sandbox, bleepingcomputer was able to launch calc.exe from the page
+    Fixed in latest v8 engine, but fix is not in any browser yet
+
+Discord blocks all NSFW servers from iOS users
+    https://9to5mac.com/2021/04/13/discord-for-ios-nsfw-servers/
+Discord changing policy to admin-mark servers as NSFW 
+    https://support.discord.com/hc/en-us/articles/1500005389362-NSFW-Server-Designation
+    if they are "organized around NSFW themes or if the majority of content is 18+"
+    Server owners have always been able to mark specific channels or whole servers as NSFW
+        Age 17 and younger not allowed to see
+        Adults are given an annoy dialog
+        now discord admins are marking NSFW for you automaticallybased on their criteria
+        Appeals process outlined
+            *Owner* must fill out web form with server ID, explanation.  It goes into a queue.
+    "Additionally, all users on the iOS platform (including those aged 18+) will be blocked from joining and accessing 
+        NSFW servers. iOS users aged 18+ will still be able to join and access NSFW communities on the desktop and web versions of Discord."
+    Discord doesn't mention why, but this is in Apple ToS
+        "Apps with user-generated content or services that end up being used primarily for pornographic content,
+            Chatroulette-style experiences, objectification of real people (e.g. “hot-or-not” voting), making physical 
+            threats, or bullying do not belong on the App Store and may be removed without notice."
+
+"Whitest ever" point reflects 98% of sunlight
+    https://www.bbc.com/news/science-environment-56749105
+    "ultra-white" paint
+        made with barium sulfate
+    scientists say could help save energy and fight climate change
+        by painting roofs
+    10kW of cooling by painting a roof area of 1000 sqft
+    opposite of Vantablack (2014) made of "nanoscale carbon tubes"

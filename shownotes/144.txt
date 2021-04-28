@@ -1,0 +1,61 @@
+144
+
+2021-03-19
+
+where we make Mozilla our bitch
+where we're liking and subscribing like a boss
+
+Beta driver enables RTX 3060 to do full etherium mining again
+    https://www.xda-developers.com/nvidia-rtx-3060-hash-rate-limiter-unlocked/
+    https://www.theverge.com/2021/3/15/22331537/nvidia-rtx-3060-ethereum-cryptocurrency-mining
+    470.05 beta driver isn't enforcing block
+        released for devs to test Windows Subsystem for Linux
+    confirmed the release was "accidental" and removed
+
+RNA vaccines could lead to creation of prions
+    https://principia-scientific.com/covid-19-rna-based-vaccines-and-the-risk-of-prion-disease/
+    Lots of "might" and "could", but what a great way to start a zombie apocalypse story!
+
+SCOTUS: Reynolds v. Sims 1964
+    established that state legislators MUST be by population
+    screwed rural areas
+
+Tusky is banned from google play store (from the delicious irony dept)
+    https://news.ycombinator.com/item?id=26488655
+    https://chaos.social/@ConnyDuck/105904002285019275
+    still on fdroid
+    "When I build something, I alone get to decide what my labor enables and what it does not. If you disagree with 
+        my choices, you’re free to use a tool built by someone whose values better align with yours."
+        yeah, and Tusky is now free to use an app store that aligns with its values
+    June 2019 Tusky created a blacklist of mastodon instances that the app would refuse to log into
+        https://github.com/tuskyapp/Tusky/pull/1303
+        original code, it would rickroll someone who tried
+        in the code it's still called rick_roll_domains
+        gab.com, gab.ai, spinster.xyz
+    Alternative: https://github.com/fwgs/husky
+
+
+Mozilla rewriting the web with "b!tch-to-boss" extension
+    https://blog.mozilla.org/firefox/firefox-b-tch-to-boss-extension/
+    written by Mozilla, and highlighted on their official blog 
+        and in Firefox pop-ups as a "recommended" extension
+        which shows you what Mozilla "recommendations" are worth
+    "About this extension"
+        A person’s gender, age, race, or sexual orientation shouldn’t determine their access, opportunities, or 
+            quality of experience online. And yet . . . here we are. B!tch to Boss finds and replaces all instances 
+            of derogatory words like “bitch,” “slut,” and “nasty woman” to simply read “boss” across the web. 
+            Will this solve harassment online? No. Will it make comments sections, unsolicited DMs, and angry 
+            replies just a little bit funnier? Hopefully.
+    changes multiple languages
+        with a host of unicode and cultural issues
+             e.g. the «conne» in «déconne» is replaced.
+            "I'm French and the word "p*tain" is 95% of the time not used in a way to degrade a woman."
+    comments:
+        A lot of extensions and applications made by Mozilla are pretty useful. This one is not of them however.
+        This addon could be excellent if it could replace or delete all swear words to protect my children for 
+            example. But no it changes this one word and that is that no options, no customizations no effort at 
+            all to do something useful or to make internet a better cleaner place.
+        Nice idea, but maybe a whitelist for websites about dogs would be good
+        made an account just to shit on this fucking addon.
+        If you need to change a word to make yourself feel "strong and independent"... you are neither.
+        Bitch

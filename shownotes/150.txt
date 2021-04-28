@@ -1,0 +1,58 @@
+150
+2021-04-08
+
+where we don't eat off our keyboards
+where becoming an expert is worth at least 100 points of identification
+
+JCD notes
+ first time I read a dvorak article he was crapping all over Windows Vista
+
+
+AU federal gov't proposal to require internet users to submit ID for social media account
+    https://gizmodo.com/social-media-accounts-should-require-proof-of-id-accord-1846604706
+    seeks to ban all anonymous commenting on internet
+        "to help victims of domestic violence"
+    report from Standing Committee on Social Policy and Legal Affairs
+        "In order to open or maintain an existing social media account, customers should be required by law to identify 
+            themselves to a platform using 100 points of identification, in the same way as a person must provide 
+            identification for a mobile phone account, or to buy a mobile SIM card."
+        "Social media platforms must provide those identifying details when requested by the eSafety Commissioner, law 
+            enforcement or as directed by a court."
+        "The Government should consider regulating to enable law enforcement agencies to access a platform’s end-to-end 
+            encrypted data, by warrant, in matters involving a threat to the physical or mental wellbeing of an 
+            individual or in cases of national security."
+    https://www.infosecurity-magazine.com/news/australia-considers-social-media/
+        Dr. Belinda Barnet of Swinburne University in Sydney Morning Herald:
+            “It’s a long bow to draw that if we give our passport to Facebook then suddenly people will not be abusive. 
+                There’s no research to support that assumption.
+            “We’d be giving over these identity documents to proprietary platforms that do not have our best interests at heart.”
+
+Terramaster NAS exposing itself with UPNP
+    https://kn100.me/terramaster-nas-exposing-itself-over-upnp/
+    Terramaster F2-210
+    noticed web interface was visible from outside the firewall
+        ports 8181 (web interface), 5443 for SSL, 9091 (Portainer - container manager for Docker), and 8800
+    NAS offers no way to disable upnp behavior
+        changing ports poked new firewall holes using upnp, but didn't clear old ones
+    Possible to SSH into the NAS and change config scripts, but who does that?
+
+Zoom zero-day
+    https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/
+    paid $200k bounty
+    RCE execution affecting Win and Mac (not browser)
+        gif showed it launching calc.exe
+
+CNN racist fonts
+    https://www.foxnews.com/media/cnn-fonts-racist-asianness
+
+UK wants to block e2e encryption - unconfirmed
+    https://www.wired.com/story/uk-trying-to-stop-facebook-end-to-end-encryption/
+    Home Secretary Priti Patel will give April 19 speech to National Society for Prevention of Cruelty to Children
+        "draft invitation seen by Wired" says he's planning these remarks
+    early draft of NSPCC report "seen by Wired"
+    "increased usage of end-to-end encryption would protect adults’ privacy at the expense of children’s safety, 
+        and that any strategy adopted by technology companies to mitigate the effect of end-to-end encryption will 
+        “almost certainly be less effective than the current ability to scan for harmful content.”
+Biden to sign exorder to require hacks to be reported within 72hrs of discovery
+    https://www.bloomberg.com/news/articles/2021-03-31/companies-must-report-hacks-to-u-s-within-days-in-draft-order
+    nvm, "according to people familiar with it"

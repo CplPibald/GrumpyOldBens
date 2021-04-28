@@ -1,0 +1,53 @@
+132
+
+where the next stage in evolution after tech CEO is Bond villian
+where a grumpy old bens onlyfans page is becoming more likely every day
+
+Addendum to Monday's show 131 about gambling
+    @HopScotch on NAS: WA is the only state in the US that outlaws online gambling
+    short position exceeded 100% of GME stock
+
+WA auditor data breach
+    https://www.bleepingcomputer.com/news/security/data-breach-exposes-16-million-washington-unemployment-claims/
+    https://www.accellion.com/company/press-releases/accellion-provides-update-to-recent-fta-security-incident/
+    vulnerability in Accellion File Transfer Appliance
+        Service used to share documents with users outside organization
+            popular among banks, gov't, financial orgs
+        FTA is 20 years old
+            Accellion hasn't forced upgrades
+            "We have encouraged all FTA customers to migrate to kiteworks for the last three years and have
+                accelerated FTA end of life plans in light of these attacks"
+        Also hit with breach:
+            Reserve Bank of NZ
+            Australian Securities and Investments Commission
+            Harvard Business School
+            likely many more
+    Breach incl. unemployment compensation info:
+        name, SSN, WADL, bank account+routing, place of employment
+
+Facebook steps up pop-up propaganda
+    ios 14 is about to release
+        https://www.forbes.com/sites/johnkoetsier/2020/06/24/apple-just-made-idfa-opt-in-sending-an-80-billion-industry-into-upheaval/
+        new feature prompts users when an app wants to use IDFA (Identifier for Advertisers)
+            similar to Android GAID (Google Advertising ID)
+        Prompt: "Facebook would like permission to track you across apps and websites owned by other companies.
+            Your data will be used to deliver personalized ads to you. [Allow Tracking] [Ask App Not to Track]"
+        ios Consumers spent $15B in Q1 2020, almost twice Android.  Mobile ads are $80B industry according to Forbes
+        does nothing about Facebook SDK
+    Tim Cook rips FB in Brussels last week without mentioning FB
+        https://www.inc.com/justin-bariso/tim-cook-may-have-just-ended-facebook.html
+        "Technology does not need vast troves of personal data stitched together across dozens of websites and apps in
+            order to succeed... If a business is built on misleading users on data exploitation, on choices that are 
+            no choices at all, then it does not deserve our praise. It deserves reform."
+        He then went on slamming facebook for allowing "misinformation" and "conspiracy theories" to spread.
+    FB now testing app update that pops up a dialog right before Apple dialog pops up
+        https://www.msn.com/en-us/money/other/facebook-strikes-back-against-apple-privacy-change-prompts-users-to-accept-tracking-to-get-better-ads-experience/ar-BB1dhL5f
+        https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1dhyg5.img
+        "To provide a better ads experience, we need permission to use future activity that other apps and websites send
+            us from this device.... Learn more about how we limit our use of your activity if you turn off this device
+            setting, and related settings from facebook"
+        FB continues to call Apple a monopoly
+
+
+
+

@@ -1,0 +1,38 @@
+145
+
+2021-03-22
+
+where our volcanic eruptions are only in the minds of offended Karens
+where we can't even keep our intro under 40 minutes
+
+how much CO2 iceland volcano?
+    https://climatechangedispatch.com/massive-volcano-emissions-warming/
+
+Spotify now censoring songs for lyrics
+    https://summit.news/2021/03/16/spotify-now-censoring-lyrics-that-contain-misinformation/
+    Ian Brown of The Stone Roses
+        song: Little Seed Big Tree
+    lyrics:
+        Masonic lockdown, in your hometown / Masonic lockdown, can you hear me now
+        From the top down, soul shock down / State shakedown, mass breakdown
+        Global orders, riding over borders / Get behind your doors for the new world order
+    refused to be the headliner for Manchester Neighborhood Weekender festival because organizers
+        required proof of vaccination
+
+Librem Tunnel VPN abandoning iOS
+    https://puri.sm/posts/why-librem-tunnel-is-leaving-ios/
+    part of Librem One suite from Purism
+        e2e-encrypted mail, chat, social, tunnel
+            ?? Tusky, K9mail, Matrix, OpenVPN (android),
+            PIA = "Private Internet Access" on ios
+        freemium model
+        "no logging" according to their site
+            "No Ads, No Tracking, We respect you."
+        future: files, backup, contacts, payments, pay-as-you-go phone
+        also run PureOS
+    Apple demanded Purism put a Librem One subscribe capability into their VPN app
+        to get their 30%
+        blocked updates
+    just putting things into ios store makes it non-free
+        Apple actively bans anything with GPL
+

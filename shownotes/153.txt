@@ -1,0 +1,69 @@
+153
+
+2021-04-19
+
+where, while other states are moving back to sanity, ours are competing to out-woke each other
+where electric cargo ships are on the horizon
+
+WA legislature votes to ban all gasoline cars starting in 2030
+    https://www.theverge.com/2021/4/17/22389088
+    Bans sale, purchase, or registration of any non-EV model year 2030 or later
+        meaning you can't even buy out of state and register here
+        "passenger and light duty vehicles" up to 10k pounds (excl emergency vehicles)
+    Dependent on state approving a new tax on vehicle miles driven
+        Takes effect once 3/4 of the vehicles on the road are subject to "road usage charge"
+    https://cdn.vox-cdn.com/uploads/chorus_asset/file/22450947/clean_cars_2030.pdf
+    Revise state building codes to require all buildings with on-site parking to offer EV charging stations in 10% of slots
+        yeah, those won't get vandalized
+    State to build a tool to optimally place where EV charging stations should go
+        for use in central planning how to give out permits
+        "The department, through the department's public-private partnership office and in consultation with the 
+            department of ecology, the department of commerce, and the OFFICE OF EQUITY, must develop and maintain 
+            a publicly available mapping and forecasting tool that provides locations and essential information 
+            of charging and refueling infrastructure to support forecasted levels of electric vehicle adoption"
+        Must integrate population, health, environmental, and socioeconomic data
+            "to support highly impacted communities and vulnerable populations"
+    Also allows for hydrogen-powered cars
+        https://www.besthydrogencars.org/how-much-does-it-cost-to-refuel-a-hydrogen-car/
+        Hyundai Nexo, Toyota Mirai, Honda Clarity
+        400mi range, average $80 to refuel (but wildly different depending on location)
+        "Gas might be cheaper, true, but in the end if you want to protect the environment, you will find that Hydrogen Cars can be a much better option."
+        No hydrogen refuel stations in my county
+            Bing didn't understand the search
+            Google listed a couple of stations in Vancouver
+            some Shell stations, but not converted yet
+    reading text: it sets a "goal" that all vehicles be EV...  but
+        "Nothing in this section authorizes any state agency to restrict the purchase, sale, or registration of vehicles that are not EV"
+    Compare to California and Massachusettes, with bans by 2035
+        CA ban is only by Newsom executive order (isn't he being recalled?)
+        MA ban is part of Charlie Baker's "2050 Decarbonization Roadmap"
+    
+
+
+"Frank" social media platform
+    https://frankspeech.com/
+    https://www.newsweek.com/1584562
+    (blackjack and hookers update)
+        from Mike Lindell, aka "MyPillow guy" 
+            who says he spent $millions on project
+    Big deal about "free-speech"
+        but doesn't allow swear words or blasphemy
+        "You're not gonna have to worry about what you're saying or worry about being able to speak out freely, 
+            but you don't get to use the four swear words. The C-word, the N-word, the F-word or God's name 
+            in vain. Free speech is not pornography"
+        But this isn't free speech either
+    Planned a soft VIP opening on Friday and public opening today
+        VIPs had to give their phone numbers
+    Site isn't up yet.  VIPs never got access.
+        Just a placeholder video which didn't load for me most of the morning
+            occasional 405 not allowed error
+
+Parler returning to app store
+    https://www.macrumors.com/2021/04/19/apple-parler-return-app-store/
+    https://techcrunch.com/2021/04/19/apple-confirms-it-will-allow-parler-to-return-to-app-store/
+    "Apple said the app has improved the way it moderates content and those changes are sufficient to return"
+
+Memberful subscription platform
+    https://memberful.com/
+    free with 10% transaction fee, or paid tiers for $25/$100 with 5%
+    requires a Stripe account

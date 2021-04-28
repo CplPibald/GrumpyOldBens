@@ -1,0 +1,78 @@
+120
+
+where the academy award for most out-of-touch actor in an uninformed covid rant goes to Tom Cruise
+where my AI replacement is still years from beta
+
+Tom Cruise more bad acting
+    https://invidious.site/watch?v=tHteO55JzD4
+The Stand controversy - hired an actor who can haer to play a deaf character
+    https://www.yahoo.com/entertainment/stephen-king-the-stand-cbs-all-access-deaf-community-criticism-controversy-000459184.html
+
+AUS spy agency "incidentally" collecting COVIDSafe contact tracing app
+    https://techcrunch.com/2020/11/24/australia-spy-agencies-covid-19-app-data/
+    "in the course of the lawful collection of other data"
+    "agencies were “taking active steps to ensure compliance” with the law, 
+        and the data would be “deleted as soon as practicable,”
+
+No alcohol for 2mo after Russian covid vaccine
+    https://nypost.com/2020/12/09/no-drinking-for-two-months-after-covid-19-vaccine-russia-says/
+    Vaccine takes 42 days to "become effective"
+    Full precautions during that time: facediaper, sanitizer, no crowded places,
+        and no alcohol or immunosuppressant drugs
+
+Grand County, CO coroner says two of the five "covid" deaths in her county were gunshots
+    https://www.zerohedge.com/covid-19/seriously-gunshot-deaths-counted-among-covid-19-fatalities-colorado
+
+Mossyrock, WA withdraws consent to be governed by Inslee
+    https://www.dailymail.co.uk/news/article-9052895/Inside-small-Washington-town-defying-lockdown-despite-state-orders.html
+    well, not really.  But they're bucking COVID restrictions
+    city passed measure to allow all local businesses to stay open
+    Hundreds attended a "freedom rally"
+
+Exfiltrating data from air-gapped machines over wifi ("AIR-FI" attack)
+    https://thehackernews.com/2020/12/exfiltrating-data-from-air-gapped.html
+    https://arxiv.org/abs/2012.06884
+    with no wifi hardware in targeted systems
+    Deploy malware that vibrates DDR SDRAM bus at 2.4GHz and pick up with nearby wifi devices
+    Dr. Mordechai Guri, head of R&D at Ben-Gurion University Israel
+
+SCOTUS is just as swampy as the rest of the swamp
+    https://rumble.com/vbz637-this-claim-about-why-scotus-didnt-take-the-texas-case-will-leave-conservati.html
+    Report from a staffer at SC claims when the justices went in closed quarters to talk about cases,
+        yelling could be heard through wall.
+        "don't care about Bush v. Gore.  There wasn't rioting"
+    https://www.theblaze.com/op-ed/horowitz-scotus-blocks-kansas-from-requiring-proof-of-citizenship-to-vote
+    Still cool with blocking KS law requiring proof of citizenship before voting
+        10th circuit claims requiring citizenship violates equal protection clause of 14th amendment
+        shot down KS law from 2011.  SCOTUS let 10th circuit stand
+    "Yet the same federal courts that believe we should butt out of the business of states that violate their
+        own election laws to weaken verification suddenly have no problem intervening and nullifying state laws 
+        that strengthen voter verification."  (theblaze)
+
+Anthropogenic space weather
+    https://www.sciencealert.com/there-is-a-human-made-barrier-surrounding-earth-and-we-can-detect-it
+    Earth issuing VLF frequencies, pushing Van Allen belts out
+    "impacts on space environment"
+    Article is so tryhard to tie this to climate change
+Jim Creek Naval Radio Station
+    https://en.wikipedia.org/wiki/Jim_Creek_Naval_Radio_Station
+    communicate one-way orders to submarines at 24.8kHz
+    5000 acres
+    Ten catenary cables 5640 to 8700ft long across the valley
+    monopole antenna - verticals radiate, horizontals add capacitance
+
+New mental disorder: Tendency for Interpersonal Victimhood
+    https://www.americanthinker.com/blog/2020/12/researchers_declare_liberalism_a_personality_disorder_.html
+    https://www.sciencetimes.com/articles/28600/20201210/tendency-interpersonal-victimhood-new-personality-construct-sees-oneself-victim.htm
+    published in "Personality and Individual Differences" journal by Rahav Gabay from Israel
+    "the tendency for some individuals to see themselves as victims, including in seemingly harmless exchanges, 
+        often leading to a desire for revenge against those who wronged them and a sense of entitlement" that can
+        "lead to [actual] revenge behaviors."
+    "an ongoing feeling that the self is a victim, which is generalized across many kinds of relationships."
+    four characteristics
+        1. Elitism - perceieves immaculate sense of own morality
+        2. Need for recognition of victimhood
+        3. Rumination of past victimization, leading to a decreased capacity to forgive
+        4. Lack of empathy due to self-centeredness
+
+

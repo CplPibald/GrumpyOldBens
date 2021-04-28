@@ -1,0 +1,73 @@
+146
+
+2021-03-26
+
+where the $1400 stimulus checks are moving faster than the Suez Canal
+where we ponder the important question: Where will you be when the Zombie Apocalypse begins?
+
+Suez Canal live updates
+    https://istheshipstillstuck.com/
+
+SMS flaw: pay a company to reroute text messages
+    https://www.vice.com/en/article/5dp7ad/tmobile-verizon-att-sms-hijack-change
+    Sakari - helps businesses do mass SMS marketing
+        can reroute anyone's messages without consent, just $16/mo for an account
+        Licensing agreement says you promise not to do anything unlawful
+    not simjacking - just SMS rerouting
+    People using SMS for 2fa?
+    Patched by all carriers now:
+        Number registry has changed to no longer support
+
+C2PA = Coalition for Content Provenance and Authenticity
+    https://blogs.microsoft.com/on-the-issues/2021/02/22/deepfakes-disinformation-c2pa-origin-cai/
+    https://www.breitbart.com/tech/2021/02/25/bokhari-microsoft-and-friends-want-to-destroy-online-privacy/
+    Adobe, Arm, BBC, Intel, Microsoft and Truepic
+    "C2PA member organizations will work together to develop content provenance specifications for common asset types 
+        and formats to enable publishers, creators and consumers to trace the origin and evolution of a piece of media,
+        including images, videos, audio and documents."
+    all about fighting "disinformation"
+        attempts to track everything online back to its origin - to "trusted providers"
+    "as I returned home from the World Economic Forum in Davos" -- Eric Horvitz
+Project Origin - previous iteration
+    https://www.originproject.info/
+    BBC, CBC, MSFT, NYT
+    Digital signing/hashing links and news stories
+        "verifiable tracing back of media content to the publisher".  Also cryptographic validation of content
+        requires browser extension to check hashes
+    "tamper-proof and secured by a distributed ledger technology"
+    creating a "standard"
+        all they've created so far is a website
+Content Authenticity Initiative
+    https://contentauthenticity.org/
+        with Adobe - we talked about this
+"Defending Democracy" program 2018
+    https://blogs.microsoft.com/on-the-issues/2018/04/13/announcing-the-defending-democracy-program/
+        Clearly it didn't work
+    * Protect campaigns from hacking
+    * Increase political advertising transparency online
+    * Defend against disinformation campaigns
+ElectionGuard
+    https://blogs.microsoft.com/on-the-issues/2019/07/17/new-cyberthreats-require-new-ways-to-protect-democracy/
+    MSFT voting system
+        vote directly on screen of MSFT surface or using Xbox Adaptive Controller
+        Give people a "tracking code" that can be put into a website to confirm that your vote "was counted and not altered"
+            though it won't show you the vote
+        third feature is a printer?
+            "Third, the demo will show how ElectionGuard can enable end-to-end verifiable elections for the first 
+                time while retaining the familiarity and certainty of paper ballots. The demo will provide voters 
+                with a printed record of their votes, which they can check and place into a physical ballot box,
+                with verification through the web portal serving as a supplemental layer of security and verifiability."
+Microsoft Video Authenticator
+    https://www.msn.com/en-us/news/technology/m/ar-BB18Gjhk
+    analyzes still photo for deepfake
+    trained on FaceForensics++ dataset
+    tested on Facebook's DeepFake Detection Challenge
+    Available exclusively to the "AI Foundation" as part of "Reality Defender 2020"
+        AI Foundation: "By making it possible for everyone to have their own AI, we're putting control back in the hands
+            of individuals and unlocking the limits of humanity"
+        only accessible to candidates, press, campaigns, parties, social media platforms - but not you.
+MSFT press release formula:
+    State a problem.  Spend three paragraphs explaining that it's very bad and you should care about it.
+    Then explain that it must be solved for another paragraph or two
+    Finally announce a well-named vaporware initiative that proposes to try to solve it
+

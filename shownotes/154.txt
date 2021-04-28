@@ -1,0 +1,67 @@
+154
+
+2021-04-23
+
+where soon you won't even need to install a camera to spy on your neigbors
+where I want need a new tractor to haul my next load of freezer beef
+
+apologies to Lady Getoverit
+    I spent 45 minutes chatting with her at a meetup
+        and her hubby Hop-Scotch is responsible for about 60% of my bitcoin knowledge
+
+
+802.11bf: Get the aluminum wallpaper out
+    https://standards.ieee.org/project/802_11bf.html
+    https://technoeager.com/wi-fi-802-11bf-the-standard-for-wi-fi-sensing/
+    based on "Wi-Fi Sensing"
+        uses wifi signal interference to measure people/objects that interfere with wifi signals
+            presense, distance, direction, motion (speed/dir)
+    application: track you through your home, turn lights on/off as you walk through a room
+    At proposed 60GHz range, it can detect gestures 
+        perhaps even typing (or jerking off)
+    Proposal says implementations must require opt-in from users
+        but wifi penetrates walls = apartment complexes?
+
+Name:Wreck = Nine DNS vulnerabilities in four popular TCP/IP stacks (Thanks SirVo, nee dowodenum)
+    https://www.forescout.com/research-labs/namewreck/
+    https://tools.ietf.org/html/rfc1035
+    https://www.wired.com/story/namewreck-iot-vulnerabilities-tcpip-millions-devices/
+    DNS message compression (RFC 1035)
+    vulnerable stacks: 
+        FreeBSD
+            Boundary error from specially crafted packet on local network triggers buffer overflow = RCE
+        IPnet (used in VxWorks, OSE, INTEGRITY)
+            Stack overflow in message decompression = RCE
+        Nucleus.NET (used in components from Siemens)
+            Does not validate length/position in decompressed responses
+                write past end of string. RCE
+                read past end of string = DoS
+        NetX (bought by MSFT, released as OSS, now called Azure RTOS NetX)
+            Does not verify forward pointer - could redirect to same location resulting in infinite loop = DoS
+    All of these have patches available
+        ... if your device is being patched
+        Web-connected IoT devices usually aren't.
+
+John Deere vulnerabilities allowed doxing of tractor owners
+    https://www.vice.com/en/article/4avy8j/bugs-allowed-hackers-to-dox-all-john-deere-owners
+    researcher "Sick Codes" reported on Apr 13.  JD fixed both by Wednesday
+    Vuln in open JD API
+        1st allows list all usernames on web portal, unauthenticated
+            by removing cookie from request
+        Not even rate-limiting API lookups
+        "I could download the data of every owner of every single John Deere tractor in the world" said to Motherboard
+            Vehicle owner's name, physical addr, unique equipment ID / VIN
+    Oldest vehicles were safer, because JD didn't require as much registration data.
+
+UK legislation proposed to require device mfrs to give support end date
+    https://www.theregister.com/2021/04/21/ukgov_death_dates_smartphones_iot_security/
+    Also banned from publishing default admin passwords
+    part of UK Digital Security By Design project 
+        "influence hardware and chip designs to enhance security"
+        spawned from a 2018 report where GCHQ asks tech firms to make IoT devices secure
+        "GCHQ’s Code of Practice for Consumer IoT Security contains broad-brush recommendations such as
+            “implement a vulnerability disclosure policy” and “minimise exposed attack surfaces”.
+            https://www.gov.uk/government/publications/secure-by-design/code-of-practice-for-consumer-iot-security
+
+
+https://mynorthwest.com/2802297/wa-health-deny-vaccines-white-people/

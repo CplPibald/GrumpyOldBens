@@ -1,0 +1,92 @@
+138
+2021-02-26
+
+where in an age of remote work, everyone phones it in
+where I became a podcaster to avoid confusion
+
+
+Unemployment fraud in IL
+    https://abc7chicago.com/ides-unemployment-in-illinois-fraud-report/10367159/
+    People opening claims online using IDES system
+        using data from breaches.  Also from quizzes (birthdate, hometown, employer)
+        no 2fa, no way to flag accounts
+    affecting credit scores
+
+WA state creating office of Cybersecurity
+    https://www.usnews.com/news/best-states/washington/articles/2021-02-24/senate-oks-measure-creating-state-office-of-cybersecurity
+    after auditor's office lost 1.4M records due to Accellion hack
+        while investigating Employment's loss of data from SolarWinds hack
+    Office of Chief Information Officer
+
+Reddit removes options to opt-out of digital tracking
+    https://www.reddit.com/r/changelog/comments/lqtecn/update_to_user_preferences/
+    posted in r/changelog, and not r/blog or r/announcements
+    Aaron Swartz continues spinning in his grave
+    "Simplifying personalization preferences"
+        too many "confusing" choices
+        "We will no longer support the option to opt out of personalization of ads based on your Reddit activity."
+    "Removing Outbound Click Preference" forces all outbound links to redirect through out.reddit.com
+        "we leverage only aggregated data ... we're removing this setting to reduce confusion"
+        setting added 4 years ago, "to add privacy".  Now removed for "confusion"
+            Excuses from post 4y ago:
+                https://www.reddit.com/r/changelog/comments/49jjb7/reddit_change_click_events_on_outbound_links/d0syy0a/
+                "Vote speed calculation" = predict if someone clicks a link, they're going to vote on it
+                "track the impact of spammed links"
+                "General stats like click to vote ratio"
+    Removing all opt-out options for logged out users "to reduce confusion"
+    "Reddit's commitment to user privacy isn't changing"
+        true; they are still totally against it
+    the confusion argument started with Apple.  "Stupid consumer, we'll tell YOU what you want."
+    On behalf of power users, we weren't confused.  We didn't want to be tracked.
+        top comment "Don't piss on my shoe and tell me it's raining"
+            "I'll take the confusion, thank you"
+    GDPR argument
+        by EU law, these settings should be opt-in.  They were opt-out.  Now they're no-opt
+            Also illegal to not have a way to delete this data
+    old.reddit.com (desktop) and i.reddit.com (mobile) are still preferable ways to browse
+        until they're removed
+        Using old, I still don't get redirected to out.reddit.com.  Javascript?
+    Official mobile app won't allow you to browse logged out.
+        and desktop will redirect you to a login page on click into comments
+Also banned explicit content from r/all
+    coincidentally only a couple days after taking money from UAE
+
+Google takes google services closed-source, locks them out of chromium
+    https://blog.chromium.org/2021/01/limiting-private-api-availability-in.html
+    eg: Chrome Sync and Click to Call
+    no more bookmarks stored in google account across chromium browsers
+    Devs can still use APIs, but not in production
+
+Google fires second head of AI ethics
+    https://www.msn.com/en-us/news/technology/g/ar-BB1dU6qf
+    Fired Timnit Gebru in December
+        fought in 2019 to stop rollout of amazon facial recognition
+        Reasons why AI can be scary (from GOB #119)
+            1) It takes a lot of electricity to train (green)
+            2) Opportunity cost  
+            3) If we don't carefully curate the dataset, our AI will be racist
+    Now fired Margaret Mitchell, the other ethics co-head
+        during her investigation of Gebru's firing
+        https://www.theregister.com/2021/01/25/in_brief_ai/
+        "said she had been locked out of her corporate acct for weeks"
+
+23 and me sold out to VG Acquisition Group (Virgin Galactic, Richard Branson)
+    https://www.fool.com/investing/2021/02/04/23andme-going-public-via-merger-with-virgin-group/
+    As predicted, all of your data that was safe with one company, now owned by someone else
+
+Coinbase and DigitalOcean filing to prepare for IPO
+    https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm
+    https://www.sec.gov/Archives/edgar/data/1582961/000119312521055798/d898181ds1.htm
+    both filed form S-1 yesterday
+
+Texas, 8 other states are suing Google
+    https://www.breitbart.com/radio/2021/02/24/texas-attorney-general-ken-paxton-we-think-our-antitrust-lawsuit-against-google-will-succeed/
+    for being too big, from Ken Paxton (AG-TX) comments
+    filed Dec 2020
+    https://www.breitbart.com/tech/2020/12/16/texas-ag-ken-paxton-files-lawsuit-against-google-over-ad-practices/
+    incl AR, IN, ID, KY, MO, MI, ND, SD, UT
+    alleges they used monopoly power yadda yadda
+
+AU officially passes News Media and Digital Platforms Mandatory Bargaining Code
+    https://www.cnbc.com/2021/02/25/australia-passes-its-news-media-bargaining-code.html
+

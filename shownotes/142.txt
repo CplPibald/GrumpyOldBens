@@ -1,0 +1,73 @@
+142
+
+2021-03-12
+
+where I'm lucid, grumpy, and out of pain meds
+
+
+Dr. Seuss canceled, can't republish because it's still copyrighted
+
+https://blogs.microsoft.com/on-the-issues/2021/02/22/deepfakes-disinformation-c2pa-origin-cai/
+    "as I returned home from the World Economic Forum in Davos in early 2019"
+            Eric Horvitz - Technical Fellow and Chief Scientific Officer, MSFT
+
+Transgender surgery now paidfor by military
+    https://www.washingtonexaminer.com/news/military-transgender-surgery-free
+    question of whether it's "necessary" care, or mental illness.  Military pays other necessary medical expenses
+    ... but doesn't take people with preexisting conditions - TG as protected class
+    if soldiers are gov't property, does this damage their combat effectiveness?
+
+nVidia RTX 3060 mining restrictions have been bypassed?  Or not?
+    https://cointelegraph.com/news/nvidia-rtx-3060-mines-ether-at-full-power-as-miners-allegedly-bypass-hash-limits
+    "there's a secure handshake between the driver, the RTX 3060 silicon, and the BIOS (firmware) that prevents
+        the removal of the hash rate limiter" - Bryan Del Rizzo, nVidia global director of PR
+    "detect specific attributes of the Ethereum cryptocurrency mining algorithm"
+    images came out from a FB group showing mining at full speed
+    Not bypassed?
+        https://game-debate.com/news/30381/rtx-3060-mining-limiter-was-not-hacked-after-all-nvidia-only-limits-ethereum-mining
+        "Nvidia only limited the performance of crypto mining on their RTX 3060 graphics card when it detected Ethereum 
+            mining algorithms, and not any other type of alt-coin."
+    says image was of Octopus algorithm used by Conflux alt-coin
+
+Brave buys Tailcat search engine
+    https://brave.com/brave-search/
+    Brendan Eich, CEO, likes privacy, choice
+    promises no tracking, serve users not ad companies
+    "We will provide options for ad-free paid search and ad-supported search." 
+    "We are working on bringing private ads to search, as we’ve done for Brave user ads."
+    "community-curated open ranking models" = no secret algo
+    Tailcat has its own independent index
+    Tried to do goggles with Cliqz engine
+        but it was shut down on 29 Apr 2020
+        owned by european (Munich, Barcelona) Hubert Burda Media, who is a Brave shareholder
+    other browsers Qwant, Ecosia, DDG, etc
+Brave Goggles
+    https://brave.com/wp-content/uploads/2021/03/goggles.pdf
+    Language specification for search ranking
+    allows custom user-defined algos
+        "only tech blogs" or "exclude top 1000 domains" or individual site search
+        "product reviews wihtout commercial intent", "independent media for Syria"
+    Brave won't make ranking algo transparent
+        goggle allows you to modify afterward
+        core algo still secret - cite intellectual property, and don't want SEO
+    could be used for personal search - bring your own goggle
+    "does not fix the problems of misinformation, echo-chambers, confirmation bias"
+        people still have to bring their bullshit filter, and look at sources critically
+        offers multiple perspectives
+    details
+        based on adblock+ syntax
+        text file containing filters = trigger + action
+            trigger on url pattern
+        send goggle URI along with search, and engine will sort
+            privacy: personal goggle URI could be used to fingerprint
+                more client side processing?  paper leaves it open
+
+Google announces plans to stop selling ads based on browsing history
+    https://blog.google/products/ads-commerce/a-more-privacy-first-web/
+Google removing 3rd party cookies from Chrome, replacing with FLoC
+    https://blog.google/products/ads-commerce/2021-01-privacy-sandbox/
+    firefox/edge already block 3rd party by default
+    Replace with "Federated Learning of Cohorts", an interest-based tracking system
+        allows sites to place you into categories, rather than as an individual
+        this is the most socialist thing I've seen from them
+

@@ -1,0 +1,35 @@
+151
+2021-04-12
+
+where is found the greatest voice in podcasting history
+where I remain, as always, unFLoCed
+
+Am I FLoCed by EFF
+    https://amifloced.org/
+    sent by dowodenum
+    Chrome FloC trial sent out to 1 in 200 users of Chrome 89+
+        Nobody has been informed, much less consented.  
+        EFF tool detects if you're one
+        33000 different behavior groups
+    Disable third party cookies to opt out in browser
+    Websites are automatically included if they access the FloC API
+        or if Chrome detects that they serve ads 
+            using Google "Ad Tagging", and a url list
+        sites can opt out with header: Permissions-Policy: interest-cohort=()
+    FLoC is application of identity ideology to browser tracking
+        You're not a person anymore. You're a demographic.  It's dehumanizing.
+        removes separation of context between different sites
+    Makes fingerprinting much easier though - each group has "a few thousand users" according to Google
+        Google has a plan to fix this called "Privacy budget" 
+            where the browser starts failing API calls if it gives up more than a threshold of info
+DDG browser extension promises to block FLoC
+    https://www.techrepublic.com/article/this-browser-extension-promises-to-block-googles-controversial-new-tracking-algorithm/
+
+FBI 6wk cycle, this time to bomb AWS
+    https://www.bleepingcomputer.com/news/security/fbi-arrests-man-for-plan-to-kill-70-percent-of-internet-in-aws-bomb-attack/
+    tried to buy C4 from an undercover FBI agent
+        communicated over Signal
+    Much more alarming that AWS is now 70% of internet
+
+PfSense = currently updated open-source firewall/router software
+    https://en.wikipedia.org/wiki/PfSense

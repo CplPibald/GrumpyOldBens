@@ -1,0 +1,146 @@
+127
+
+where Silicon Valley's self awareness is asymptotically approaching zero
+proud purveyors of low-key conspiracy theories
+
+Twitter's hypocrisy intensifies around Uganda election
+    https://notthebee.com/article/i-honestly-cant-believe-twitter-just-tweeted-this-but-twitter-just-tweeted-this/
+    https://humanevents.com/2021/01/12/twitter-responds-to-ugandas-social-media-shutdown-we-strongly-condemn-internet-shutdowns-amid-platform-wide-conservative-purge/
+    https://www.aljazeera.com/news/2021/1/12/unprecedented-violence-as-uganda-gears-up-for-elections
+    Background in Uganda:
+        Ruling candidate President Yoweri Museveni vs opposition party Bobi Wine
+            Museveni bidding for 6th term
+            Wine was a popular singer/entertainer
+        Wine was jailed while doing an interview
+            “I have to end the interview because I can see soldiers beating my security guards"
+        Riots ensued, over 50 people killed in clashes with police
+        UN Sec-General Antonio Guterres called this "one of the bloodiest election campaigns in decades"
+        aljazeera: "Ugandan polls are often marred by allegations of rigging. The country has never seen a peaceful 
+            transfer of power since independence from Britain in 1962."
+    1) Twitter bans pro-ruling-party accounts three days before Uganda election
+    2) Museveni instructs all Ugandan ISPs to block Twitter
+        also facebook, whatsapp, signal, and viber
+        and over 100 VPNs
+        gave reason of "the arrogance of American social media companies meddling in our election"
+        “That social channel you are talking about, if it is going to operate in Uganda, it should be used 
+            equitably by everybody who wants to use it. If you want to take sides against the [ruling party],
+            then that group will not operate in Uganda.”
+    3) Twitter's "Global Policy Team" posts
+        "Ahead of the Ugandan election, we're hearing reports that Internet service providers are being ordered to block social media and messaging apps.
+        "We strongly condemn internet shutdowns – they are hugely harmful, violate basic human rights and the principles of the #OpenInternet."
+        "Access to information and freedom of expression, including the public conversation on Twitter, is never more 
+            important than during democratic processes, particularly elections."
+    All this less than a week after banning Trump and instituting their Nth conservative purge
+Facebook bans: 
+    Law Enforcement Today group
+        https://reclaimthenet.org/facebook-bans-admins-of-law-enforcement-today/
+        900k members.  Group disbanded, admins can't log in.
+    Ron Paul
+        https://fee.org/articles/facebook-suspends-ron-paul-following-column-criticizing-big-tech-censorship/
+        because he criticized big tech censorship
+        explanation "repeatedly going against our community standards"
+Instagram censored image from notthebee.com
+    https://notthebee.com/article/instagram-just-pulled-one-of-our-posts-for-violence-and-incitement--the-post-was-a-screen-shot-of-twitters-trending-topics
+    for "violence and incitement"
+    the image was a screenshot of Twitter's trending topics
+    "the day after permanently banning Trump for "inciting violence," Twitter really did allow "Hang Mike Pence" to 
+        trend. Multiple forms of that sentiment, actually."
+    So basically Instagram accused Twitter of "violence and incitement"
+
+Your T1 WIFI in Priest River, ID blocks facebook and twitter
+    https://www.krem.com/article/news/local/idaho-internet-provider-blocks-facebook-and-twitter/293-867cc22b-fb90-4142-a296-8d800d2a03fb
+    https://www.breitbart.com/tech/2021/01/11/idaho-internet-provider-blocks-facebook-twitter/
+    Company spokesman said "it was fielding calls from customers asking that the service not display the sites on the internet,
+        and that they didn't want their children to be able to access them."
+    “There are too many people that have called for us to do one [customer] at a time so we will be blocking 
+        [Facebook and Twitter] and any other website that may also be censoring,”
+    "Our company does not believe a website or social networking site has the authority to censor what you see 
+        and post and hide information from you, stop you from seeing what your friends and family are posting. 
+        This is why with the amount of concerns, we have made this decision to block these two websites from being accessed from our network."
+    Initially were planning to make it opt-out, but later changed to opt-in
+    WA state has a net neutrality law (they serve parts of Spokane valley)
+    checked their site
+        "copyright 2008"
+        "We Solve the Problem for slow Dialup and Satellite get away from them today!"
+        1Mbps = $35/mo.  Top tier is 15Mbps for $150/mo
+
+Rumble sues Google over search rankings
+    https://www.marketwatch.com/story/youtube-rival-rumble-sues-google-over-search-rankings-11610465669
+    https://www.scribd.com/document/490433093/Rumble-Inc-v-Google-Complaint-as-Filed-ND-Cal-Case-No-5-21-Cv-00229-Jan-11-2021
+    the usual complaints: 
+        Google ranks youtube higher than rumble for same videos
+        Youtube app preinstalled on Android phones
+    Asking for $2B
+
+Noagendasocial makes fediblock list
+    https://fediblock.org/blocklist/#NoAgenda.social,noagendasocial.com
+    "They are already on everybody's block list because of the cross-platform harassment of @CreatrixTiara
+        in the early days of Mastodon, but they also are into conspiracy theories which are low-key anti-Semitic. 
+        Their podcast is also doing covid conspiracies."
+    Tags: anti-semitic racism
+    Two pieces of "proof":
+        No Agenda wikipedia article
+        A thread on another instance 
+            "noagenda dot social seems to be wall-to-wall antisemitic conspiracy theories"
+            " I don't know about the show. Their Masto instance's public timeline is full of New World Order memes, 
+                which is an anti-semitic conspiracy theory."
+        someone explains NA show in the thread
+            "I hope it's not presumptuous of me to warn you that that sounds like a potential radicalisation [sic]
+                pathway into some extremely harmful politics."
+
+Recall petition for Univ. of Michigan Regent Ron Weiser for not being fast enough with the groupthink
+    https://www.change.org/p/university-of-michigan-regents-and-president-schlissel-recall-u-m-regent-ron-weiser-for-complicity-in-capitol-violence
+    Weiser was asked on Jan 7 if Trump bears blame for violence.
+        "I don't know. I didn't read any of that stuff, and I didn't watch television. I watched Michigan destroy 
+        Minnesota in basketball, and that kind of contest is something that I strongly support."
+    This makes him "complicit in Wednesdays historic and horrifying events"
+    ``Initially, we and many others tried to give Weiser the benefit of the doubt with regards to his comments on
+        Thursday. Surely, we thought, he did not condone the actions of a President which have led countless 
+        members of Congress to call for the invocation of the 25th Amendment for his removal, and forced 
+        Vice President Pence to move forward in certifying the election results in direct conflict with his President. ``
+    ``After pressure to clarify his stance on Trump’s actions, Weiser did not relent. He released a statement 
+        “strongly condemn[ing] those people who turned into a mob...after what was supposed to be a peaceful protest. 
+        Those who broke the law should be held accountable.” ``
+    
+Two Michigan UP Counties declare Whitmer lockdown orders void
+    Delta county is declaring a "sanctuary county"
+        https://www.radioresultsnetwork.com/2021/01/12/delta-county-declares-sanctuary-county-from-restrictons/
+    Baraga county manifesto signed by nine officials, "will no longer enforce COVID-19 restrictions"
+        https://www.freep.com/story/news/local/michigan/2021/01/12/michigan-baraga-county-covid-19-restrictions/6636896002/
+
+Airline malfeasance
+    Delta boots two women from flight for having a private conversation on an airplane supporting the President.
+        https://www.citizenfreepress.com/breaking/delta-airlines-boots-two-women-for-private-conversation-about-trump/
+        https://www.independent.co.uk/travel/news-and-advice/delta-flight-trump-supporters-kicked-off-b1785312.html
+    Southwest kicked Trump supporter off flight for removing mask to eat
+        https://www.independent.co.uk/travel/news-and-advice/coronavirus-trump-supporter-flight-mask-video-plane-southwest-airlines-b1049853.html
+    American Airlines kicked "crying man" off plane for allegedly refusing to wear mask
+        https://www.msn.com/en-us/travel/news/video-of-crying-man-kicked-off-flight-for-refusing-to-wear-mask-goes-viral/ar-BB1cHmW1
+
+m5m accuses Louie Gohmert of "insurrection" after he quotes Pelosi on the house floor
+    https://thefederalist.com/2021/01/13/media-are-accusing-a-republican-lawmaker-of-insurrection-for-quoting-nancy-pelosi/
+    “Here’s a quote. ‘I just don’t even know why there aren’t more uprisings all over the country, and maybe there will be,’”
+        Gohmert said on the House floor during the impeachment debate.
+    Blake News from Politico quotes out of context
+    Sarah Reese Johnes from Politicus:
+        "Louie Gohmert calls for more violent uprisings claims Nancy Pelosi is destroying the American experiment 
+        and quotes the History Channel in about two minutes."
+    Asha Rangappa from CNN: 
+        “Holy shit. Is Gohmer encouraging MORE “uprisings”??!? Did I hear that right??????????”
+    Jason Applebaum from KTVU Fox:
+        "Louie Gohmert literally asked for Trump supporters to commit violence on live TV prior to the insurrection. Why is he even there???"
+    Ezra Levin, activist
+        "Gohmert is the id of the GOP caucus. He just said on the House floor: "Here's a quote for ya, why aren't there more uprisings all over the country?"
+
+=== Articles Worth reading
+    California is worse than you think
+        https://www.zerohedge.com/political/california-worse-you-think
+    Thomas Sowell - Is Truth Irrelevant?
+        https://www.creators.com/read/thomas-sowell/01/21/is-truth-irrelevant
+    Supreme Court rules Some States more Equal than Texas
+        https://thelibertarianrepublic.com/texas-less-equal-court-rules/
+    Platforms that have censored Trump
+        https://www.axios.com/platforms-social-media-ban-restrict-trump-d9e44f3c-8366-4ba9-a8a1-7f3114f920f1.html
+    Nancy Pelosi attempted a military coup against a sitting President, while accusing him of leading an insurrection
+        https://www.newstarget.com/2021-01-12-pelosi-attempted-military-coup-against-trump-falsely-claiming-insurrection.html
+

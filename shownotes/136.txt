@@ -1,0 +1,92 @@
+136
+2021-02-19
+
+where the news seems to have been sucked into a polar vortex, and all that's left is opinion
+
+
+Facebook vs Australia
+    https://www.usatoday.com/story/tech/2021/02/19/facebook-makes-power-move-australia-and-may-regret/4504473001/
+        FB complains that definition of "news" is too vague in AU law
+        now people in AU can no longer post links on FB.  People outside can't post links to Aus sites.
+    https://www.abc.net.au/news/2021-02-18/facebook-unrepentant-scott-morrison-dubs-move-arrogant/13169340
+        they blocked sites like WA Department of Fire and Emergency Services and the Bureau of Meteorology
+            inadvertently, FB says
+        "Facebook unfriended Australia today" -- PM Scott Morrison
+        Admission of monopoly power
+    Guardian headlines
+        Facebook is gambling Australia can't live without it. Imagine if we prove them wrong
+        Facebook is 'schoolyard bully' in Australia news row, says UK media boss
+    articles all frame this as threats and bullying.  Not one is taking FB's side
+
+Trade groups challenge MD internet tax law
+    https://www.msn.com/en-us/money/other/k/ar-BB1dPNAC
+    Jan 2019, MD legislature adds up to 10% tax on revenue from digital ads that target Maryland IP addresses
+        "I figure it’s better the Russian trolls help fund education" -- MD Senate pres Thomas Miller Jr
+    Gov. Larry Hogan veto'd the bill
+        The legislature overrode the veto
+    Plaintiffs incl. U.S. Chamber of Commerce, the Internet Association, NetChoice, and the Computer and Communications Industry Association.
+        filed suit in US District Court Baltimore
+    say it violates Internet Tax Freedom Act (1998 = Clinton)
+        Ron Wyden
+        bars federal, state and local governments from taxing Internet access and from imposing discriminatory 
+            Internet-only taxes such as bit taxes, bandwidth taxes, and email taxes. It also bars multiple taxes 
+            on electronic commerce {wikipedia}
+        Originally for 10 years.  Extended twice.  Made permanent in 2015 (Obama) 
+
+Rep Ken Buck from House Judiciary Committee's antitrust panel wants to introduce a bill 
+    "making it easier for smaller news organizations to negotiate with big tech platforms"
+    https://www.reuters.com/article/us-australia-media-facebook-us-exclusive-idUSKBN2AJ16X
+
+Border agents can search phones freely under new circuit court ruling
+    https://www.theverge.com/2021/2/10/22276183/us-appeals-court-first-circuit-border-phone-search-decision-fourth-amendment
+    https://thecrimereport.org/2021/02/11/first-circuit-allows-border-agents-to-search-personal-electronics/
+    First Circuit (Boston/New England = ME, MA, NH, RI, Puerto Rico)
+        concluded no "reasonable suspicion" required
+    “given the volume of travelers passing through our nation’s borders, warrantless electronic device searches are essential to … adequately protect the border”
+    ACLU+EFF brought case on behalf of a group - incl NASA dude (all muslim or black, all citizens)
+    Other cases
+        11th circuit rejected
+        4th and 9th require reasonable suspicion
+    Remember: 100 miles of border
+    can detain and compel to unlock
+    can copy all data from phone to archive
+
+Mastercard "bringing crypto onto its network"
+    https://www.mastercard.com/news/perspectives/2021/why-mastercard-is-bringing-crypto-onto-our-network/
+    https://www.coindesk.com/mastercard-accepts-crypto-payments
+    Added "Crypto Cards" in July 2020
+        cards that store crypto, but convert to fiat to transfer through MC network
+    This change is to MC network to make crypto native
+    Eligible crypto must "tighten their compliance measures":
+        provide consumer/privacy protection, "the same level of security people have come to expect in their credit cards" (what does this mean?)
+        Strict compliance protocols, including Know Your Customer (aka: spy on customer and cut them off if they do something MC doesn't like)
+        Must follow all local laws/regulations wherever they are used
+    "To reach our network, crypto assets will need to offer the stability people need in a vehicle for spending, not investment."
+Tesla to start accepting bitcoin
+    https://www.coindesk.com/tesla-invests-1-5b-in-bitcoin-plans-to-accept-crypto-payments
+Institutions onboard with BTC
+    https://www.albawaba.com/business/crypto-news-recap-institutional-money-pouring-bitcoin-mastercard-supports-crypto-payments
+    3% of BTC now in the hands of "old money" banking institutions
+    Bank of New York Mellon to offer BTC services
+    China now issuing Digital Yuan to citizens in lieu of money
+
+
+podcastindex updates
+    locked = todo
+    <podcast:locked owner="darren@grumpyoldbens.com">yes</podcast:locked>
+
+    funding = todo
+    <podcast:funding url="https://grumpyoldbens.com">Got value from this podcast? Send some back via paypal or snailmail</podcast:funding>
+
+    person = investigate
+    <podcast:person>Darren O'Neill</podcast:person>
+    <podcast:person>Ryan Bemrose</podcast:person>
+
+    episode = todo
+    <podcast:episode>136</podcast:episode>
+
+    transcript = no
+    location = no
+    chapters = done
+    soundbite = ???
+    season/episode = meh.  Already using itunes episode

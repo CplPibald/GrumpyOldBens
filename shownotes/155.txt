@@ -1,0 +1,55 @@
+155
+2021-04-26
+
+where we are considering moving behind an annual-fee subscription paywall with ads, only available to ios users
+where VHS is making a comeback
+
+Apple Podcast Subscriptions
+    https://www.msn.com/en-us/entertainment/news/s/ar-BB1fRmS6
+    Enroll for Apple Podcasters Program through Apple Podcasts Connect
+        podcasters pay $20 annual to Apple, as well as 30% (15% after first year)
+    Creator can set prices with monthly or annual billing
+        plus specials, samples, free trials
+        family sharing up to 6
+        analytics!!!
+    initial partners: NPR, Wapo, Latimes, Der Spiegel
+    advantage over PC20: you get paid in dollars and don't have to set up crypto node (just apple account)
+Spotify rumored to be launching one too
+    https://in.mashable.com/tech/21852/spotify-could-be-going-after-apple-with-its-own-podcast-subscription-service
+    without fees to podcasters
+        or locked to only Apple users
+
+Return those videos..  if you can
+    https://abc7ny.com/amp/oklahoma-vhs-movie-return-sabrina-the-teenage-witch/10544258/
+    Allegedly rented Sabrina the Teenage Witch in Mar 2000 from Movie Place in Norman, OK
+        which closed in 2008
+    charged with "felony embezzlement of rented property" but not informed
+    Lives in TX now.  Couldn't change her name when getting married
+    "McBride said over the last 20 years, she's been let go from several jobs without being given a reason why, and said it now all makes sense."
+        companies run criminal background check, see "felony embezzlement"
+    OK DA dismissed case, but she still needs to go to court to expunge
+
+Supply chain attack in Passwordstate PW manager
+    https://arstechnica.com/gadgets/2021/04/hackers-backdoor-corporate-password-manager-and-steal-customer-data/
+    SolarWinds was a supply chain attack
+    Click Studios
+        PasswordState is sold mainly to corporate customers
+        up to 29000 users affected (which is how many users they claim to have)
+    Upgrade mechanism was compromised and used to install malicious file on user computers
+        moserware.secretsplitter.dll
+        which attempts to retrieve and execute a web payload
+        which currently set to scan systems and push data to attacker's CDN
+    PW manager = single point of failure
+    If you use Passwordstate, immediately change ALL your passwords
+
+EFF sues Proctorio for being scumballs
+    https://www.eff.org/press/releases/eff-sues-proctorio-behalf-student-it-falsely-accused-copyright-infringement-get
+        discussed during GOB 58 (Apr 2020) and 102 (Oct 2020)
+    Erik Johnson, undergrad at Miami Univ
+        Concerned about privacy, but forced 
+        analyzed software that was being installed/run on his machine
+        and then tweeted about it, incl screenshots and decompiled excerpts
+            to demonstrate how much tracking/access it has
+    Proctorio responded by sending DMCA takedown to twitter
+    EFF is suing for declaratory judgment that this does not constitute copyright infringement
+

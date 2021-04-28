@@ -1,0 +1,53 @@
+135
+2021-02-15
+
+from America's frosty yet balmy left coast
+where I'm sitting a few feet away from a palm tree... covered in snow
+
+
+Most websites make it hard to reject all tracking in violation of GDPR (From the no-shit-sherlock dept)
+    https://www.zdnet.com/article/cookie-consent-most-websites-break-law-by-making-it-hard-to-reject-all-tracking/
+    cookie banners as far as the eye could see
+        companies moved to consent-management platforms (CMP)
+    Researchers at MIT, Aarhus Univ (Denmark), and Univ. College London:
+        scraped 10k most popular websites in UK
+        11.8% of CMPs meet minimal requirements under GDPR
+    Almost no enforcement, and all of the incentives are designing for sites
+    GDPR:
+        consent must be explicit; no "by using this site you agree..."
+        "reject all tracking" must be at least as easy as accept all
+            incl. browser fingerprinting
+    found:
+        1/3 of sites used implicit consent
+        Over half have no reject all; must click an array of boxes
+            many others put it on a sub-page
+        only 12% make reject-all as easy as accept-all
+    315 vendors = **Median** number of third-party trackers found on sites
+
+New Australia Broadcasting Co (ABC) "diversity" rules
+    https://www.news.com.au/entertainment/tv/abc-issues-new-diversity-rules-for-tv-content/news-story/e59a83c73eb882d8f8ce444b9e5f0874
+    TV production companies must now meet minimum diversity requirements
+        with focus on "under-represented poeple and perspectives"
+    "Diversity and inclusion Commissioning Guidelines"
+        include at least one main cast member who is indiginous, disabled, identifies as LGBTQI+, or "from a diverse background"
+        At least half of main cast *and crew* must be female or identify as gender diverse
+    Non-scripted shows (eg: documentaries)
+        content must “explicitly and predominantly (explore) issues of identity relating to under-represented groups, 
+            including Indigenous matters, gender (or) cultural diversity”, or have a “specific focus on LGBTQI+ 
+            communities, people with disability or other under-represented groups”.
+        required to have at least part of the focus of the documentary on "diversity" and the stories
+            of underrepresented groups
+    **EDITORIAL CONTROL**
+
+Upgrading Mac to Big Sur (macos 11.2) without enough free HDD results in endless boot loop
+    https://9to5mac.com/2021/02/08/psa-upgrading-a-mac-to-macos-big-sur-without-enough-space-can-result-in-data-loss/
+    Free space check in upgrader isn't working
+        Needs at least 36Gb available (plus the 13Gb installer)
+    Soft-locks computer into a boot loop attempting to finish install with full drive
+        "An error occurred preparing the software update."
+    Suggestion is to delete all data, finish update, and restore from backup
+
+"It's too hard to censor podcasts"
+    https://www.theverge.com/22273071/podcast-moderation-apple-spotify-podbean-steve-bannon
+"Math is still racist!" -- Oregon teachers' union
+    https://www.foxnews.com/us/oregon-education-math-white-supremacy
