@@ -1,0 +1,65 @@
+156
+2021-04-30
+
+where, as if we need another incentive to go viral: Selling NFTs
+
+if the vaccine is as bad as some say, I'm gonna need a new co-host
+PCR threshold down to 28, so "pandemic" will end soon
+
+
+Zoë Roth, "Disaster girl" sells NFT of her meme for half a million
+    https://www.nytimes.com/2021/04/29/arts/disaster-girl-meme-nft.html
+    Controlled fire, Mebane NC, 2005 (4yo)
+    NFT sold for 180 Ether ($496k as of this morning)
+    "pay off student loans and donate to charity"
+    Ben Lashes, "manager" "his clients had cumulatively made over $2 million in NFT sales."
+        https://www.thedailybeast.com/ben-lashes-meme-manager-for-internet-celebrities
+        Claims to represent Grumpy Cat, Ridiculously Photogenic Guy, Scumbag Steve, Nyan Cat, and Success Kid
+        Used to be in a band called "The Lashes"
+        He was the marketing guy behind the 2014 movie "Grumpy Cat's Worst Christmas Ever"
+            which currently holds a Rotten Tomatoes score of 27%
+
+Apple AirDrop, and "bluejacking" - Security hole in contacts mode
+    https://nakedsecurity.sophos.com/2021/04/23/apple-airdrop-has-significant-privacy-leak-say-german-researchers/
+    AirDrop = proprietary Apple p2p for sending files
+        Someone wants to send file, chooses a nearby phone
+        A preview of the file (image) pops up and the phone asks if you want to receive it
+        AirDrop can be in Everyone mode or Contacts mode
+    in Everyone mode, you get dick pics walking through an airport
+    in Contacts mode, the phones swap contacts to decide whether it can be sent
+        Each contact is hashed using SHA-256, and the lists of hashes are exchanged
+            but no salt
+        So it's possible with a few Gb of space eg: to build a reverse lookup table of all 10M numbers in an area code
+            or 1B UK numbers, even all 10B US/Canada phone numbers
+    Connection handshake should keep it private, but in testing, researchers found that they could
+        record the handshake if they could jam the connection often enough to get people to "try everyone mode"
+        MITM attack by getting people to connect to, say, "Darren" instead of "Darren's iphone"
+"bluejacking"
+    https://nakedsecurity.sophos.com/2017/08/17/woman-targeted-with-120-images-on-public-transport-via-airdrop/
+    first started in 2003 when phones came out with BT
+    by crafting a vCard whose "name" is the message you want to send
+        A popup appears with the name of the contact asking if you want to add the card
+            eg: "I would like to rub against you [Y/N]"
+    Story is about a HuffPo writer who received 150 dick pics while traveling the London Underground
+        article "Stop telling me to turn my AirDrop off" because they'll just dickpic someone else
+        Dr Justin Lehmiller, a Harvard University psychology professor
+            says "the (extremely) common phenomenon of sending unwanted penis pictures to women could be attributed 
+                to cognitive biases that have evolved to help with reproduction."
+            "I suspect that the most likely explanation is that men are simply misperceiving women’s interest in 
+                receiving photos of their junk. There’s a large body of research indicating that men aren’t very good 
+                at determining how interested women are in sex."
+    Sometimes used by marketers
+    Sony Ericsson, Nokia flip phones
+
+WhatsApp doesn't let you appear offline
+    https://traced.app/2021/04/13/whatsapp-status-loophole-is-aiding-cyberstalkers/
+    boon to cyberstalkers
+    discord, steam, linkedin, reddit, even github tell others if you're online
+    story about online status in MS Lync
+    there exist WhatsApp status tracker apps, which will compare daily online times over the last few weeks to show patterns
+        and even compare it against another number
+        see if two people are contacting each other (the "cheating spouse" problem)
+
+
+
+
