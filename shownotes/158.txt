@@ -1,0 +1,122 @@
+158
+2021-05-07
+
+where even Melinda is sick of Bill's megalomania
+
+
+https://www.zerohedge.com/political/bill-and-melinda-gates-getting-divorce
+
+Youtube removed ep 1343 of No Agenda for "medical misinformation"
+    https://noagendasocial.com/@ScottALavender/106182843117481617
+    A NA producer (Amen Fistbump) was posting NA episodes to YT
+
+Nebraska launches 'beef passport' program
+    https://www.hastingstribune.com/ap/state/n/article_613b762b-bc52-5930-835e-1beb114ddc9b.html
+    Gov. Pete Ricketts
+    Earn stamps by ordering a beef item on a menu at a restaurant
+    Redeem with Nebraska Beef Council for chance to win prizes
+        first prize is a "high-end cooler full of meat".
+
+Analytics on Apple app tracking setting
+    https://www.macrumors.com/2021/05/07/most-iphone-users-app-tracking-opt-out/
+    last mentioned on GOB 132
+    according to analytics firm Flurry (owned by Verizon Media)
+    only 4% of US users are turning it on
+        almost 12% of global users are
+
+Facebook "oversight board"
+    https://thenationalpulse.com/politics/facebook-oversight-board-anti-trump-foreign/
+    20 people.  19 have made public anti-Trump statements.  Only five are American.  Four of those have donated to Dem party
+    ex:
+        A "critical race feminism researcher"
+        A former member of Open Society Initiative board of directors (Soros)
+        A member of Human Rights Watch (Soros)
+        Director of the "Centre for Law and Policy Research" which focuses on "transgender rights, gender equality, and public health"
+        Stanford law professor who testified at impeachment
+        former contributors to al Jazeera, Guardian
+        former aide to Kamala Harris
+        former leader of Socialist Democrats party in Denmark
+        Michael McConnell, prof of Constitutional Law at Stanford
+            the only Republican, and the only one who hasn't written public anti-trump statements
+    quotes
+        "I don't trust Trump because I generally don't trust racist people"
+        "The rich, pampered, prodigal, sanctimonious, incurious, white, straight sons of the powerful do pretty well 
+            everywhere in the world, and they always have. But what about us? Snarky, bisexual, Jewish women who want 
+            the freedom to say what we think, read what we want, and love who we do.”
+        “Trump’s trill is a disgrace to the United States and an affront to the most elementary principles of the Rule of Law,”
+        “I think that Donald Trump is the jewel in the crown of the far right, fascist, xenophobic, right-wing groups that exist.”
+        “I wish four years of Trump could go as fast” as a billion years
+Politicians vs Oversight board
+    https://www.msn.com/en-us/news/politics/l/ar-BB1gnWhT
+    Ted Cruz (TX): "disgraceful" and could have dangerous ripple effects
+        “For every liberal celebrating Trump’s social media ban, if the Big Tech oligarchs can muzzle the former 
+            President, what’s to stop them from silencing you?”
+    Marsha Blackburn (TN):
+        “it’s clear that Mark Zuckerberg views himself as the arbiter of free speech.”
+    Jim Jordan (OH):
+        "pathetic" "it's time to break them up"
+    Ken Buck (CO):
+        “Facebook made an arbitrary decision based on its political preferences, and the Oversight Board, organized 
+            and funded by Facebook, reaffirmed its decision"
+    Frank Pallone (D-NJ):
+        “Donald Trump has played a big role in helping Facebook spread disinformation, but whether he’s on the platform 
+            or not, Facebook and other social media platforms with the same business model will find ways to 
+            highlight divisive content to drive advertising revenues.”
+
+Epic v. Apple opening statements 3 May 2021
+    https://arstechnica.com/gaming/2021/05/epic-vs-apple-opening-arguments-suggest-a-bitter-battle-over-ios-future/
+    Epic's lead-off opening statements: "not suing for damages" or "special deal", 
+        instead "suing for change, not just itself but for all developers"
+        Epic wants court to force Apple to allow ios to use non-Apple app stores, or to open sideload channels
+            adopt the macos model
+        Verdict could impact other stores with same model.  Sony, Nintendo
+            "My preference would be that all stores were open" - Tim Sweeney
+    Epic's lock-in argument
+        "The more people use our stores, the more likely they are to buy additional Apple products and upgrade to the 
+            latest versions. Who's going to buy a Samsung phone if they have apps, movies, etc., already purchased? 
+            They now need to spend hundreds more to get to where they are today." -- Eddie Cue, 2013
+        fee changed from 30% to 15% for second year later, with no change in costs
+        "There's a name for businesses that set prices without regards to costs.  Monopolies."
+        App store runs on > 75% profit margin on $hundreds of millions annual revenue - 2018/2019 earnings
+            ("operating margin" = return on sales, or ratio of net profit to net sales)
+            in other words, really low overhead and almost all profit
+            Apple says "misleading" because it doesn't count capital or fixed costs like software dev
+            Epic characterized this as bait and switch
+        Not providing security.  From Apple's own emails
+            "more like the pretty lady who greets you with a lei at the Hawaiian airport than the drug sniffing dog"
+            "App Review is bringing a plastic butter knife to a gun fight"
+            "Yes, sometimes they catch things, but you should regard them as little more than the equivalent of the TSA at the airport"
+            "We are building fire sprinklers, but we need to also pick up a hose"
+            "I'm dumbfounded with how this could be missed"
+    Apple's opening statement:
+        lawsuit is "just an attack on Apple's 30 percent commission that Epic does not want to pay"
+        and Epic "has decided it doesn't want to pay for Apple's innovations anymore."
+        "Rather than investing in innovation, Epic [is] investing in lawyers and PR... to get the benefits that Apple provides for free,"
+        Apple data suggests 12 to 26% (big range) of ios users who purchased a new phone switched to a different platform
+            showing there are competetive alternatives
+        when ios banned fortnite, its usage on other platforms went up, showing people have alternatives
+        Locking the app store was a "security decision"
+            "putting [unreviewed] native third-party apps on the iPhone could compromise the phone itself."
+        Because most apps are free, Apple's "effective commission" is only 8.1%
+    timeline
+        2008 30% on purchasing app
+        2009 in-app purchases required to go through Apple
+        2011 Subscriptions must also use IAP system
+    Everything hinges on how the market is defined
+        Epic says it's the ios market, and Apple is a monopolist
+        Apple says it's the smartphone market
+            also that "ios apps" is too broad, because Fortnite can't be substituted for Waze
+    Roblox on the stand
+        https://www.forbes.com/sites/paultassi/2021/05/07/roblox-throws-a-wrench-in-apples-case-versus-epic/
+        "games" like Roblox and Minecraft are okay, even though they have in-game stores, use their own currency, etc
+            so why was fortnite banned?
+        Recently went public with $38B market cap
+
+PeePod
+    http://anchor.fm/peepod
+
+Bemrose chapters app
+    https://github.com/CplPibald/pc20chapters
+
+
+

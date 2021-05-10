@@ -1,0 +1,59 @@
+157
+2021-05-03
+
+where the only thing that can stop the oncoming tide of Californians will be a lack of vehicle charging stations along the interstate
+
+
+20% of Calif electric car owners switched back to gas
+    https://www.businessinsider.com/electric-car-owners-switching-gas-charging-a-hassle-study-2021-4
+    bloomberg writer plugged in his Mustang Mach-E to 120V for an hour; got three miles range
+    More than 70% don't have level2 charging at home
+        61% don't have it at work
+    2/3 of respondents don't use public charging stations (survey didn't ask why)
+    The study blames automakers for making a "half-effort" on EVs
+        no automaker has made a profit on EVs.  
+        Not even Tesla (Q1 earnings rpt)
+            https://www.businessinsider.com/tesla-bitcoin-profit-101-million-cryptocurrency-investment-elon-musk-2021-4
+            who sold $518M in regulatory energy credits to other automakers
+            and cashed out $272M worth of BTC ($101M profit), and still hold $1.3B in BTC
+Study: "Understanding discontinuance among California's electric vehicle owners"
+    https://www.nature.com/articles/s41560-021-00814-9?error=cookies_not_supported&code=d6bce2c5-1243-4181-8353-d4cf6186c211
+    UC Davis researchers Scott Hardman and Gil Tal, published in Nature Energy journal
+        Five questionaire surveys
+        Only read abstract; full study was paywalled
+    "PEV discontinuance in California occurs at a rate of 20% for plug-in hybrid electric vehicle owners and 18% for
+        battery electric vehicle owners. We show that discontinuance is related to dissatisfaction with the convenience 
+        of charging, having other vehicles in the household that are less efficient, not having level 2 (240-volt) 
+        charging at home, having fewer household vehicles and not being male."
+
+Cricut decides to charge people $9.99 to access home CNC machines they already own
+    https://hackaday.com/2021/03/15/cricut-decides-to-charge-rent-for-people-to-use-the-cutting-machines-they-already-own/
+    https://www.reddit.com/r/HobbyDrama/comments/mmmcy7/home_crafting_when_a_company_tried_to_make_a/
+    Provo Craft and Novelty Inc for as low as $180
+    Home crafters used it to cut vinyl for custom T-shirts, personalized water bottles
+    The way the machine works: You create a design on their website, then the machine downloads instructions how to print it
+    When purchased, they had a $10/mo subscription service for access to a library of images and designs
+    In March, Cricut announced all users would be limited to 20 uploads a month without subscription
+        And if you click submit more than once because the page messed up, that counts against your total
+    After public outcry, Provo Craft announced anyone who purchased in 2020 or earlier would keep unlimited
+    and then walked it back https://inspiration.cricut.com/a-letter-to-the-cricut-community-from-ashish-arora-cricut-ceo/
+
+Power of celebrity: Clubhouse app is awful, worth $4bn
+    https://www.cigionline.org/articles/4-billion-app-doesnt-value-privacy-security-or-accessibility
+    launched without privacy policy
+    https://medium.com/privacy-technology/when-fomo-trumps-privacy-the-clubhouse-edition-82526c6cd702
+        collects personal info of users and all contacts in phone, even if not users
+        accesses twitter accounts of users to read tweets/profile/follows/blocks (doesn't say why)
+        doesn't anonymize data
+        dark pattern: If you don't allow access on the phone, it just asks you again
+        required users to grant full access to contacts before they could create an invite
+        broadcasts presence (can't turn off)
+        no 'block' function
+        audio is recorded unencrypted
+    NO accessibility for deaf, visually impaired, android users
+
+ANTIFA to Portland Mayor Ted Wheeler (while showing his home in the video)
+    “Ted, we are asking for the last time that you resign. If you ignore this message outright the destruction to your 
+    precious way of life is going to escalate. Blood is already on your hands, Ted. But next time, it may just be your own,”
+    https://www.thegatewaypundit.com/2021/04/ready-antifa-terrorists-issue-direct-physical-threat-portland-mayor-resign-else/
+    three days after Wheeler vowed to put a stop to recurring antifa violence
