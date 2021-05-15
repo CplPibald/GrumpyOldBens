@@ -1,0 +1,49 @@
+160
+
+2021-05-14
+
+where I may have to take back some of the things I've said about all-electric cars
+where downloads have doubled
+
+Colonial Pipeline, ransomware
+
+Tesla stops accepting BTC for cars
+    https://www.bloomberg.com/news/newsletters/2021-05-13/money-stuff-elon-musk-got-bored-of-bitcoin
+    "we intend to use it for transactions as soon as mining transitions to more sustainable energy"
+    pump and dump?
+        if so, they forgot to sell before the crash
+    "Surely by next week he’ll be tweeting, like, “we are building a giant battery in the desert to mine Bitcoin, 
+        Bitcoin is good again, you can use it to pay for Teslas,” and the price will shoot back up, and I’ll 
+        once again hit the button that auto-generates this column." -- Matt Levine, Bloomberg
+
+Darkside, ransomware as a service
+    https://www.bloomberg.com/news/articles/2021-05-12/darkside-hackers-mint-money-with-ransomware-franchise
+    provides tools, marketing, press releases, customer interactions
+        making calls to victims, hosting servers where stolen data can be offloaded
+        negotiating ransoms
+    rules against attacking hospitals/nonprofits
+    about Colonial: "Our goal is to make money and not creating problems for society. From today, we introduce 
+        moderation and check each company that our partners want to encrypt to avoid social consequences in the future,"
+Price controls made everything worse
+    https://fee.org/articles/why-politicians-not-hackers-are-to-blame-for-the-gasoline-shortage/
+    Gov Roy Cooper of NC declared state of emergency and triggered price controls
+    Officials say "don't hoard", but under price controls (and the shortages they cause) it's the rational thing to do
+
+FB app downloads down 30% since May 2020
+    https://9to5mac.com/2021/05/13/report-facebook-app-downloads-drop-30-amid-tiktok-growth-and-privacy-concerns/
+    According to analysis firm AppFigures
+        They point to TikTok
+        9to5Mac also says privacy
+    Top three apps globally: TikTok, Instagram, WhatsApp
+
+Vizio ramps up ads, streaming, data, selling customer privacy
+    https://arstechnica.com/gadgets/2021/05/vizio-tv-buyers-are-becoming-the-product-vizio-sells-not-just-its-customers/
+    Vizio's first public earnings report (IPO'd in March)
+        $48.2M profit on selling hardware (up 7% YOY)
+        $38.4M profit from selling user data (up 133%)
+    "Considered one of the best bang-for-buck brands"
+    "SmartCast collects user data, delivers advertising, and also gives Vizio a cut of subscription sales to other 
+        services made through the platform, like Netflix"
+
+
+

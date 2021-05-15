@@ -1,0 +1,101 @@
+
+159
+2021-05-10
+
+where our governor may be a communist authoritarian sleazeball, but he's not a sexual predator
+where the shaggy dog story is a proud podcast tradition
+
+Grumpy Old Bens #159 LIVE with SirBemrose and Sir Karl - Donate at http://grumpyoldbens.com
+
+for Karl
+- FB vs free speech
+    slander lolsuit
+- targeted ads: creepy, or merely invasive?
+- podcast 2.0
+
+45:10 I have a microsoft bias
+31:55 I am walking hypocrisy
+1:08:31 it's the same as Matrix One but it's a woman
+
+
+NY AG expanding Cuomo investigation
+    https://www.msn.com/en-us/news/politics/n/ar-BB1gxuhF
+    “I did nothing wrong, period, I’m not resigning and I’m doing my job every day.” - Cuomo last week
+    wave of resignations from Gov office
+    Larry Schwartz resigned after a change to state lobbying rules that would have barred him from serving
+        as a lobbyist if he had stayed the state vaccination program chief
+    sexual allegations false flag to distract from nursing homes?
+
+Amazon publishes Brand Protection Report on fake vendors
+    https://www.msn.com/en-in/money/technology/a/ar-BB1gzoqh
+    Verification process
+        one-on-one video calls, physical interactions
+        claim to have banned over 6 million seller applications
+        only 6% make it through  (which markets?  China?)
+        "more than 5 billion attempted changes to product detail pages daily"  (!!!)
+    Project Zero, automated machine learning brands can sign up for
+        use AI to detect counterfeits
+
+Amazon data breach reveals fake review scam
+    https://www.safetydetectives.com/blog/amazon-reviews-leak-report/
+    SafetyDetectives uncovered an open Elasticsearch database (7Gb of data)
+        Unknown who owns the database.  Server is in China
+    Direct messages between Amazon vendors and customers willing to provide fake reviews in exchange for products
+        Vendor sends reviewer a list of products they want a 5start review on
+        People buy products and leave 5start review.  
+            Then vendor gives refund through paypal (not Amazon, so review looks legit)
+        "Here is the proces to get the sample: Every person can only get one sample
+            Step 1. Provide your amazon profile link, just for a check
+            Step 2. After checking we will give you the product URL to order it on Amazon
+            Step 3. Provide your order ID and paypal account to us
+            Step 4. We will refund you after review shared successfully.  No cover tax and shipping fee"
+    Leaked DB contained vendor email addresses, whatsap/telegram numbers
+        links to reviewer account profiles, fullname (on site), email, paypal accounts
+    Vendors face FTC fines over $10M, having their products/accounts pulled from Amazon
+    Sellers could face jail time if gov't decides to investigate
+
+Amazon used seller data to boost sales - and senior leadership knew (Politico)
+    https://www.politico.eu/article/amazon-seller-data-company-sales/
+    Vendor Central program boosts sales, but Amazon controls price, placement, etc
+    Amazon collects sales data for third-party sellers
+        They have a policy that prohibits Amazon employees from using that data to boost sales of Amazon Basics
+        Bezos called in front of Congressional antitrust hearing last July after WSJ reported they did exactly that
+        "What I can tell you is, we have a policy against using seller-specific data to aid our private label business, 
+            But I can’t guarantee you that that policy has never been violated.”
+        supermarkets do this too
+    EU Commission opened investigation in Nov 2020
+    Politico interviewed Dutch seller Peter Sorber
+        sold children's clothes on Amazon.  About 18mo in, revenue dropped from €10,000/wk to near zero 
+        because they weren't in the search listings
+        Sales rep moved on.  Nobody would answer calls at Amazon
+        same story for others (Politico interviewed coffee seller in Germany)
+            who lost business when Amazon starts selling direct
+    Politico got access to an internal report
+    "Spoofer Access" = tool Amazon uses to edit others' accounts as the seller
+        Unsecured - anyone in the company could use, with almost no logs
+        Last year, FBI discovered an employee used spoofer to "falsely and fraudulently issue $96,508.13 in refunds to himself and others."
+    Sep 2020 - US prosecutors indicted six Amazon employees
+        https://www.theregister.com/2020/09/21/amazon_fraud_bribery_charges/
+        bribes, market manipulation, leaking algo data, shutting down competitors
+
+
+
+Signal's honest facebook campaign
+    https://www.cnbc.com/2021/05/06/facebook-and-signal-are-fighting-over-an-ad-campaign.html
+    https://signal.org/blog/the-instagram-ads-you-will-never-see/
+    "You got this ad becaues you're a K-pop-loving chemical engineer. This ad used your location to see you're in Berlin.
+        and you have a new baby and just moved. And you're really feeling those pregnancy exercises lately"
+    "You got this ad becaues you're a GP with a Masters in art history. Also divorced. This ad used your location to see
+        you're in London. Your online activity shows you've been getting into boxing, and you're probably getting there on
+        your new motorcycle."
+    Signal claims FB disabled their ad account before the campaign went live
+    Facebook claims they forgot to click the "submit" button
+        "This is a stunt by Signal, who never even tried to actually run these ads"
+        "If Signal had tried to run the ads, a couple of them would have been rejected because our advertising policies 
+            prohibit ads that assert that you have a specific medical condition or sexual orientation, as Signal should 
+            know. But of course, running the ads was never their goal — it was about getting publicity."
+        (aren't all ads about getting publicity?)
+
+MSFT Drops Windows 10X (chromebook competitor)
+    https://www.theverge.com/2021/5/7/22424700/microsoft-windows-10-x-canceled-rumors
+
