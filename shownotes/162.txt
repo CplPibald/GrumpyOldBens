@@ -1,0 +1,67 @@
+162
+
+2021-05-21
+
+where the pandemic may be ending, but the constitutional violations will be continuing indefinitely
+dog folder to show notes
+
+San Francisco Walgreens leaves town
+    https://www.sfchronicle.com/local-politics/article/Out-of-control-Organized-crime-drives-S-F-16175755.php
+    "brazen" roving shoplifting gangs
+        burglaries up YOY in nearly all SF neighborhoods
+    17 Walgreens locations shut over the last five years
+        "chain spends 35x more on security guards in SF than elsewhere"
+        12 SF stores = 8% of sales, but 42% of losses
+    "CVS and Walgreens said they train employees to be engaged and visible to prevent theft, but to not confront 
+        thieves directly when it could turn violent."
+    "Officials agreed that different responses were needed depending on why someone was committing a crime." 
+        "clients charged with shoplifting are not part of organized crime, but are homeless or struggling with 
+        substance abuse and need more services." - San Francisco Deputy Public Defender Doug Welch
+
+Google adds secret dogs folder to Photos app
+    https://debugger.medium.com/google-just-revolutionized-your-nudes-but-wont-admit-it-25f3a8464dfc
+        from @ITM@noagendasocial by way of AbleKirby
+    Hides folder behind PIN or biometric (thumbprint)
+    Images in folder don't show up in photo roll
+    "This feature would’ve been helpful for me last year when we surprised our kids with a new puppy, and we needed 
+        to hide the photos before we brought Splash home,” - Jen Fitzpatrick, google exec
+    News articles talk about "sensitive photos"
+
+PA voters approved constitutional amendments to limit Gov's emergency powers
+    https://www.msn.com/en-us/news/politics/p/ar-BB1gV9gE
+    Two admendments
+        * End governor's emergency declaration after 21 days (previously 90 days, extendable indefinitely)
+        * Only legislature can extend it past that with simple majority (previously 2/3)
+    NY did this before
+
+followup on motorcycle airbags
+    "when you buy a device to potentially save your life, then you don't want ANY code in the device at all,
+        that might tell it to stop working deliberately." 
+        - Louis Rossmann, right-to-repair youtuber
+    "you missed another scenario of when that Moto GP airbag fails to connect the app to the company. When 
+        those guys forget to renew their damn SSL certificate 😀"
+        - Srinivas Murty
+
+SCOTUS rules police can't perform warrantless searches of your home in Caniglia v. Strom
+    https://www.scotusblog.com/2021/05/in-unanimous-fourth-amendment-ruling-a-reminder-that-there-is-in-fact-no-place-like-home/
+    duh
+    Aug 2015 Edward Caniglia (RI) argues with wife, offers unloaded gun and says "put me out of my misery"
+        She left.  Next morning, she called cops on him
+        Cops kidnapped him for "psychological evaluation"
+            which was clean
+        While he was out, police searched his home and seized all of his firearms
+    1st circuit sided with cops citing Cady v. Dombrowsky 1973
+        "community caretaking" = allowed police to search a drunk's car after an accident for keys to get it off the road
+    SCOTUS unanimous.  Opinion by Thomas
+        "If police do not have the homeowner’s consent, an “exigent” circumstance, or a judicial warrant authorizing 
+            a search, then no version of Cady’s car exception applies to police entry into the home under the Fourth Amendment.
+        “What is reasonable for vehicles is different from what is reasonable for homes,”
+    Roberts in concurring opinion: 
+        "Warrantless entries into the home are justified where there is “an objectively reasonable basis for 
+            believing that medical assistance was needed, or persons were in danger.”"
+    Kavanaugh in concurring opinion:
+        "[T]he Court’s exigency precedents, as I read them, permit warrantless entries when police officers have an 
+        objectively reasonable basis to believe that there is a current, ongoing crisis for which it is reasonable to 
+        act now … If someone is at risk of serious harm and it is reasonable for officers to intervene now, that is enough for the officers to enter."
+    so from now on, officers just have to claim that they heard someone scream...
+

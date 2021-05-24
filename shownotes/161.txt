@@ -1,0 +1,73 @@
+161
+2021-05-17
+
+where it's not just the neighbors; soon your neighborhood will be talking about you too
+where we continue to avoid the wrath of the IRS by being poor podcasters
+
+Zuck licked the third rail again
+    https://www.zerohedge.com/technology/instagram-offers-users-41-pronouns-woke-mob-complains-there-arent-enough
+    on the heels of the instagram for children story
+    Instagram added a dropdown "Add pronouns to your profile"
+    Zerohedge let twitter write their article
+        Lots of complaints about missing "it/its"
+        "This should just be a box for us to type in. Having us pick from a predetermined list excludes people who use less common neopronouns,"
+        "GODDAMNIT INSTAGRAM GIVE US AN “ANY PRONOUNS” FEATURE"
+        "why does it not let me put your/mom? this is incredibly discriminatory."
+    
+Klim Ai-1 airbag won't inflate if you miss a payment
+    https://www.vice.com/en/article/93yyyd/this-motorcycle-airbag-vest-will-stop-working-if-you-miss-a-payment
+    MotoGP made motorcycle airbags compulsory in 2018
+        must cover collarbone and shoulders. Full or central back protection is optional, but must be full spine
+        tested for inflation time, accidental inflation, impeding control of the motorcycle
+        MFRs self-certify
+    "a whole new era of a platform where analog meets digital and results in a superior protection story."
+    Vest is $400 with disabled airbag module
+        Must then download an app to activate it
+        Activation is either $400 more (for a total of $800)
+            or subscription for $12/mo ($120/yr)
+    "if someone pauses their subscription and forgets to restart it, they won't actually be able to get their In&box 
+        into ride-ready status when they go to turn it on. If they then choose to ignore the indicators and ride with 
+        the In&box inactive, that's on them and we can expect it not to inflate in the event of a crash."
+    Motherboard points out it's just like car companies paywalling features with OTA updates
+        except that safety features are regulated on cars
+
+Inslee vetoes bill to ban all gas-cars by 2030
+    https://www.seattletimes.com/seattle-news/politics/inslee-vetoes-2030-target-for-electric-cars-set-by-washington-legislature/
+    Bill discussed on GOB 153
+    Vetoed because the bill would not go into effect without further legislation:
+        once 3/4 of the vehicles on the road are subject to "road usage charge", a new tax on vehicle miles driven
+    “Setting and achieving a goal of 100 percent electric vehicles is too important to tie to the implementation of a 
+        separate policy like a road usage charge,”
+
+Amazon Sidewalk goes live on June 8
+    https://www.cnet.com/home/smart-home/amazon-sidewalk-will-create-entire-smart-neighborhoods-faq-ble-900-mhz/
+    https://www.inc.com/jason-aten/amazons-sidewalk-network-is-turned-on-by-default-heres-how-to-turn-it-off.html
+    Mesh network of all Echo, Alexa, Ring, Tile (smartlock) devices using bluetooth LE and wifi 900MHz
+    "You'll share that bandwidth with your neighbors, creating a sort of network of networks that any 
+        Sidewalk-compatible device can take advantage of. Along with making sure things like outdoor smart lights 
+        and smart garage door openers stay connected when your Wi-Fi can't quite reach them, that'll help things 
+        like Tile trackers stay in touch if you drop your wallet while you're out on a walk, or if your dog hops the fence."
+    "As a crowdsourced, community benefit, Amazon Sidewalk is only as powerful as the trust our customers place 
+        in us to safeguard customer data,"
+    Going to flood the 900MHz band (amateur UHF band)
+        interferes with older remotes, garage door openers
+    Opt out using Alexa app
+
+Biden cybersecurity EO
+    https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+    Seems like a complete overhaul of federal gov't IT
+    rewrite federal contracts with IT services / cloud providers to require sharing all data about breaches
+        "information and communications technology service providers (ICT)"
+        incl. data retention, data sharing provisions
+    Moving agencies to Zero Trust Architecture
+        "no implicit trust granted to assets or user accounts based solely on their physical or network location"
+        all permissions are user-based - network boundaries are no longer part of security architecture
+    "Adopt multi-factor authentication and encryption for data at rest and in transit"
+    Guidelines for minimum testing standards of vendor code
+    "initiate pilot programs to educate the public on the security capabilities of Internet-of-Things (IoT) 
+        devices and software development practices, and shall consider ways to incentivize manufacturers and 
+        developers to participate in these programs."
+    Create standard federal guidance for how to respond to cyberattacks
+    Create "Cyber Safety Review Board" (yay more bureaucracy!"
+        under Homeland Security
+        only directed goal is to figure out what the board will do - mission statement, composition, etc
