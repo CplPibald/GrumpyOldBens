@@ -1,0 +1,75 @@
+163
+
+where all math students will finally be equal - but I won't be driving over any bridges they build
+where we strip the EXIF data from this podcast for your privacy and security
+
+2021-05-24
+
+California abolishes accelerated math programs, in the name of equity
+    https://www.theepochtimes.com/dumbing-down-public-school-math-in-the-name-of-social-justice_3822075.html
+    https://www.cde.ca.gov/ci/ma/cf/index.asp
+    current system allows algebra in 8th grade and calculus in 12th
+    New system puts all students on a "common pathway"
+    “Districts and schools must confront the structural inequities of tracking and ability grouping,”
+    The framework cites statistics: 32% of Asians in accelerated math; 8% of whites, 4% of black, and 3% of Latino students.
+    “Those that have been privileged by the current system must be willing to give up that privilege for more equitable schooling,” 
+    Oregon too
+        https://www.oregon.gov/ode/educator-resources/standards/mathematics/Pages/default.aspx
+        "Our goal in Oregon is to set the table for mathematics learning in a new way-- one that invites every learner 
+            to the table and helps students feel an authentic sense of belonging, purpose, and joy throughout their K-12 
+            learning. Join us in reimagining how we design the system so that it serves our students and ensures that 
+            students build in their inherent strengths to make sense of mathematics and apply learning to solve real 
+            world problems of tomorrow. An equitable mathematics system intentionally broadens participation and 
+            engagement of all students, harnessing cultural, linguistic, and mathematical competencies they bring to the classroom."
+    Remember, these are the common core students from 10 years ago; never learned basic arithmetic
+        no (every) child left behind
+    Educators no longer accept that some students are better than others.  Least common denominator
+
+Google wants RSS back, with Chrome follow button 
+    https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html
+    https://wptavern.com/google-aims-to-revitalize-rss-and-recapture-users-trust-with-experimental-follow-button-in-chrome
+    "We’re exploring how to simplify the experience of getting the latest and greatest from your favorite sites 
+        directly in Chrome, building on the open RSS web standard. Our vision is to help people build a direct 
+        connection with their favorite publishers and creators on the web."
+        * We have a direct connection, Google.  And it's not through Chrome.
+    They encourage sites to keep the RSS up to date
+    "coming soon" to Android and Chrome
+    Plug for Google IO - "hosting a meetup"
+    Google owned RSS, but killed Reader in July 2013 when they launched Google plus
+    TechCrunch: "Undead Again:Google brings back RSS"
+        https://techcrunch.com/2021/05/19/undead-again-google-brings-back-rss/
+    Dave Winer on Chrome RSS
+        http://scripting.com/2021/05/19.html
+        "The memory of Google Reader may have faded so much that Google appears ready to try again. Even the headline 
+            of this TechCrunch article is disturbing. Google did so much damage to RSS, the thought of them "reviving"
+            it is analogous to Exxon reviving the site of some huge oil spill, one that they didn't contribute to cleaning up."
+        "browser vendors have no place trying to provide the user interface for RSS.  If Google wants to help RSS, great 
+            -- here's how. Do the subscribe button, that's a good thing. But the result should be a dynamic OPML 
+            subscription list, that the user can provide to any reader app they want. This way, if someday Google 
+            abandons RSS again, everything can keep on ticking, more or less. Inviting users to rely on them shows 
+            that they have no sense of responsibility for the trust they betrayed in the past."
+
+Facebook is still tracking you via your phone (from the 'you don't say...' dept)
+    https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/
+    ios 14 blocked third-party tracking for the 80+% who don't click the button
+    Zak Doffman told ios to "never" allow Facebook location
+    but ios still puts GPS tags into photos taken
+        and facebook is now getting that from the exif
+        plus "upload IP address"
+        FB and insta do strip metadata, but clearly they collect it first
+        There are apps to remove exif, but I could not find settings in the phone to not record it
+    FB privacy policy tells you how important targeted ads are.
+        they "collect and process" your data, but don't share it
+
+Tim Cook closing testimony at Apple v. Epic's trial
+    https://www.theverge.com/2021/5/22/22448139/tim-cook-epic-fortnite-trial-testimony-privacy-iap-antitrust
+    Hammered on privacy and security
+    "Giving users control creates risk" "people choose iOS specifically so they won’t have to make risky decisions with sensitive data"
+    “We’re trying to give the customer an integrated solution of hardware, software, and services. I just don’t think you replicate that in a third party.”
+    "it would be both insecure and inconvenient to let apps process payments separately"
+    Apple believes they must take the choice away from users in order to make them secure
+        this is why I don't use apple products
+
+Github enables video uploads
+    https://github.blog/2021-05-13-video-uploads-available-github/
+    

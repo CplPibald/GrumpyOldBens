@@ -1,0 +1,113 @@
+164
+
+where Jeff Bezos is stepping down to focus on his true hobbies: world domination, white cats, and creative ways to kill James Bond
+where we use the sword of privacy to defeat the evil chocolatey wizards
+
+https://noagendasocial.com/@SirBemrose/106297885512774625
+
+Amazon is the new political football
+Andy Jassy taking over Amazon as CEO
+    https://www.forbes.com/sites/davidjeans/2021/05/27/amazons-new-ceo-will-wake-up-on-july-5-fighting-wars-on-multiple-fronts/
+    Bezos to remain chairman
+    500k new employees in 2020 (up to 1.3M globally)
+    $386B in sales, up 38% over 2019
+        $45B revenue for cloud computing division
+        Jassy came from cloud division
+MGM Studios deal
+    https://www.businessinsider.com/amazon-mgm-studios-acquisition-deal-streaming-james-bond-prime-video-2021-5
+    $8.45B - second largest acquisition by Amazon
+        Whole Foods = $13.7B in 2017
+    MGM library: United Artists, Orion, Hanna-Barbera, Polygram, Interscope, Dimension Pictures
+    Film franchises:    James Bond, Pink Panther, Rocky, Robocop, Poltergeist, Legally Blonde, Bill & Ted
+    TV shows:           Handmaid's Tale, Fargo, Shark Tank, Real Housewives
+    Over 4000 films and 17k TV shows
+        all going to be Amazon Prime exclusive, of course
+        Streaming services compete on library (Netflix, Disney+)
+    Movies, incl. "No Time to Die" was delayed more than a year, dropping studio revenue by 83%
+AGs from CA, NY, WA, MA, PA, CT, and FTC are investigating the deal for antitrust
+    https://www.msn.com/en-us/money/companies/a/ar-AAKqFEr (Bloomberg)
+    WA is notable because Amazon's home state...  But WA lawmakers don't know where their bread is buttered
+Klobuchar calling to investigate Amazon + MGM
+    https://www.msn.com/en-us/money/companies/s/ar-AAKs1rx (Business Insider)
+    Amazon running out of allies.
+    Klobuchar calls for "thorough investigation"
+    Josh Hawley - "sale should not go through. @amazon is already a monopoly platform that owns e-commerce, shipping, 
+        grocers & the cloud. They shouldn't be permitted to buy anything else. Period."
+    Klobuchar introduced a bill in Feb that makes mergers illegal if they would reduce competition "materially"
+        https://www.bloomberg.com/news/articles/2021-02-04/klobuchar-pitches-antitrust-reform-for-too-big-to-fix-mergers
+        prev standard was "substantially"
+        also shifts the burden of prof to company to prove that competition would not be reduced
+DC Attorney General sues Amazon in DC superior court for antitrust
+    https://www.cnbc.com/2021/05/25/dc-attorney-general-sues-amazon-on-antitrust-grounds-alleges-it-illegally-raises-prices.html
+    AG Karl Racine claims the company unfairly raised prices and suppressed innovation
+    Third party sellers required to abide by a "Business Solutions Agreement"
+        which prohibited offering goods anywhere else for cheaper than Amazon ("price parity provision")
+        provision was removed March 2019, replaced with "fair pricing policy" 
+            which allows Amazon to "impose sanctions" if they offer a lower price elsewhere
+    House Judiciary Subcomittee report fall 2020
+        Amazon coerces sellers into adhering to "most favored nation" clauses
+    Amazon spokesperson: "The relief the AG seeks would force Amazon to feature higher prices to customers, oddly going against core objectives of antitrust law"
+
+Windows 10 Package Manager
+    https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/
+    Currently available on insider build, or download its appx
+        eventually will be in all Win10
+        bypass Windows Store
+        "App Installer App" = GUI frontend for winget
+    `winget install powertoys`  `winget search vscode`  `winget upgrade -all`
+        export or import current config as json file
+    Chocolatey was previous package mgr; but this one is built in
+    By default only the MSFT repository supported ("source")
+        tool for adding packages to MSFT community repository
+            support msix, msi, or exe installers
+        reference implementation for REST API to host your own repository
+    Evil wizards
+
+Census and differential privacy
+    https://themarkup.org/ask-the-markup/2021/05/11/will-new-privacy-changes-protect-census-data-or-make-things-worse
+    Problem:
+        1) By law, people have to respond to census with assurance that they are not privately identifiable
+        2) Also by law, dataset must be confidential - data must not be able to identify individuals (no doxing)
+        A 2016 test confirmed that published 2010 statistics could be combined with commercial datasets
+            reconstruct name, location, demographics
+        Important because if data isn't private, people will stop responding
+    Differential privacy
+        Add noise (fake data) to public dataset
+            "minimally impact the quality while mathematically ensuring that individuals can't be identified"
+            mainly a thing in rural tracts where # of households is small
+        examples
+            swap characteristics of households
+            Assign statistically likely defaults
+            use math to find out how much - 'privacy budget' per district
+        Only guaranteeing accuracy for three statistics: 
+            Total population by state
+            number of housing units in each census block, 
+            number of group quarters facilities (dorms, nursing homes)
+        Also planning to manually "post-process" data to smooth over where the statistics don't make sense
+            such as negative population or fractions of people
+        except...  It doesn't work
+            people are still identifiable
+            amplifies outliers
+        Early demanstration set using WA 2010 data
+            401 census blocks where entire population was over 85
+            3353 where entire population was under 14 (Lord of the Flies?)
+            13k blocks in Alabama with no adults
+    and now states and groups are complaining the census data won't be accurate
+        Alabama sued on 10 Mar to stop differential privacy
+            say it will be impossible to adhere to Voting Rights Act's fair redistricting requirements
+                and people will sue the state over district maps
+            separate suit that illegals shouldn't be counted because AL would lose a seat
+                dismissed when apportionment numbers came out and AL wasn't going to lose a seat
+        also increases apparent population in rural areas - more votes for those evil Republicans
+    Researchers concerned too
+        Lots of academic research gets data from census: "American Community Survey microdata" datasets
+    Census is racist!
+        minority groups are most likely to be moved around (because there are fewer of them)
+        Higher risk of "re-identification" of a minority person
+        Fuzzing makes communities appear more homogenous
+            if they're not high enough percent minority, they might not qualify for federal affirmative action programs
+    Ultimate problem is that too much hinges on census data - and on manipulating it
+
+
+
+
