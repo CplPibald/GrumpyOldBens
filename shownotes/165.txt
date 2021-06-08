@@ -1,0 +1,75 @@
+165
+
+2021-06-04
+
+where I do my gain of function research online
+where I don't trust Microsoft to manage my package
+
+Stack Overflow sold to Prosus for $1.8B
+    https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400
+    Prosus is primary shareholder of TenCent
+        part of Naspers from South Africa
+    "Today's sale of Stack Overflow, most importantly, lets Stack Overflow continue as an independent site — and also mints 61 new millionaires."
+        -- Jeff Atwood
+
+SCOTUS narrows CFAA
+    https://techcrunch.com/2021/06/03/supreme-court-hacking-cfaa-ruling/
+    Nathan Van Buren, former Georgia police sergeant 
+        was taking bribes to look up DMV records
+        Convicted for accessing the database, and violating CFAA (Computer fraud and abuse act)
+    CFAA makes illegal "accessing a computer without authorization" or "exceeding authorized access"
+        broadest reading criminalizes violating a site's terms of service
+    SCOTUS ruling 
+        CFAA only "covers those who obtain information from particular areas in the computer ... to which their computer access does not extend"
+        Van Buren was authorized as part of his job; he just went above and beyond
+    Should've been charged with
+        https://news.ycombinator.com/item?id=27385624
+        GA 332: Abuse of official power
+        GA 333: Exceeding official powers
+        GA 338: Bribe-taking
+        18USC201: public officials taking bribes
+
+JBS, world's largest meat supplier, was "hacked" by ransomware
+    https://www.nbcnews.com/tech/security/cyberattack-hits-world-s-largest-meat-supplier-n1269191
+    Very few details of hack.  systems offline, and work stopped
+        "JBS notified the administration that the ransom demand came from a criminal organization, likely based in Russia." according to white house
+
+Win10 package manager flooded
+    https://www.bleepingcomputer.com/news/security/windows-10s-package-manager-flooded-with-duplicate-malformed-apps/
+    Story came out on Tuesday
+        Rare Encounter covered it Wed
+            but ablekirby won't know we covered it too because he doesn't know GOB has Friday shows
+    MSFT published a tool last week with the WinGet release that allowed automated additions to community repository
+        So yeah, this was inevitable
+        Oh yeah, and they opened submissions on the Friday before a 3-day weekend
+    To add a package, a github PR was generated to add a manifest file to a known location
+        manifests/letter/vendor/product/version/manifest.yaml
+        An automated process validates the manifets file
+        and "check to make sure the package complies with the Windows Package Manager polices and is not known to be malicious"
+            -- runs it through virustotal
+    Pull requests, as of 10hrs before show time: 
+        259 open, 15,348 closed
+        13,355 merged, 1994 closed without merging - usually by bot for failing validation
+        though the first 12k came during beta
+    Bot can't automatically validate app/vendor names
+        doesn't seem to validate download URLs
+        doesn't seem to do any duplicate checking
+            one MSFT engr commented that it's a "feature on the backlog to detect duplicates"
+    Lots of PRs that overwrite existing manifests
+        even if the info is wrong
+        example given in article pointed out five dozen examples
+            One example given where repo went down because someone used the same name with a lower case directory letter instead of uppercase
+        Lots of malformed package identifiers - is there guidance on this?
+    Github issue comments
+        "I am absolutely baffled how this repo doesn't link to anything about what release channels or versions 
+            should be selected in the package manager, or any sort of common behavior about how some choices should be made. 
+            There's nothing telling me why I should believe I can trust anything the automated pipeline has accepted into 
+            the repo, or that the downloads are in any way safe. Right now, using WinGet would be at best no safer than 
+            randomly grabbing installer files off popup ads and running them.
+            I am not sure anything can fix this repo short of a "nuke it from orbit and start over" -- ocdtrekkie
+    THIS IS A CLASSIC SUPPLY CHAIN ATTACK VECTOR
+        but the most official word given by MSFT is "we automated it so that approvals wouldn't be delayed too long"
+        just wait until somebody fully automates overwriting all the software with malware links
+    As of Wednesday, MSFT has suspended automated merge and is adding more validation to wingetcreate
+
+

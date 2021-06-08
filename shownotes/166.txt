@@ -1,0 +1,77 @@
+166
+
+2021-06-07
+
+where tech employees are desperate to continue the pandemic, as long as they don't have to shower before work
+
+
+Apple employees don't want to return to the office
+    https://www.theverge.com/2021/6/4/22491629/apple-employees-push-back-return-office-internal-letter-tim-cook
+    Cook sent out a letter last week telling people they have to come in to the office M-Tu-Th
+        Apple had almost no remote work before 2020
+    “For inclusion and diversity to work, we have to recognize how different we all are, and with those differences, 
+        come different needs and different ways to thrive,”
+    No mention that remote work is far less productive for most employees
+
+MSFT briefly censors Tiananmen Square image; blames "human error"
+    https://www.sfgate.com/news/article/Microsoft-says-tank-man-censorship-due-to-human-16227242.php
+    resolved within hours
+    but why do these companies have systems where a human can reach in and gaslight all users?
+        All references to Tiananmen Square are banned in China
+
+PSA: UK gov is creating a publically accessible GP records database
+    https://www.bbc.com/news/technology-57341897
+    digital database from NHS under "General Practice Data for Planning and Research" system
+        data from surgeries added in real time
+        records from up to 10 years ago added
+        used "only for planning and research purposes"
+            not "solely" for commercial marketing
+            but selected private sector companies can get the data if they present a research reason
+    collecting data about
+        "physical, mental, and sexual health"
+        incl. details of gender, ethnicity, sexual orientation
+    NHS is asking for a delay so more people can learn about it
+        Patients have until 23 June to opt out
+    some GPs refusing to hand over data because people don't know about it
+
+Tesla software update turns on camera pointed at driver
+    https://techcrunch.com/2021/05/27/tesla-has-activated-its-in-car-camera-to-monitor-drivers-using-autopilot/
+    Previously used torque sensor in steering wheel, but there are guides how to fool it
+        and tiktok videos showing people in backseat
+    Tesla says camera data does not leave the car
+        won't say how it checks - eye gaze?  Head position?
+    still no word on if full self driving will come this decade
+
+Norway lawsuit fines Tesla $16k per user for throttling battery capacity
+    https://in.pcmag.com/cars-auto/142839/tesla-fined-16k-per-owner-for-throttling-battery-capacity-charging-speed-in-norway
+    2019 update to "protect the battery and improve battery longevity"
+        only in pre-2016 cars
+            Model S and X vehicles with 85kWh batteries
+        Reduced the range (12-30mi per charge) 
+            and charging speed of superchargers
+    30 users sued in Norwegian court and won
+        now up to 10k Tesla owners in Norway could claim the payout
+    Might've been cheaper to replace the defective batteries
+
+"Third Eye" for smartphone zombies
+    https://www.reuters.com/technology/skorean-designer-creates-third-eye-smartphone-zombies-2021-06-04/
+    Paeng Min-wook of Korea developed a robotic eyeball
+        strap to forehead
+        It opens its eyelid whenever it senses your head is lowered to look at smartphone
+        If user comes within 2m of an obstacle, it beeps
+    "This is the look of future mankind with three eyes. As we cannot take our eyes off from smartphones, the extra eye will be needed in future."
+
+Vice disables media archiving (2017) - probably fake, but good read
+    https://static.noagendasocial.com/cache/media_attachments/files/106/320/282/705/458/090/original/080189b15687b74c.jpg
+    "For those wondering why some of the pages on VICE.COM might not work: we have disabled all archiving services of all of our webpages,
+        this includes archive.is, waybackmachine.org, megalodon.ip, and other right-wing archivign websites.
+        This will have an effect on some of the articles. We are taking a stand against Racism, Bigotry, and Islamophobia alongside
+        SVD.se and NPR.org and are preventing all archiving services which are being used by right-wing activists to discredit us
+        and other reputable news outlets on popular forums and sub-reddits by having archived articles, blog posts, and opinion
+        pieces by respected industry experts and journalists, without giving us a chance to update, remove, or edit them before
+        discrediting us and damaging our reputation as the leading millennial news source. Our articles will continue to inform
+        and spread awareness on Xenophobia, Racism, Sexism, and Islamophobia promoted by the current U.S. administration and
+        we will not acecpt the violence promoted by Mr. Trump and his supporters on ethical journalism."
+    https://freespeechextremist.com/objects/f7f6906e-9fda-4984-867b-18411e2e4475
+        goes against "living document syndrome"
+    https://steemit.com/social/@hnewswire.com/virtually-all-left-wing-media-outlets-sound-exactly-the-same-bizarre-and-politically-challenged
