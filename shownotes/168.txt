@@ -1,0 +1,52 @@
+168
+
+where, after a poor autotranslation, I jumped into Halo and celebrated Frag Day
+where I'm going into hiding from the crypto hit squads
+
+2021-06-14
+
+Citizen
+    https://www.nbcnews.com/tech/tech-news/citizen-public-safety-app-pushing-surveillance-boundaries-rcna1058
+    Social media neighborhood watch app to track, report, share, discuss local crime
+        captures info from police blotters, scanners, reports
+        Can use the app to live broadcast a crime scene
+        GOOD: Neighborhood watch.  BAD: Turn neighbors into informants
+    Originally went by the name "Vigilante"
+        "Wants to create a network of people protecting each other"
+        and report on what cops are doing - "where police and citizens can hold each other accountable"
+    Recently: CEO Andrew Frame offered a $30k bounty in May to encourage vigilantes to hunt down an innocent person
+        whom he thought had started a CA brush fire
+        "We should catch a new bad guy EVERY DAY" - Frame told employees via Slack
+    Test-piloted private security force driving around LA
+    from last week's Apple announcement:
+        banning "apps for reporting crimes include local law enforcement"
+
+NY attempts to pass BTC mining moratorium
+    https://www.techradar.com/news/new-york-could-ban-crypto-mining-over-environmental-concerns
+    Bill cited mining operations setting up in converted coal plants
+        which used to run 10 days a year for over-peak generation
+        now running 365
+        “A single cryptocurrency transaction uses the same amount of energy that an average American household uses in one month,”
+    went viral: Mining rig in a shipping container at a TX natural gas facility powered by flared-off gas
+    NY Senate version passed
+        would have allowed "green" mining operations; block fossil fuel
+    House failed, citing pushback from IBEW
+    https://www.archpaper.com/2021/04/greenidge-power-plant-mine-bitcoin-raising-fears-of-a-climate-crash/
+        "the ongoing climate crisis created by the mining of cryptocurrency ... is accelerating"
+
+El Salvador crypto law is a scam?
+    https://davidgerard.co.uk/blockchain/2021/06/11/el-salvador-passes-its-bitcoin-law-and-its-a-tether-scam/
+    @genen: "The way strike makes $ is by holding value in USD... so you can have a Strike wallet with $25 of bitcoin, 
+        and bitcoin will go up 10% but your wallet will still have $25"
+    Strike doesn't store USD; they store tethers (USD-equivalent stablecoin)
+        "There has never been a verifiable redemption of tethers for the dollars supposedly backing them."
+        Can cash out USDT at a Strike-operated BTC ATM.  There are two, in El Zonte.  (None in San Salvador)
+    Merchants have to accept BTC, but can convert them instantly
+        gov't assumes all risk
+    No way to run know-your-customer on BTC transactions
+        meaning it's good for money laundering
+like Tether
+    https://www.singlelunch.com/2021/05/19/the-tether-ponzi-scheme/
+    New York AG sued Tether for being a ponzi scheme
+
+dameB biden coloring book link

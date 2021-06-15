@@ -1,0 +1,87 @@
+167
+
+2021-06-11
+
+where I got my cat, my coffee, and my crypto, let's rock
+where I wear my gender on my sleeve
+
+Apple announcement from Monday
+WA weed for jab program
+
+
+Birmingham UK police find BTC mining operation
+    https://www.bbc.com/news/uk-england-birmingham-57280115
+    were looking for marijuana growing operation, and raided it
+        found computers instead
+        "Detectives said they were tipped off about lots of people visiting the unit throughout the day and a police 
+            drone picked up a lot of heat coming from the building."
+    Western Power Distribution checked and found an "illegal connection to the electrical supply"
+    images show banks of computers, and dryer ducting to the outside for cooling
+
+El Salvador adopts BTC as an official currency
+    https://markets.businessinsider.com/currencies/news/el-salvador-bitcoin-legal-tender-currency-cryptocurrency-2021-6-1030506569
+    https://www.reuters.com/world/americas/el-salvador-approves-first-law-bitcoin-legal-tender-2021-06-09/
+    supermajority vote: 62 to 84 (74%)
+        BTC went up 5% on the news
+        Current official currency is $USD
+    "The purpose of this law is to REGULATE bitcoin as unrestricted legal tender with liberating power, unlimited 
+        in any transaction, and to any title that public or private natural or legal persons require carrying out"
+    BTC must be accepted for payment for goods and services
+        can pay taxes in BTC
+    NO CAPITAL GAINS
+    "Bitcoin will automatically and immediately be converted into US dollars upon use."
+        "Gov't will guarantee convertability to dollars at the time of the transaction through a trust created at the country's
+        development bank BANDESAL"
+            exchange rate 'set by market'
+        coordinating with Strike to build infrastructure
+    "El Salvador relies heavily on money sent back from workers abroad."
+        "The cryptocurrency offers, in theory, a quick and cheap way to send money across borders without relying on 
+            remittance firms typically used for such transactions."
+            but mind those gas prices
+    "could complicate talks with the IMF"
+        Good
+    Mining to be 'fueled by "cheap, clean" volcano energy'
+
+IRS vs crypto
+    https://www.washingtonexaminer.com/news/irs-chief-congress-authority-resources-to-regulate-cryptocurrencies
+    "Commissioner Charles Rettig on Tuesday asked Congress for new authority and resources in order to regulate 
+        cryptocurrencies for better tax collection and to avoid frauds and scams."
+        during budget proposal hearing
+    "already called for requiring all transfers > $10k to be reported to the IRS"
+    Another tidbit in the story:
+        Under Trump, the IRS budget called for reduction of staffing by 2200 employees
+        Biden's budget wants to hire 5000 new
+
+June 2021 Apple store guidelines
+    https://appleinsider.com/articles/21/06/07/apple-bans-manipulated-reviews-misleading-marketing-in-new-app-review-guidelines
+    https://9to5mac.com/2021/06/07/apple-updates-its-app-store-guidelines-following-ios-15-announcement/
+    Verge == https://www.msn.com/en-us/money/other/a/ar-AAKNYCe
+    - Apps that support account creation must support account deletion that's just as easy
+    - New rules requiring that developer identities are accurate and up to date
+    - Apps must "provide adequate utility" to be accepted
+        "drinking games" added to list of "saturated" categories
+            already incl. fortune telling, dating, fart/burp, flashlight, kama sutra
+                auto-rejected unless they provide a "unique high quality experience"
+    - Experience must be ios specific - No names/icons/branding of other mobile platforms
+        no cross-platform apps
+    - will consider customer complaints when deciding if CoC is being followed
+        "strict prohibitions on manipulated reviews"
+        Apple will remove apps (and developers) for "misleading marketing" outside app store
+        targeting scam app problem
+    - tighter restrictions on porn 
+        incl. pics in hookup apps and "facilitating prostitution"
+    - looser restrictions on pharmacies/cannabis dispensary apps (where legal)
+    - Roblox is still not a game
+        - Apple doesn't want to allow Stadia or xCloud, so the rule is every game in a collection must be individually approved
+        - but Roblox is a collection...
+            so Apple argued at Epic trial that Roblox isn't a game
+    - "Digital gift cards" MUST go through Apple IAP and pay apple tax
+        Does this count BTC wallets?
+        kills creator apps
+            eg: "Fanhouse" app (onlyfans, but not porn) takes 10% - and Apple now wants 30% more
+            https://www.msn.com/en-us/money/other/the-creator-economy-is-running-into-the-apple-tax-this-startup-is-fighting-back/ar-AAKSrfi
+    - "apps for reporting crimes include local law enforcement"
+        Direct shot against the Citizen app
+
+
+
