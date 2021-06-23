@@ -1,0 +1,104 @@
+170
+
+2021-06-21
+
+where it only gets darker from here
+where corporations reverse engineer our dreams, and I may never sleep again
+
+northern hemisphere will get darker for the next six months: CLIMATE CHANGE
+timeanddate.com
+    daylight today: 5:09 to 9:12pm: 16hrs and 3 mins
+    solstice was 23:32EDT or 03:32UTC June 20
+
+Malicious SSID can "permanently" break iphone wifi
+    https://9to5mac.com/2021/06/19/a-specific-network-name-can-completely-disable-wi-fi-on-your-iphone/
+    https://www.bleepingcomputer.com/news/security/iphone-bug-breaks-wifi-when-you-join-hotspot-with-unusual-name/
+    from karmaking and phoneboy
+    bleeping: "This week, reverse engineer Carl Schou ran into an issue when connecting to his personal WiFi hotspot"
+        twitter handle @vm_call
+        "reverse engineer"?
+        "ran into an issue"?  Or looking for one?  You don't find this accidentally.
+            More likely, he was searching for an uncontrolled format string vulnerability... and found one.
+        found on iphone XS running ios 14.4.2.  BleepingComputer confirmed on ios 14.6
+    After connecting (trying to connect?) to an SSID with that name, all other wifi and airdrop stops working
+        problem persists after reboot
+    Fix by going Settings->General->Reset->Reset Network Settings
+        nukes all memory of wifi/cell/VPN networks (incl. passwords)
+    %p%s%s%s%s%n
+        https://en.wikipedia.org/wiki/Uncontrolled_format_string
+        somebody fed user input into a library which gave it to a printf format string
+        designed to put stack data into a string - %p pointer, %s string data at pointer, %n number of chars written so far
+        All the %s probably lead to an overflow, and I guess %n causes it to go into a loop trying to count chars
+        ios watchdog designed to kill processes with corrupted memory
+        after reboot...  maybe it stores the last SSID it tried to access and reads that on load?
+    
+MassNotify app installed on android without users knowledge
+    https://9to5google.com/2021/06/19/massachusetts-massnotify-app/
+    https://news.ycombinator.com/item?id=27558500
+    Massachusettes health exposure / contact tracing
+        App was launched last Tuesday (isn't that about a year too late?)
+        using the "Exposure Notifications Express" system that Google and Apple announced last September
+        Get notification (after app is installed), which asks you to "continue", then "turn on" exposure notifications
+            as well as "share analytics"
+            All in Android Settings app - not a separate app
+        Was installed on many phones even when people don't live in MA
+            work there
+            or one CT user who says they never go to MA
+    Reviews from play.google.com: 629 one-star reviews
+        "SPYWARE?! Automatically installed without consent. It has no icon, no way to open this and see what it 
+            even does, which is a huge red flag. Per the notifications it runs on Bluetooth which is a major battery 
+            drain, and seems to want to track my location"
+        "This installed silently on my daughter's phone without consent or notification. She cannot have installed 
+            it herself since we use Family Link and we have to approve all app installs. I have no idea how they 
+            pulled this off, but it had to involve either Google, or Samsung, or both."
+        "App automatically installed without my consent overnight, and there's no app icon to indicate anything 
+            new was added. Lucky that Netguard caught it."
+        "Reinstalled itself AFTER I uninstalled"
+        "Glad to see tracking such exposure is taking advantage of technology. Too bad it's not accompanied by 
+            an education effort to help people understand what this is." -- the only five-star review in the first page (100 reviews)
+    Google responding to 9to5google on Saturday:
+         "The company confirms the new “automatically distributed” nature but states that “COVID-19 Exposure 
+            Notifications are enabled only if a user proactively turns it on.”
+    App id: gov.ma.covid19.exposurenotifications
+        for people who want to nuke it from the dev tools
+        But it will be reinstalled if Play is running, even if auto updates is disabled
+            confirmed with adb logcat
+    hackernews thread
+        "Remember when Tim Cook put Bono's album in the iTunes library of everybody? That's when it felt that the smartphones are not our devices"
+        "It's pure madness that Play Services comes with this sort of backdoor. This is clearly what I would consider a deliberate RCE vulnerability."
+           technically it's a supply chain vulnerability, which is an RCE executed by your update vendor
+        one "we need it because COVID!" post:
+            "It is very difficult to explain to people and all they hear is 'tracing = tracking = no privacy'."
+                paraphrase: "Trust authority" even though they keep violating that trust over and over
+Contact tracing was compromised from the beginning
+    https://themarkup.org/privacy/2021/04/27/google-promised-its-contact-tracing-app-was-completely-private-but-it-wasnt
+    *** Any pre-installed app can access the tracing log and get a list of everyone you've ever had bluetooth "contact" with
+        Reported to Google in February.  No change as of April
+    “This fix is a one-line thing where you remove a line that logs sensitive information to the system log"
+    "When Google and Apple introduced their COVID-19 contact tracing framework in April 2020, 
+        the companies aimed to reassure people worried about sharing private health information with major corporations."
+
+SpaceX Starlink dishes overheating, shutting down
+    https://techglobalnews.com/2021/06/16/starlink-dishes-go-into-thermal-shutdown-once-they-hit-122-fahrenheit/
+    "Dishy McFlatface"
+    Arizona beta tester ("Martin") posted image to reddit
+        "Offline /  Thermal shutdown / Overheated / Starlink will reconnect after cooling down"
+    Dish goes into shutdown when its internal temp reaches 122F.  Reboots automatically if it goes down to 104F
+        Martin got his internet back by running a sprinkler over the dish
+    Common thing for Elon.  Teslas take criticism for only testing in California where temps are moderate
+
+Win11 rumors
+    leak from Friday
+        https://gizmodo.com/what-to-expect-from-microsofts-windows-11-event-1847116247
+    Announcement June 24 9AM EDT (during No Agenda)
+    leaked ISO
+    updated servicing site: Win10 EOL 2025
+    "floating taskbar" looks a lot like MacOS dock = incl. only icons, no labels
+    new centered start menu looks like Win8 start screen with rounded corners
+    Revamped App store = winget enabled
+    Monday
+        https://www.techradar.com/news/windows-11-name-confirmed-in-fresh-leak-from-microsoft
+    support doc leaked from MSFT on github confirms name
+    MSFT is doing DMCA takedowns of sites hosting leaked ISO
+        the takedown specifically cites “leaked copy of the unreleased Windows 11”
+

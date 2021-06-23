@@ -1,0 +1,89 @@
+169
+
+2021-06-18
+
+where caffeine is my drug of choice, and I'm overdosed
+where the sidewalk ends at the state line
+
+ask GummyNerds about baggy trousers
+
+
+Samsung SmartThings v1 hub shutting down
+    https://arstechnica.com/gadgets/2021/06/samsung-is-killing-the-first-gen-smartthings-hub-this-month/
+    SmartThings was independent in 2012, bought in 2014 by Samsung
+        Samsung is no longer making them
+    Hub is a wifi access point for Zigbee and Z-wave devices
+        low-power mesh networks
+        Also killing Nvidia Shield, which connects smartthings to android TVs
+    Shutting down v1 version
+        offering $35 migration to v3 hub (normally $125)
+        No upgrade path.  You have to unpair and re-pair each light switch, bulb, toaster, and oven
+            different for each device, sometimes really complex code like unscrew 40%, flip on then off three times, etc
+
+Colorado successfully narrows wage gap... to zero
+    https://www.msn.com/en-us/money/markets/wsj/ar-AAL93A2
+    Passed Equal Pay for Equal Work Act (EPEWA)
+        https://leg.colorado.gov/bills/sb19-085
+        Can now sue employer for "wage discrimination" violations.
+        Employer is not allowed to:
+            * Seek the wage rate history of a prospective employee or requiring disclosure of wage rate as a condition of employment;
+            * Rely on a prior wage rate to determine a wage rate
+            * Discriminate or retaliate for: 
+                - failing to disclose wage history
+                - inquiring about, discussing, or disclosing wage rate
+                - asserting the rights established by this act
+        Burden of proof is now on employer to prove the "entire wage rate differential" is part of
+            * seniority, * merit, * quality of production, * geographic location, * required travel
+            * education/training/experience to the extent they are reasonably related to the work in question
+    EPEWA part 2: disclosure
+        https://www.huschblackwell.com/newsandinsights/updated-faqs-colorados-equal-pay-rules-for-job-posting-and-pay-transparency
+        requiring company to disclose expected salary for any open positions
+            Applies to any company with a "presence" in the state, and to any positions available to CO residents
+        into effect 1 Jan 2021
+        "An employer shall make reasonable efforts to announce, post, or otherwise make known all opportunities 
+            for promotion to all current employees on the same calendar day and prior to making a promotion decision."
+        "An employer shall disclose in each posting for each job opening the hourly or salary compensation, or 
+            a range of the hourly or salary compensation, and a general description of all of the benefits and other 
+            compensation to be offered to the hired applicant."
+            -- CRS 8-5-201
+        "'opportunity for promotion' is a 'vacancy' in an existing on new position that could be considered a promotion 
+            for any current employee in terms of compensation, benefits, status, duties or access to further advancement.'
+        basically, under EPEWA you have to announce every position in the company, and their wage range, to all employees
+            rules make no distinction between internal and external positions - also announce publicly
+    So, according to WSJ (which doesn't name the law)
+        now companies are advertising for online openings that exclude CO
+        Project mgmt director at CBRE Group (real estate):
+            “This position may be performed remotely anywhere within the United States except the State of Colorado.”
+        Commercial finance Sr Mgr at Johnson & Johnson:
+            “Work location is flexible if approved by the Company except that position may not be performed remotely from Colorado.”
+        Sales specialist at McKesson Corp (pharma):
+            "job postings exclude Colorado residents"
+        Scientist, account exec, tax planner at Cardinal Health:
+            “This is a remote, work from home position. This role is to be filled outside of the state of Colorado.”
+    Website for tracking these jobs:  coloradoexcluded.com
+        down when I tried it this morning - probably because of the WSJ article
+
+Vigilante malware
+    https://news.sophos.com/en-us/2021/06/17/vigilante-antipiracy-malware/
+        by Andrew Brandt at Sophos Labs
+    https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/
+        sent by SirVo
+    Trojans disguised as pirated software/games and distributed on Discord and Bittorrent
+        filenames like Left4Dead and Minecraft with the common piracy naming conventions
+            but property sheets don't necessarily match: They look more like AVG, Bitlocker, Office tools
+                easy to spot if you're looking
+        files contain readme.txt with garbled and generic piracy-type messages
+            and "data.dat" which is actually a jpg of a pine forest
+            random ".nfo" with 1kb of garbage data then 16kb of "a racial epithet", to pad out the file size
+        infected executables signed by fake code signing tool that creates a random string
+            CHECK YOUR DOWNLOAD HASHES, PEOPLE
+    When run, the software throws a fake error dialog and exits
+        “The program can’t start because MSVCR100.dll is missing from your computer. Try reinstalling the program to fix this problem.”
+            though it never even calls the DLL load API to check for the file
+        Vigilante reports the filename and IP addr to attacker-controlled server: 
+            1flchier.com - which has been shut down
+        then it tries to modify hosts file to block thepiratebay.com and up to 1000 other pirate sites
+    No persistence method - to clean, edit your hosts file back and don't run the infected exe again
+
+Ledger anti-phishing advice
+    https://www.ledger.com/phishing-campaigns-status
