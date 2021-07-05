@@ -1,0 +1,106 @@
+174
+
+2021-07-05
+
+where we greet the morning with the smell of stale gunpowder, used beer, and an Independence Day hangover
+where I secure my used devices with a hammer
+
+Audacity changes privacy policy
+    https://github.com/audacity/audacity/issues/1213
+    Audacity was "bought" by Muse Group (owners of MuseScore) in April
+        Not clear what they bought - trademarks and brand
+        software is GPLv2
+    In May, proposed to add telemetry
+        https://github.com/audacity/audacity/discussions/889
+        was opt-in, and mainly included crash reports
+            Lots of OSS extremists don't even want the code to exist, even if it's off
+        They scrapped that plan
+    Now, unilateral change to privacy policy
+        looks like MuseScore privacy policy
+        "Data necessary for law enforcement, litigation, and authorities' requests (if any)"
+            Probably can't be included in most distros anymore (eg: debian)
+        "The App we provide [Audacity] is not intended for individuals below the age of 13. If you are under 13 years old, please do not use the App."
+            What are they collecting that would fall under COPPA?
+            People point out this likely violates GPL
+        share personal data with "our auditors, advisors, legal representatives, and similar agents"
+    Forks are already in progress
+        Multiple forks, each with changes already
+            freeaud, Audacium, Audacious, Courage, etc
+            coldacid linked to cookieengineer's fork
+                https://github.com/cookiengineer/audacity
+
+Data sticks around on used Echo devices
+    https://arstechnica.com/gadgets/2021/07/passwords-in-amazon-echo-dots-live-on-even-after-you-factory-reset-them/
+    researchers from Northeastern Univ bought 86 used Echo Dots over 16 months
+    61% had not been factory reset
+        *still provisioned* !!
+        incl. wifi passwords, router MAC
+            amazon account credentials
+        Alexa, who am i?
+    Disassembled and forensically examined the NAND memory
+        wifi credentials, physical locations
+        credentials and details on other IoT devices in home (eg: door locks/cameras)
+        even after factory reset
+    No logs/alerts when a provisioned device is plugged in at new wifi/location/isp/etc
+        It logs "activity" at new location, but those logs can be deleted by voice commands
+        Control smart devices
+        create orders / query package deliveries
+        Use Drop-In (allows you to talk through other connected devices, eg: intercom / other alexa / doorbell)
+            eg: "drop-in on kitchen"
+        Alexa doesn't give owner's address, but they could find it with queries like
+            what restaurants/stores/libraries are nearby?
+            Use google localization API to x-ref known SSIDs (neighbors?)
+    Can affect any device that leaves your house - sold or stolen
+        when you're done, might be better to destroy it rather than sell used
+        family member might not know to reset it
+            factory reset = hold reset for 25s
+                note: wifi reset = hold for 15s
+        If you perform reset when not connected to wifi, it's still provisioned
+            and they were able to retrieve wifi/ssid/mac info
+        Resetting while on wifi does a full wipe
+    they recommended Amazon encrypt the userdata partition
+
+Comcast shutting down internet access for copyright violations
+    https://torrentfreak.com/comcast-suspends-internet-connection-for-downloading-torrents-210630/
+    one example
+BMG vs Cox (2018) = Rightscorp
+    https://www.eff.org/deeplinks/2018/02/bmg-v-cox-isps-can-make-their-own-repeat-infringer-policies-fourth-circuit-wants
+    copyright trolls - profit by identifying an IP, get ISP to give account details, then send demand letter for $$$
+            also Righthaven, Prenda Law, etc
+    Cox refused to forward demand letters, as they were only accusations; not proof
+        lost case on internal mails that said Cox knew about "repeat offenders"
+    Court ruled Cox lost its safe harbor
+Sony vs Cox (2019)
+    https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet
+        eastern PA jury found Cox responsible for
+        * "willful vicarious and contributory copyright infringement"
+        and enjoyed a direct financial benefit from the infringement
+        Sony experts testified that Cox tolerated the allegedly infringing behavior and had the ability to terminate the accounts
+        Awarded Sony $1B in damages
+    US District court Liam O'Grady agreed
+        cited BMG vs Cox - says Cox doesn't have safe harbor
+        DMCA "contributory infringement" if ISP knew a customer infringed (NOT PROVEN) but did not take "simple measures"
+            O'Grady decided that terminating account was a simple measure
+        DMCA "vicarious liability" applies if you supervise the primary infringer
+            O'Grady decided that being able to terminate an account is "right and ability to supervise" the person
+                I don't want to be "supervised" by my ISP
+    If this precedent stands the 4th circuit, ISPs will have to terminate accounts on one or two accusations
+EU copyright troll case: Mircom (Cyprus) vs Telenet (Belgium)
+    https://www.reuters.com/business/demands-copyright-trolls-must-be-reasonable-eus-top-court-rules-2021-06-17/
+    Mircom sued Telenet for the identities of users it alleges have shared via bittorrent
+        used a 3rd party to collect IP addresses
+    Telenet went to Court of Justice for EU (CJEU)
+    CJEU ruled that Mircom was behaving like copyright troll.  Told to stop it.
+        "request for information must be non-abusive, justified and proportionate"
+
+GETTR hacked on launch day
+    https://www.msn.com/en-us/news/politics/t/ar-AALLHVC
+    created by Jason Miller - former Trump advisor
+    Within 12hrs of being up, a hacker targeted high-profile accounts and changed their display names
+        to "free palestine"
+    Later that day, it was flooded with porn, leftist memes, Hillary nude photoshops (yuck!)
+        Not removed because free speech
+        but company "reserves the right to address content that comes to our attention that we believe is pornographic"
+            or "offensive, obscene, lewd, lascivious, filthy...violent, harassing, threatening, abusive, illegal, or otherwise objectionable or inappropriate."
+
+

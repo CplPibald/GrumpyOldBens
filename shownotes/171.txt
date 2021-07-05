@@ -1,0 +1,86 @@
+171
+
+2021-06-25
+
+where, in light of higher than expected demand on the electrical grid, residents are urged to swelter in place
+where I've been linked to disinformation efforts
+
+California urges people to cut energy use during peak hours
+    https://www.newsweek.com/california-facing-power-crisis-frets-over-electric-car-charging-routines-1602755
+    https://www.flexalert.org/news/106-flex-alert-in-effect-today-from-5-pm-to-10-pm
+    asks consumers from 5-10pm
+        set thermostats to 78F or higher if health permits
+        Avoid using major appliances (cooking)
+    do outside of hours:
+        pre-cool home, use appliances, charge devices
+        charge EVs
+    Patty Monahan = commissioner on transportation at Cal Energy Commission
+        "By incentivizing, primarily through rates, charging behaviors that capitalize on when renewable energy is being 
+            generated—we basically have a win for the grid, and we have a win for the drivers in terms of reduced rates. 
+            Rates are a climate strategy, and California plans on using rates to help drive the charging behaviors that 
+            are going to help the state electrify transportation while cutting carbon from the grid and saving ratepayers and drivers money."
+
+AWS DNS hijack attack (January 2021)
+    https://www.darkreading.com/vulnerabilities---threats/n/d/d-id/1341377
+    researchers at wiz.io
+    Route53 DNS-as-a-service
+        self-service DNS registration
+        Register your DNS as someone else's, get their traffic
+    AWS fixed in Feb, but other DNS-as-a-service are vulnerable
+
+US Gov't reaches into ICANN
+    https://www.msn.com/en-us/money/other/foxbusiness/ar-AALkHsX
+    https://www.rt.com/news/527292-us-seizes-iran-presstv-websites/
+    citing 18 USC 981 Civil forfeiture
+        "All assets, foreign or domestic— (i) of any individual, entity, or organization engaged in planning or perpetrating any any 1 Federal crime"
+    982 Criminal forfeiture
+        requires a conviction
+    and 50 USC 1701-1705
+        "Unusual and extraordinary threat; declaration of national emergency"
+        "Presidential authorities"
+    presstv.com - Iranian state-run English language news
+    So FBI/DOJ, operating under Biden's authority, and treating domain names as property within the USA, shut down a foreign site
+    DOJ spokesman: "linked to disinformation efforts"
+    Same thing happened October 2020 = DOJ vs Iran
+
+Win11 event
+    https://www.msn.com/en-us/news/technology/microsoft-s-windows-11-reveal-event-all-the-free-upgrades-coming-this-fall/ar-AALmJ05
+    https://www.theverge.com/2021/6/24/22548480/windows-11-home-internet-connection-set-up
+    https://www.cnet.com/how-to/windows-11-update-price-compatibility-release-date-and-more-for-microsofts-new-os/
+    64-bit only
+    4G RAM, 64G storage
+        hah!
+    free upgrade from win10 - via WU
+        beta starting July
+    pastels, rounded corners, start menu centered
+        they really want to be mac
+        mac-style virtual desktops
+    Android apps
+        apps from Amazon appstore to be listed in Windows store
+        Uses Intel Bridge compiler - looks like it JIT rebuilds for x86
+    MSFT Teams
+        lives in taskbar - hopefully removable
+        many comparisons to facetime on macos
+    Home version requires internet connection and msft account
+        xp story about always install offline because it's compromised the moment you plug it in
+        Most of the OS delivered by WU
+
+WHO demands women of child bearing age not drink alcohol
+    https://www.breitbart.com/politics/2021/06/17/w-h-o-demands-women-of-child-bearing-age-not-drink-alcohol/
+    https://www.snopes.com/fact-check/who-ban-women-childbearing-alcohol/
+    https://junkee.com/who-global-action-alcohol-sexism/298815
+    WHO draft of Global Alcohol Action Plan 2022-2030
+        "Alcohol remains the only psychoactive and dependence-producing substance that exerts a significant impact on 
+            global population health that is not controlled at the international level by legally binding regulatory instruments.”
+    'Advocacy, awareness and commitment' section
+        “prevention of drinking among pregnant women and women of childbearing age.”
+            15-50 yrs, according to other WHO docs
+    Top three google links are "fact check"
+        Snopes was #2 link in DDG
+        Snopes = "FALSE"  WHO isn't instituting or enforcing the ban (no, they're recommending it to gov'ts)
+            (in Rainn Wilson's voice)
+        #1 in DDG was NBCNews
+            "The WHO alcohol-pregnancy warning for childbearing women overlooks men, as usual"
+            "Men who drink can damage fetuses as well, but they aren’t mentioned by the World Health Organization. 
+                The entire burden — and blame — of childbirth is still put on women."
+            https://www.nbcnews.com/think/opinion/who-alcohol-pregnancy-warning-childbearing-women-overlooks-men-usual-ncna1271690

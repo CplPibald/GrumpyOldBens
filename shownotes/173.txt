@@ -1,0 +1,54 @@
+173
+
+2021-07-02
+
+where Sammy Hagar was from the future
+    (it was full of boring cars)
+where I've been ahead of the windows update curve for years
+
+
+RANT: people hate ranked choice voting because it helped a communist
+    now Adam is on board
+
+made a point about gatekeeping using JCD's IPA example...
+    "I don't care if a Hazy IPA is technically an IPA by some arbitrary definition. I only care whether it is good to drink."
+    got four replies from people who hate IPAs
+
+mixed content on GOB.com, getting a padlock, more CPU for encrypted
+
+
+Porsche won't sell manual transmision in 911 GT3 in California
+    https://www.caranddriver.com/news/a36757018/porsche-911-gt3-manual-fails-californias-noise-test/
+    502hp
+    auto "PDK gearbox" passes the noise test.  Six-speed manual does not.
+        Society of Audio Engineers specifies test (SAE J1470)
+        vehicle accelerates past a microphone from 50km/h (31mph) until engine reaches peak rpm
+    "the throttle shall, as rapidly as possible, be opened as fully as will ensure maximum acceleration without operating kickdown"
+        which is a forced downshift into first
+        The porsche can do 50mph in first gear...  So they can't put the pedal down without a downshift in an auto
+    There's a newer testing guideline, but CA uses the one made in 1984
+
+Crackonosh malware
+    https://thehackernews.com/2021/06/crackonosh-virus-mined-2-million-of.html
+    Trojan - distributed via cracked copies of software
+    Replaces Windows system files
+    Uses safe mode to disable antivirus and windows update
+        Creates a fake Windows Defender which just puts a green check on the system tray
+    MSFT: "Does not meet the bar for security servicing"
+        because it requires you run as admin
+        and because it requires you download pirated software
+
+Microsoft signs malware driver
+    https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/
+    All kernel code since Vista must be signed
+        by default must be a MSFT cert
+    Netfilter driver = rootkit
+        found by analyst Karsten Hahn from G Data
+        communicates with chinese c2 (command+control) IPs
+            IP belongs to Ningbo Zhuo Zhi Innovation Network Technology Co., Ltd
+                which USDoD has identified as a front for CCP military
+        self-updates (once in kernel mode, it can do anything)
+    MSFT approved the netfilter vendor and signed the driver
+    OPINION: Auto updates are supply chain vector
+
+
