@@ -1,0 +1,71 @@
+175
+
+2021-07-09
+
+where even rapists support freedom of speech
+kicking and streaming
+
+Cosby says M5M are the 'insurrectionists'
+    https://www.washingtontimes.com/news/2021/jul/6/bill-cosby-blasts-mainstream-media-as-insurrection/
+    “Howard University you must support ones Freedom of Speech [Ms. Rashad], which is taught or suppose to be taught 
+        everyday at that renowned law school, which resides on your campus,”
+    “This mainstream media has become the Insurrectionists, who stormed the Capitol. Those same Media Insurrectionists 
+        are trying to demolish the Constitution of these United State of America on this Independence Day."
+
+Kaseya hit with supply chain ransomware attack
+    https://helpdesk.kaseya.com/hc/en-gb/articles/4403440684689
+    https://gizmodo.com/a-large-ransomware-attack-may-have-ensnared-hundreds-of-1847222405
+    Kaseya VSA is a RMM = Remote Monitoring and Management tool
+    MSP = Managed Service provider
+        host instance of VSA and manage clients' computers
+    Supply chain attack affected on-prem customers (like SolarWinds)
+        fingers pointed at REvil cybercriminal gang
+        "Our SaaS customers were never at-risk"
+        "The attackers were able to exploit zero-day vulnerabilities in the VSA product to bypass authentication and 
+            run arbitrary command execution.  This allowed the attackers to leverage the standard VSA product 
+            functionality to deploy ransomware to endpoints.  There is no evidence that Kaseya’s VSA codebase has been 
+            maliciously modified."
+        "fewer than 60 Kaseya customers, all of which were using the VSA on-premesis product"
+        "total impact thus far has been to fewer than 1500 downstream businesses"
+    Patch released 8 July
+        and compromise detection tool
+        SaaS are patched and running
+    9 July: spammers are sending out phishing mails claiming to be Kaseya
+    NA producer sent note to Adam - in 1362 show notes
+Details from Huntress Labs
+    https://www.enterprisetimes.co.uk/2021/07/05/kaseya-customers-hit-by-major-ransomware-attack/
+    deployed with long command line
+        disables defender and reconfigures it to turn off scanning and monitoring
+        replaces MsMpEng.exe
+        installs fake certs
+    creates regkey HKLM\SOFTWARE\WOW6432Node\BlackLivesMatter
+        to store settings for the hack
+
+PrintNightmare
+    https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527
+    https://www.msn.com/en-us/news/technology/bgr/ar-AALOxbJ
+    RCE with SYSTEM privileges
+        "An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights."
+    Workaround: Stop and disable print spooler in services.msc
+        Or disable inbound remote printing in group policy, if you need local printing to work
+    Confirm regkeys are set to 0
+        HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\Printers\PointAndPrint
+            NoWarningNoElevationOnInstall, UpdatePromptSettings
+    Updates released out of band for Server 2016, and Win10 1607+
+        all other operating systems, wait for Reboot Tuesday
+    Found by researches at Sangfor
+        were going to show MSFT at Black Hat along with other vulnerabilities
+        MSFT fixed an unrelated print spooler bug, and Sangfor thought they had patched it...
+        so they published proof of concept on github
+
+Replication crisis
+    https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more
+    Study from UC San Diego to check how often papers were cited
+        leading psychology, economic, and "science" journals
+    Papers that fail to replicate (or cannot be replicated) are cited 153x more often
+        presumably because they have "interesting" results
+        this is only in other "scientific" papers - to say nothing of social media "citing"
+    They also analyzed and controlled for race/gender/etc of paper authors
+        no change in replicability
+
+Charlie Oscar Xray Cable
