@@ -1,0 +1,66 @@
+177
+
+2021-07-16
+
+where I passed my torque test
+
+
+RedditSave bot taken down temporarily
+    https://torrentfreak.com/reddit-orders-savevideo-bot-to-shutdown-or-face-lawsuit-210713/
+    via SirVo
+    https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/
+    Reddit won't allow links to videos; just links to comments
+        enter video save scripts, bots
+            eg: u/SaveVideo
+    Bot operator received takedown letter (via their hosting company)
+        Shut down 
+        “The gods of reddit have reached out to us. They do not want us to continue this service any longer.”
+    Lots of negative press pointed at reddit
+        The next day, the bot was back up.
+        Reddit contacted bot author and said it wasn't them
+    Posted PDF takedown
+        from "Reddit Safety" (wait, copyright, or safety?)
+        The word "Reddit" is capitalized all through the document
+    grammar errors
+        "Redditsave.com acting as a browser and accessing our media database and illegally finding the source 
+            of media files such as "v.redd.it & i.redd.it" links."
+        "going against Reddit content policy."
+        "You must "Take Down Redditsave.com and its services" within 3-4 days otherwise-
+                We are going to file a lawsuit under trademark infringement US law U.S.C. § 1063 section. During the 
+                pendency of the lawsuit, you (owner of Redditsave.com) are responsible for paying your
+                Attorney’s monthly bills. As Redditsave.com misused the Media API and costs Bandwidth of
+                Reddit servers, we need a "Compensation Penalty" of 1,000,000 or 1 Million American
+                Dollars. If you failed to pay the compensation will face strict verdict from USA Jurist section."
+            15 USC 1063: Opposition to [trademark] registration
+                clarifies the issuance of trademarks in 1062, and provides a mechanism to oppose them before they're issued
+        "Scrutinized by, Marcos Glenn- Reddit Safety Team head."
+
+Muse adding CLA to Audacity
+    https://hackaday.com/2021/07/13/muse-group-continues-tone-deaf-handling-of-audacity/
+    via coldacid
+    https://github.com/audacity/audacity/discussions/932
+    Muse is adding a Contributor License Agreement you must sign before contributing code
+        which says you agree to your code being relicensed
+    "It is not necessary for every single person who ever contributed to sign the CLA; only people who made a 
+        non-trivial contribution that is still present in the current source code have to sign, as well as all new contributors."
+    Q. How does the CLA benefit the community?
+        A. The CLA enables us to release Audacity on platforms that we wouldn't otherwise be able to release on, 
+            such as within Apple's App Store. It also enables us to change the project license in the future, 
+            should the need arise. For example, we might decide to switch to a different open source license to 
+            take advantage of a new technology that is incompatible with the current license, like when we switched 
+            MuseScore's license from GPLv2 to GPLv3 to enable support for VST3. Alternatively, we might decide 
+            to dual-license certain parts of the code under a permissive license in order to create an open standard 
+            that is usable across all audio applications.
+
+Tesla quotes $16k for a $700 fix - why we need right to repair
+    https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters
+    Dude runs over road debris, damages a plastic coolant fitting on the side of the battery pack
+        Tesla's ToS says the battery pack is not serviceable
+        Tesla service center gave estimate of $16k to replace battery pack
+            (comp insurance didn't cover road debris)
+    Electrified Garage (NJ) shop were able to replace plastic fitting with an off-the-shelf brass one
+        total cost = $700; mostly labor
+    Tesla didn't offer to give used part back to him; balked when he asked for it (NJ legal requirement)
+        They were going to "refurbish" the pack and sell it again
+    The Drive couldn't ask for Tesla's side, since they have no PR dept
+    Tesla ToS also says they'll ban your car from supercharging network if they detect any "unsupported repairs"

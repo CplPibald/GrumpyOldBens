@@ -1,0 +1,87 @@
+178
+
+2021-07-19
+
+where freedom is just another word for nothin' left to lose
+where getting hacked by an Israeli spyware company is how you know you've made it
+
+Apple removes Fakespot app on Amazon's say-so
+    https://appleinsider.com/articles/21/07/16/apple-reportedly-removes-fakespot-from-app-store-at-amazons-request
+    https://www.theverge.com/2021/7/16/22580611/fakespot-ios-app-apple-amazon-fake-reviews
+    Fakespot detects and points out "false reviews and reviewers"
+        on Amazon, TripAdvisor, Walmart, and Yelp
+        call themselves a data analytics firm
+    Launched in June 2021
+        https://www.globenewswire.com/en/news-release/2021/06/03/2241643/0/en/Fakespot-Rolls-Out-the-Fakespot-Secure-Shopping-App-The-Best-Way-to-Shop-Amazon-on-Mobile-Devices.html
+        Rates reviews and sellers
+        "Highlights pros and cons about a product without having to read thousands of reviews"
+        Have to create an account - to "maintain their analysis history across the desktop extension and mobile app"
+            people don't even think twice about creating new accounts anymore
+    Amazon went to Apple and claimed that Fakespot was "wrapping" their website
+        and that it could be exploited to steal Amazon customer data (RB: more than Amazon is doing already?)
+        "5.2.2 Third-Party Sites/Services: If your app uses, accesses, monetizes access to, or displays content from a 
+            third-party service, ensure that you are specifically permitted to do so under the service’s terms of use. 
+            Authorization must be provided upon request."
+        “We regularly review products where Fakespot rated a product’s reviews as untrustworthy and their findings 
+            were wrong more than 80% of the time. They simply do not have the information we have—such as reviewer, 
+            seller and product history—to accurately determine the authenticity of a review.”
+
+Pegasus data leak
+    https://www.theguardian.com/news/2021/jul/18/huge-data-leak-shatters-lie-innocent-need-not-fear-surveillance
+    Surveillance software written by NSO group from Israel
+        NSO's official response: "We firmly deny the false allegations" "wrong assumptions" "uncorroborated theories"
+    Leaked list of 50k phone numbers, along with date/time they were entered into a system (back to 2016)
+        Shared only with "journalists" incl. Guardian - not public
+            nonprofit org of media outlets called "Forbidden Stories"
+        media outlets identified over 1000 people
+            65 business executives
+            18 members of arab royal families
+            189 "journalists"
+            600+ politicians - incl. heads of state and cabinet
+            "in the coming days the Guardian will be revealing the identities of many innocent people who have been identified"
+        Clusters in 10 countries - gov't clients of NSO
+            Azerbaijan, Bahrain, Hungary, India, Kazakhstan, Mexico, Morocco, Rwanda, Saudi Arabia and the United Arab Emirates.
+    Forensic analysis of 67 phones from list showed "attempted and successful" intrusion
+        23 had Pegasus installed
+        14 showed signs of attempted penetration
+        30 inconclusive (sometimes because the handset was replaced)
+        iphones log everything - easy to tell
+        Androids don't keep logs
+
+dekuNukem Bob Cassette Rewinder
+    https://github.com/dekuNukem/bob_cassette_rewinder
+    Bob Dishwasher by Daan Tech
+    Internet-connected dishwasher that fits on your countertop
+        internal water tank - fill by hand; no plumbing
+    "It arrived after a 2-months wait, and overall I'm very happy with it. It fits on my kitchen top, has 
+        enough space for my dishes, uses a tiny amount of water, and overall works just fine. No problems."
+    Bob Cassette = all-in-one detergent cartridge
+        Lasts 30 washes
+        Printer ink model = cheap product, outrageous cost on subscription
+            same model as sodastream
+        43 euro (about $60) for 90 washes (only from their website) after shipping and VAT - or 67c per wash
+            internet is so it can order new cassettes when it runs low
+        Also, what happens if company inevitably goes out of business?
+    If cassette runs out, you can add your own, but Daan Tech advises against
+    So dekuNukem hacked it.
+        Cassette has an 24C02 EEPROM, which can hold 256 bytes of data
+            Connected to a computer (alligator clips, hacky wires, etc) and dumped memory
+            washed again, dumped memory
+            only one byte had changed
+        Modified and put back - it worked
+    What to fill with?  Daan Tech doesn't say what
+    Found right detergent and rinsing liquid using spec sheets.  Measured amounts, calculated concentrations
+        6 eur for 5L of detergent
+        6.29 eur for 5L of rinse aid
+    Total cost = 1.1c per wash = 98% cost saving
+        5L detergent = 3yrs of daily washes.  5L rinse = 12yrs
+    Now DekuNukem sells the Bob Rewinder - a USBC-to-PCB connector, and open-source software to rewind cartridges
+    Daan advertises "positive cycle" of green practices
+        "fighting against single-use plastics"
+        yet sends single-use cassettes that only last a fixed time and aren't reusable
+            similar to sodastream CO2 canisters
+            or juice packets, etc
+
+
+
+

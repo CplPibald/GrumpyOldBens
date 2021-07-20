@@ -1,0 +1,78 @@
+176
+
+2021-07-12
+
+where we keep sending our billionaires into space, but unfortunately they keep coming back
+
+
+headlines:
+    CNN shat on Branson's flight because climate change
+    Cubans in mass-protest against communist regime - M5m not covering
+    State legislator from CT (Dem) was arrested and confessed to election fraud
+
+pc20 convo about bitcoiners love cutting out the middlemen
+
+Youtube gets 100k euro fine for censorship
+    https://www.zerohedge.com/geopolitical/german-court-orders-youtube-pay-100000-euros-censoring-pandemic-protest-footage
+    German Higher Regional Court at Dresden
+    Video showing pandemic lockdown protests in Switzerland
+        YT deleted in January
+        citing "Policy on medical misinformation about COVID-19"
+    Court ruled Apr 20 that YT wrongly deleted
+        ordered YT to reinstate video.  YT didn't.
+        said that amended guidelines "had not been sufficiently conveyed to the account operator"
+            and that a literal amendment to user agreement would be necessary
+    5 July, court fines YT 100k
+
+EU commissioned study to show how much piracy hurts sales - didn't release
+    https://www.engadget.com/2017-09-22-eu-suppressed-study-piracy-no-sales-impact.html
+    2017 article
+    spent $430k to determine how much piracy hurts sales of copyrighted works
+        Study found "no robust statistical evidence of displacement of sales by online piracy."
+    only exception is blockbusters in first few weeks
+        where every 10 pirate downloads costs 4 ticket sales
+            Either people don't need to watch it again...
+            or they learn it's shit
+        Over lifetime, piracy reduced sales for these films by 4.4%
+    ^^^ This was the only part of the paper to be cited, in 2016, to prove that piracy impacts cinema
+    Study was never released in full
+        until Julia Reda (Pirate Party, Germany) submitted a FOIA in 2017
+
+Another day, another data breach - Mint Mobile
+    https://www.bleepingcomputer.com/news/security/mint-mobile-hit-by-a-data-breach-after-numbers-ported-data-accessed/
+    email to affected subscribers:
+        "Between June 8, 2021 and June 10, 2021, a very small number of Mint Mobile subscribers' phone numbers, 
+            including yours, were temporarily ported to another carrier without permission"
+    "also potentially gained access to some of your personal information" 
+        "name, address, telephone number, email address, password, bill amount, international call detail information, 
+            telephone number, account number, and subscription features."
+    CHANGE YOUR PASSWORDS
+    Attack looked similar to another against US Cellular in January
+        adversaries scammed employees into downloading remote access software to their fones
+        then used CRM to access database
+
+Follow-up: PrintNightmare fix breaks Zebra printers
+    https://www.bleepingcomputer.com/news/microsoft/windows-security-update-kb5004945-breaks-printing-on-zebra-printers/
+
+Youtube gets 100k euro fine for censorship
+    https://www.zerohedge.com/geopolitical/german-court-orders-youtube-pay-100000-euros-censoring-pandemic-protest-footage
+EU commissioned study to show how much piracy hurts sales - didn't release
+    https://www.engadget.com/2017-09-22-eu-suppressed-study-piracy-no-sales-impact.html
+Another day, another data breach - Mint Mobile
+    https://www.bleepingcomputer.com/news/security/mint-mobile-hit-by-a-data-breach-after-numbers-ported-data-accessed/
+Richard Branson came back from space
+    https://www.cnbc.com/2021/07/11/virgin-galactic-launch-live-updates-video-stream-richard-branson.html
+CT Senator charged with election fraud
+    https://www.msn.com/en-us/news/crime/hartfordcourant/ar-AAKn1oH
+Tech workers don't want to go back to the office
+    https://www.cnbc.com/2021/07/09/career-expert-advice-for-quitting-your-job.html
+Protests in Cuba
+    https://www.foxnews.com/world/thousands-of-protesters-take-to-the-streets-in-cuba
+Screens and ADHD kids
+    https://www.theguardian.com/commentisfree/2021/jul/09/if-youre-going-to-put-your-preschooler-in-front-of-a-screen-choose-a-tv-heres-why
+    https://www.nbcnews.com/id/wbna5933775
+Chinese tech worker surveillance
+    https://asia.nikkei.com/Spotlight/The-Big-Story/China-s-tech-workers-pushed-to-limits-by-surveillance-software
+Some Windows 11 crap
+    https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-windows-11-hack-to-enable-windows-10-start-menu/
+    https://www.bleepingcomputer.com/news/microsoft/microsofts-windows-cloud-pc-service-almost-here-what-we-know-so-far/
