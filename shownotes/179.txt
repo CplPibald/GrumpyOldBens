@@ -1,0 +1,93 @@
+179
+
+2021-07-23
+
+
+Most URLs are syntactically valid javascript code
+    https://george.mand.is/2021/06/idle-javascript-observations/
+    interpreted as label://comment
+
+Transparency from Google search
+    https://blog.google/products/search/learn-more-and-get-more-from-search/
+    https://searchengineland.com/google-now-shows-why-it-ranked-a-specific-search-result-350659
+    Expansion to "About this result" box
+        box already shows encryption results,
+            google jobs, google business listings, wikipedia preview
+            whether google claims it's an ad
+    shows
+        search terms in result, related search terms
+        other sites with terms link to result
+        images related to search
+        language/region specific
+    "Why was this result listed" is huge for SEO
+
+EIP 1559 Ethereum fork
+    https://academy.ivanontech.com/blog/what-is-eip-1559-and-will-ethereum-go-deflationary-with-it
+    https://blocknewsmedia.com/index.php/2021/07/13/4-common-myths-about-ethereums-eip-1559-upgrade/
+    Ethereum Improvement Proposal
+    Current fee mechanism involves an "auction" to get transactions into the block
+        base fee would replace this auction
+        similar to BTC's dynamic PoW difficulty
+    Changes gas fee mechanism by introducing a dynamically adjusted base fee
+        which would be burned instead of given to miners
+            counter to inflation from mining - eth is not capped like BTC
+        Intent is to reduce volatility in gas fees
+            base fee changes if blocks fill up beyond "gas target" when blocks are over/under 50% full
+                which is always with current congestion...  so fees won't go down short-term
+        Includes option to "tip the miners" 
+            'to incentivize getting the block out faster' ???
+        "Removes fee manipulation vectors - eg. ones where malicious miners fill up blocks with empty 
+            transactions to inflate market prices"
+    Also introduces variable block size from fixed 12.5M to floating
+    Fees won't go down short-term, but fee prediction will be easier; and fewer/more predictable delays
+
+93% of paint splatters are valid Perl
+    https://www.mcmillen.dev/sigbovik/
+    Started with a tweet
+        @__apf__ "I don't want to teach my kid to code. I want him to splash in muddy puddles and smear point on the walls and read novels under the covers
+            way too late at night. I grew up too soon and wish I'd had more time to be a kid. Why do schools teach vocational skills so young these days?"
+        @jaffathecake "but is it possible to smear paint on the wall without creating valid Perl?"
+    Colin McMillen and Tim Toady investigated exactly that
+        Given an input image, use Tesseract OCR library (4.0.0-beta1) to extract candidate text
+        Then feed that text into Perl 5.26.1
+    "We are not aware of the existence of any standard paint-splatter datasets in the object recognition or OCR communities.
+        Also, ImageNet’s website was down on the day that we decided to perform this research. We therefore paid an 
+        unemployed person* to download 100 examples of paint-splatter artwork by searching Pinterest using the query
+        “paint splatter wallpaper”."
+        manually filtered images with text overlay
+    Result was 100 splatter images.  93 of them were valid code
+        https://www.mcmillen.dev/sigbovik/splatters.html
+        20 can be parsed as numeric literals
+        three can be parsed but result in errors (incl. division by zero)
+        Most of the rest are parsed as unquoted strings
+            (have to run perl without -w warning flag)
+            ```Unquoted string "gggijgziifiiffif" may clash with future reserved word at - line 1.)```
+    Scanned the icon from Nintendo's "Splatoon" image and concluded the result was NSFW
+        footnote points out that it's perl that's not safe for work. The splat is fine.
+
+Freenode exodus
+    https://www.theregister.com/2021/05/19/freenode_staff_resigns/
+    Andrew Lee, founder of Private Internet Access VPN
+        acquired controlling interest in "Freenode Limited" in 2017
+            Established to handle Freenode Live finances. Gained control over domain names too
+        "promises were made that Lee would not have operational control over the IRC network"
+        In May, all of the volunteer admins/devs/etc resigned
+        Deopped many channel owners
+    https://gist.github.com/joepie91/df80d8d36cd9d1bde46ba018af497409
+        Accused of abuse of power over a competing botchannel ##hntop vs ##hnnew
+            because ##hntop was moving to liberachat
+        Retroactively changed freenode policies
+        people complained.  Some lawyered.
+    Projects that have moved:
+        Ubuntu, gentoo, centos, wikimedia moved to LiberaChat
+        #icechat channel moved to Quakenet
+        adafruit, alpine linux, anarcat, sourcehut, dokuwiki
+    Alternate perspective, calls it cancel culture
+        http://techrights.org/2021/05/19/freenode-and-cancel-culture/
+        aside: this author really hates that stuff is posted at github
+        says freenode "owner" wanted to give visibility to his brother's business Shells,
+            "which basically helps raise awareness of GNU/Linux"
+            Promoted logo (where?  MOTD?)
+        turned into cancel culture shitstorm
+            “Trumpian wannabe korean royalty bitcoins millionaire.”
+

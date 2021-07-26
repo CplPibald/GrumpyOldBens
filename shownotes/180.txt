@@ -1,0 +1,118 @@
+180
+
+2021-07-26
+
+where you can watch the Olympics like it's 1996 again
+where you park your carbomb in the garage at your own risk
+
+NBC doesn't want people watching the Olympics
+    https://mleverything.substack.com/p/why-does-nbc-make-it-so-difficult
+    Events are never live
+        when they need to be because no spectators
+        Opening ceremonies were "live" at 7e/6c"
+    only on NBC TV
+        "Log in with your cable provider"
+    select programs on nbcolympics.com
+        program videos lumped together; bad titles, no search
+        searched for "serbia basketball" and top result was Rio 2016
+    This is a good thing.  Who needs to watch the Olympics anyway
+        corruption, wokeness, death of nationalism
+        US womens basketball team kneels (so did the men's)
+
+SF to bring woke congestion pricing
+    https://www.sfchronicle.com/sf/article/S-F-is-considering-downtown-congestion-16336449.php
+    https://www.sfcta.org/downtown
+    Problem: Record level of congestion in 2019
+        max() function always produces a "record"
+    downtown zone
+        north of Division, east of van Ness
+    "Drivers would pay a fee to cross into this boundary during rush hours"
+        ^^^ THIS will require tracking people
+        6-9am, 3:30-6:30pm
+        Base fee of $6.50 for $100k+; free for $46k and below
+        per-trip fee for Uber/Lyft (more tracking?)
+    "Making Sure Pricing Programs Are Fair"
+        "Inequities have long been ingrained in our transportation system and are still present today. More cars 
+            on the road disproportionately affect low-income communities of color because they are more likely to:"
+            ride the bus
+            live in areas with more collisions, 
+            have health impacts from asthma or pollution
+            spend a disproportionate amount of income on transportation
+        "We’re looking at congestion pricing to flip this dynamic by charging a fee to drivers who can afford it and
+            providing discounts and exemptions for those who can't"
+            ^^^ THIS will require tracking people by identity group
+        "A full exemption for the lowest-income drivers, plus different discount levels for other low- and moderate-income drivers"
+            ^^ This incentivizes more driving for low-income, increasing disparaties they called out
+
+Old white men win gender discrimination suit against J Walter Thompson
+    https://www.theguardian.com/media/2021/jul/23/top-ad-men-who-feared-obliteration-win-sex-discrimination-claim
+    https://assets.publishing.service.gov.uk/media/60f7fe27d3bf7f568ffe880b/Mr_C_Bayfield__vs_J._Walter_Thompson_Group_Limited.pdf
+    In 2018, company published a "median gender pay gap" statistic of 45% in 2018
+        Appointed a female creative director to "fix" it
+            Jo Wallace, female, gay
+            diversity conference called "Crisis: The Mother of All Change"
+            “One thing we all agree on is that the reputation JWT once earned – as being full of white, British, privileged [men] – has to be obliterated.”
+    Chas Bayfield and Dave Jenner
+        both renowned creative directors.   Both over 50 males
+        After conference, sent memos to HR asking if their jobs were safe (spoiler: they weren't)
+        dragged into "hostile" meeting with Wallace and head of HR
+            Dismissed two days later in November 2018
+    Three other dismissed men settled out of court
+    Judgement ruling:
+        discrimination based on sex, victimisation, unfair dismissal, harassment
+        but not discrimination of age, sexorientation, or race
+    Judge ruled that JWT did violate the Equality Act of 2010
+        which protects people based on age, race, sex, orientation
+
+Chevy recalls 2017-2019 Bolt
+    https://www.cnbc.com/2021/07/23/gm-issues-second-recall-of-chevy-bolt-evs-after-vehicles-catch-fire.html
+    https://www.nhtsa.gov/press-releases/consumer-alert-important-chevrolet-bolt-recall-fire-risk
+    GM announced first recall in November 2020
+        because five spontaneously caught fire
+        "could be related to the high-voltage batteries"
+        Owners asked to go to dealers who would reflash software to limit max charge to 90%
+    Two Bolts that got that fix spontaneously burned in June 2021
+        due to a "rare manufacturing defect"
+        GM will replace defective battery modules - free to owners
+    Recalling about 69k cars - 51k in US
+    NHTSA urges owners to park cars outside and away from homes due to fire risk
+        also to download NHTSA app, enter your car's details, and it will push a notification in case of recall
+    Chevy asks customers to do:
+        http://www.chevy.com/boltevrecall
+        Use "Hilltop Reserve" mode (2017-2018) or "Target Charge" (2019) to max charge at 90%
+        Charge vehicle after each use and avoid depleting battery below 70mi remaining range
+        Continue to park cars outside
+
+Alienware computers can't ship to CA, CO, HI, OR, VT, WA
+    https://www.dell.com/en-us/shop/desktop-computers/sr/desktops/alienware-desktops
+    https://www.reddit.com/r/Alienware/comments/o0vfiv/r10_this_product_cannot_be_shipped_to_the_state/
+    New state regulations took effect July 1
+        max power usage while idle
+        Can no longer ship computer with SATA spindle drive due to "idle power leech"
+    https://news.ycombinator.com/item?id=27508780
+    https://www.dell.com/community/Customer-Care/Extremely-disappointed-with-Dell-Aurora-R8-Purchase/td-p/7404073
+WA regulation
+    https://apps.leg.wa.gov/rcw/default.aspx?cite=19.260&full=true
+    Legislature finds that these requirements
+        "save money on utility bills"
+        "Save energy and reduce pollution"
+        "Contribute to the economy of Washington by helping to better balance energy supply and demand"
+        "Help ensure renters have the same access to energy efficient appliances as homeowners."  == NONE
+    In effect starting 18 July
+    Applies to new products sold, offered, or installed in WA
+        water heaters, pool pumps, air compressors, fryers, dishwashers,
+        computers/monitors, lamps, air conditioners, showerheads,
+        UPS, urinals, ventilating fans, sprinklers
+    "Computers and computer monitors must meet the requirements in the California Code of Regulations, Title 20, 
+        section 1605.3(v) as amended on November 8, 2017"
+CA regulation
+    https://govt.westlaw.com/calregs/Document/IEEDE2D64EF7B4F168C0E85379828A8C2
+    "Desktop computers ... shall ... be shipped with power management settings that:"
+        "Transition the computer into either the computer sleep mode or computer off mode within 30 minutes of user inactivity."
+            minimum sleep mode power use specified
+        "2. Transition connected displays into sleep mode within 15 minutes of user inactivity."
+    long table of power use per component - memory/ethernet/display/disk/etc
+    in effect 1 July 2021
+        
+Colorado unemployment gated by 3rd party facial recognition
+    https://www.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
