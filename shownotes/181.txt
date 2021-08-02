@@ -1,0 +1,96 @@
+181
+
+2021-07-30
+
+where traffic laws are now optional
+where humanity is an extremist hate group
+
+Wrong-way driver on I-5
+    https://komonews.com/news/local/state-patrol-says-troopers-were-unable-to-pursue-wrong-way-driver-because-of-new-law
+    "vehicle driving erratically" refused to stop
+    Turned around on ramp, traveling wrong way.  Head-on collision
+    @wspd7pio: "Earlier today a Motors Trooper attempted to stop a vehicle south on I-5 in Everett for driving recklessly.
+        The vehicle did not stop and continued to drive erratically. The trooper was unable to pursue the vehicle and
+        the suspect continued driving recklessly."
+    "Under HB 1054, law enforcementcannot pursue a vehicle unless there is probable cause that someone in the vehicle 
+        is believed to have committed or is committing a violent or sex offense or if there is reasonable suspicion 
+        that the person is driving under the influence, among other reasons"
+WA HB 1054 - no pursuits - went into effect Sunday 25 July
+    Many police depts changing policy to not respond to mental health calls unless someone is in danger
+        because they interpret that they can't restrain people
+        cannot pursue a suspect leaving scene of crime (probable cause)
+    Allowed to defend self if suspect pulls a gun/knife/weapon, but "only as a last resort"
+    "officers responding to domestic violence calls to tell everyone on the scene to stay put, because police are 
+        investigating a crime. If a suspect then flees, the officers could arrest that person for obstruction"
+        So we're not allowed to arrest people for DV anymore, but "obstruction"
+            "obstruction" = a made-up crime
+    Explanatory article defers a lot to "the lead drafters" of the law for clarification what should and shouldn't be okay
+        https://www.kxly.com/what-was-new-police-accountability-laws-do-and-dont-do/
+        but it's not in the law!!!!  That's not how laws work
+
+Fire at Tesla Big Battery (AU)
+    https://www.theage.com.au/business/the-economy/g-20210730-p58eh4.html
+    Hornsdale Power Reserve at Hornsdale Wind Farm north of Adelaide
+        Huge bank of lithium ion batteries
+            Each one is 13 tons, size of a shipping container
+        Capacity of 450MWh of storage; can provide 300MW
+        used for load shifting
+    One module caught fire during testing 10am Friday
+        less than 24h after it went online
+    Toxic smoke warning issued
+
+German Federal Court of Justice rules against facebook on censorship
+    https://www.msn.com/en-ca/news/world/reuters/ar-AAMHFHc
+    Ruled FB's ToS regarding deletion of posts and blocking accounts are "null and void"
+        because FB doesn't inform user of takedown/block, they don't give a reason, and they don't offer an appeal
+    Post in question:
+        "Migrants can murder and rape here and nobody cares! It's about time the Office for the Protection of the Constitution sorted this out"
+        FB calls this hate speech
+        for that matter so does Reuters
+
+Paypal giving your purchase history to leftist hate group
+    https://www.rt.com/usa/530304-adl-paypal-defund-hate-deplatforming/
+    "Anti-Defamation League and PayPal have banded together to “fight extremism and hate”"
+        will also share what they learn with law enforcement, banking industry, and policymakers
+
+Google Maps Hack by Simon Weckert (Feb 2020)
+    https://www.vice.com/en/article/9393w7/this-man-created-traffic-jams-on-google-maps-using-a-red-wagon-full-of-phones
+    Rented 99 android phones with SIM, put them in a wagon, and pulled the wagon down streets of Berlin
+    Google maps showed a traffic jam
+
+Tutorials and security holes
+    https://waritschlager.de/sqlinjections-in-google-results.html
+    random find on HN
+    Googled for "php mysql email register" to find tutorials and code snippets
+    Analyzed code presented by 30 sites
+    16 of them contained SQL-injection vulnerabilities
+        "SELECT * FROM users WHERE email='$email' LIMIT 1";
+    https://xkcd.com/327/
+
+Craftjack survey of Work-from-home spaces
+    https://craftjack.com/toolbox/remote-work-from-home-statistics-2021/
+    Surveyed 1520 Americans working remotely June 16-25
+    91% have invested in *something* to improve space
+        57% of those were "buy a new chair"
+        51% desk, 42% headset, 35% monitor stand, 35% keyboard, plants, webcam, art, 12% ring light
+    71% in "improvised" workspaces
+        Room: 32% office, 31% bedroom, 23% family/living, 9% kitchen, 5% basement
+        45% work from a couch, 38% from a bed, 20% outdoors, 19% closet
+    Consequences: Unprofessionalism, RSI
+    69% have had uninvited guests on camera
+        43% pets; 37% children; 34% partners
+
+Intel stops shipping Itanium
+    https://honeypot.net/post/the-itanic-has-sunk/
+    Invented in 1994; never took off in 32-bit world
+        Intel wouldn't work on a Pentium-compatible 64bit processor because it would cannibalize Itanium
+    AMD launched Opteron in 2003 using AMD64.  Eventually Intel started making amd64 CPUs
+    HP discontinued Itanium mainfraims in 2015
+    Intel was contractually obligated to continue a few more years
+        Last itaniums were 32nm when all other processors are now 10, 7, or 5nm
+
+
+
+
+
+
